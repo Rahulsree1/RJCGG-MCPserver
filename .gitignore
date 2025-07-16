@@ -1,0 +1,17 @@
+# Python virtual environment folders
+env/
+.venv/
+venv/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Other typical ignores
+*.log
+*.sqlite3
+.DS_Store
