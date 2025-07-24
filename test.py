@@ -1,18 +1,10 @@
-from db import mess_dao
-import json
+from db import contacts_dao
 
-# mess_dao.create_mess_table()
+# contacts_dao.create_normalized_contact_directory_tables()
+# contacts_dao.insert_normalized_directory_csv("./contacts.csv")
 
-
-f = json.loads(open("./mess_menu.json").read())
-
-days = f.keys()
+# contacts_dao.create_view_table()
+data = contacts_dao.fuzzy_search_by_designation("dean students",threshold=0.7,limit=3)
 
 
-# for i in days:
-#     meal_types = f[i]
-#     for j in meal_types:
-#         items = f[i][j]
-#         mess_dao.add_menu_row(i,j,items)
-
-mess_dao.add_single_item_to_menu("Monday", "Dinner", "Roti")
+print(data)

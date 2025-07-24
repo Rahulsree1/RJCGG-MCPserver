@@ -1,10 +1,11 @@
-import Levenshtein
 import sqlite3
+
+import Levenshtein
+
 import os
 import sys
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
-from mcp_instance import mcp
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
 
 def search_fuzzy_name_columns_sorted(db_path, search_value, threshold=0.7):
@@ -73,11 +74,4 @@ def search_fuzzy_name_columns_sorted(db_path, search_value, threshold=0.7):
     return results[:3] if len(results) > 3 else results
 
 
-
-@mcp.tool()
-def infoOfperson(name: str):
-    """Give contact details of people working at IIT Mandi,
-      Professor's and staff, it takes only the name of person as augument.
-        it for all types of names"""
-
-    return search_fuzzy_name_columns_sorted("./condatabase.db", name)
+print(search_fuzzy_name_columns_sorted("./condatabase.db", "src", 0.7))
