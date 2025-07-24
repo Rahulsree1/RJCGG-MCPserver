@@ -60,6 +60,9 @@ def get_items_by_day_and_meal(day: str, meal_type: str) -> list[str]:
         return_connection(conn)
 
 
+
+
+
 def get_menu_by_day(day: str) -> list[tuple[str, list[str]]]:
     """
     Returns a list of (meal_type, items) for the given day.
@@ -99,6 +102,9 @@ def create_mess_table():
             conn.commit()
     finally:
         return_connection(conn)
+
+
+
 
 
 def delete_menu_item(day: str, meal_type: str):

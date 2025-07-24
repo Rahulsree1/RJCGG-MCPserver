@@ -4,13 +4,10 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from datetime import datetime
 import pytz
-from fastmcp import FastMCP
-
-
-mcp = FastMCP('DateTime')
-
+from mcp_instance import mcp
 
 IST = pytz.timezone("Asia/Kolkata")
+
 
 @mcp.tool()
 def CurrentDate() -> str:

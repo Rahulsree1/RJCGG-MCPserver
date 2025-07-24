@@ -1,6 +1,4 @@
-from mcp.server.fastmcp import FastMCP
-
-mcp = FastMCP.instance()
+from mcp_instance import mcp
 
 @mcp.tool()
 def busSchedule(location: str) -> str:

@@ -11,7 +11,7 @@ client = genai.Client(api_key="AIzaSyA4A87j7bw4eUEz3lxFjfoKXS1jE4kSxNk")
 # Create server parameters for stdio connection
 server_params = StdioServerParameters(
     command="npx",  # Executable
-    args=["-y", "http://localhost:1729"],  # MCP Server
+    args=["mcp-remote", "http://localhost:1729/mcp/"],  # MCP Server
     env=None,  # Optional environment variables
 )
 
