@@ -22,7 +22,9 @@ def detailsOfperson(name: str):
 
     """
 
-    return merge_contacts_sorted_by_designation(contacts_dao.fuzzy_search_contact_by_name(name, 0.5, 3))
+    retrivedData = merge_contacts_sorted_by_designation(contacts_dao.fuzzy_search_contact_by_name(name, 0.5, 3))
+
+    return "No data has been found for given name" if len(retrivedData) == 0  else retrivedData
 
 
 @mcp.tool()
@@ -32,7 +34,9 @@ def detailsByDesignation(designation: str):
     It accepts partial or full designation titles (like 'Dean', 'Professor', 'Assistant Registrar', etc.)
     and returns the top fuzzy-matched contact details from the directory.
     """
-    return contacts_dao.fuzzy_search_by_designation(designation, 0.6, 3)
+    retrivedData = contacts_dao.fuzzy_search_by_designation(designation, 0.6, 3)
+
+    return "No data has been found for given designation" if len(retrivedData) == 0  else retrivedData
 
 
 
@@ -47,7 +51,9 @@ def detailsBySection(section: str):
     """
 
 
-    return contacts_dao.fuzzy_search_by_section(section, 0.7, 5)
+    retrivedData =  contacts_dao.fuzzy_search_by_section(section, 0.7, 5)
+
+    return "No data has been found for given section" if len(retrivedData) == 0  else retrivedData
 
 
 
@@ -67,7 +73,9 @@ def detailsByDesignationAndSection(designation: str, section: str):
     And it will return the most relevant matches ranked by combined similarity.
     """
 
-    return contacts_dao.fuzzy_search_by_designation_and_section(designation, section, 0.7, 5)
+    retrivedData =  contacts_dao.fuzzy_search_by_designation_and_section(designation, section, 0.7, 5)
+
+    return "No data has been found for given designation and section" if len(retrivedData) == 0  else retrivedData
 
 
 
