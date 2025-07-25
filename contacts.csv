@@ -1,322 +1,512 @@
 name,designation,email,office,Phone(Extention),school/section
-Vivek Tiwari,Deputy Registrar;Deputy Registrar,dradmin;drdir,A9-2nd Floor;North Campus;4th Floor;Innovation Centre;A-9 building;North Campus,267010;267777,Administration and Establishment Section;Director Office
-Vineet,Junior Superintendent;Junior Superintendent,jsadmin;vineet;jsrecruit;vineet,A9-2nd Floor;North Campus;A9-2nd Floor;North Campus,267026;267026,Administration and Establishment Section;Staff Recruitment Section
-Balbir,Junior Assistant,balbirsingh;adminoa1,A9-2nd Floor;North Campus,267037,Administration and Establishment Section
-Kuldeep,Senior Assistant;Senior Assistant,kuldeep;staffrecruit;kuldeep,A9;2nd Floor North Campus;A9;2nd Floor North Campus,267037;267026,Administration and Establishment Section;Staff Recruitment Section
-Sanjay Kumar,Office Attendant,sanjayk,A9-2nd Floor;North Campus,267037,Administration and Establishment Section
-Aditi Halder,coordinator;Professor,chairamrc;aditi,A4-205;South Campus;A4-205;South Campus,267139;267139.0,Advanced Materials Research Center (AMRC);School of Chemical Sciences
-Ishita Nandi,Technical Officer,isita;amrcoffice,A2-101;South Campus,267027,Advanced Materials Research Center (AMRC)
-Puneet Sood,Junior Technical Superintendent,puneetsood,A2-101;South Campus,267027,Advanced Materials Research Center (AMRC)
-Arjun Barwal,Junior Technical Superintendent,arjunbarwal,A2-101;South Campus,267027,Advanced Materials Research Center (AMRC)
-Naveen Kumar,Junior Lab Assistant;Associate (Communication;Website & SEO),naveenkumar;naveen@ihubiitmandi.in,A2-101;South Campus;iHub Office;LP01;Near Mind Tree School;North Campus,267027;9805420430,Advanced Materials Research Center (AMRC);IIT Mandi i-Hub & HCI
-Sunil Kumar,Project Associate;Lab Technician;Carpenter;Junior Assistant,sunilkumar.qc@gmail.com;sunilk;suniliitmandi@gmail.com;sunil_k,A2-108;South Campus;Geotechnical Lab;Central Mechanical Workshop (A14;Ground Floor;North Campus);Room No - 400;3rd Floor;A7 Building;South Campus,267027;267018.0;267812.0,Advanced Materials Research Center (AMRC);School of Civil & Environmental Engineering;School of Mechanical & Materials Engineering;School of Physical Sciences
-Karam Singh,Lab Attendent,karamsingh.iitmandi@gmail.com,A2-101;South Campus,267027,Advanced Materials Research Center (AMRC)
-Satvasheel Ramesh Powar,Associate Dean (SRIC);Dean (F & A);Dean (F & A);Associate Professor,adsric;deanfinance;deanfinance;satvasheel,A4-203;South Campus;2nd Floor;Innovation Centre;A-9 building;North Campus;A9-2nd Floor;North Campus;A11.04.06,267136;267166;267166.0;267136.0,Associate Deans;Deans;Finance and Accounts;School of Mechanical & Materials Engineering
-Maheshreddy Gade,Associate Dean (Research);Associate Professor,adresearch;maheshreddy,A4-309;South Campus;A11-05-011;North Campus,267753;267722.0,Associate Deans;School of Civil & Environmental Engineering
-P. Anil Kishan,Associate Dean (Courses);Associate Professor(Chairperson),adcourses;chairsmme;kishan,A4-207;South Campus;A11.03.32 North Campus,267930;267264.0,Associate Deans;School of Mechanical & Materials Engineering
-Parmod Kumar,Associate Dean (Infrastructure & Services);Associate Professor,parmod;parmod,A11.04.40 North Campus,267858;267858.0,Associate Deans;School of Mechanical & Materials Engineering
-Sunny Zafar,Associate Dean (Faculty);Associate Dean (Faculty);Associate Professor,adfaculty;adfaculty;sunnyzafar,A11.4.11;North Campus;A11.4.11;North Campus,267268;267268.0;267268.0,Associate Deans;Faculty Establishment and Recruitment;School of Mechanical & Materials Engineering
-Atul Dhar,Associate Dean (Finance & Accounts);Associate Dean (F& A);Professor,adfinance;adfinance;add,A4-209;South Campus;A4-209;South Campus;A11.04.56 North Campus,267143;267143.0;267143.0,Associate Deans;Finance and Accounts;School of Mechanical & Materials Engineering
-C S Yadav,Chairperson,chaircqst,A6-9;South Campus,267258.0,Center for Quantum Science and Technologies (CQST)
-Jaskaran Singh Nirankari,Assistant Professor,jaskaran,CQST Centre;A14,,Center for Quantum Science and Technologies (CQST)
-Amit Dattatraya Lad,Associate Professor,amitdlad,(CQST)Centre;A14,,Center for Quantum Science and Technologies (CQST)
-Arvind Thapliyal,Junior Assistant,arvindthapliyal,A14;3rd floor North Campus,267899.0,Center for Quantum Science and Technologies (CQST)
-Tushar Jain,Head CCE;Dean (Students);Associate Professor,headcce;deanstudents;tushar,CCE office;first floor;auditorium complex;north campus;Ground Floor;A9 building;North Campus;A17.02.03;North Campus,267787;267062;267920.0,Centre for Continuing Education (CCE);Deans;School of Computing & Electrical Engineering
-Pavin Samuel,Junior Superintendent,pavin,CCE office;first floor;auditorium complex;north campus,267742,Centre for Continuing Education (CCE)
-Aakash Gautam,JLA (Tech),aakashgautam,CCE Office;First Floor;Auditorium Complex;North Campus,267742,Centre for Continuing Education (CCE)
-Amit Kumar,Junior Assistant,amit_kumar,CCE office;first floor;auditorium complex;north campus,267742,Centre for Continuing Education (CCE)
-Rakesh Kumar,Office Assistant;Assistant Professor;Junior Technical Superintendent,cceoffice;rakesh;rakeshkumar,CCE office;first floor;auditorium complex;north campus;Central Mechanical Workshop (A14;Ground Floor;North Campus),267788;267017.0,Centre for Continuing Education (CCE);School of Mathemathical & Statistical Sciences;School of Mechanical & Materials Engineering
-Ram Lal,Attendent,sharmaramlal33@gmail.com,CCE office;first floor;auditorium complex;north campus,267788,Centre for Continuing Education (CCE)
-Amit Shukla,Chairperson,amitshukla,A-11 4th Floor North Campus,267704.0,Centre of Artificial Intelligence and Robotics (CAIR)
-Dipankar Deb,Professor,dipankar,,,Centre of Artificial Intelligence and Robotics (CAIR)
-Radhe Shyam Sharma,Assistant Professor;Assistant Professor,radheshyam;radheshyam,A17.02.12;North Campus;A17.02.12;North Campus,267273.0;267273.0,Centre of Artificial Intelligence and Robotics (CAIR);School of Computing & Electrical Engineering
-Jagadeesh Kadiyam,Assistant Professor,jagadeesh,A11.04.03;North Campus,267736.0,Centre of Artificial Intelligence and Robotics (CAIR)
-Narendra Kumar Dhar,Assistant Professor;Assistant Professor,narendra;narendra,A17.02.11;North Campus;A17.02.11;North Campus,,Centre of Artificial Intelligence and Robotics (CAIR);School of Computing & Electrical Engineering
-Praful Tejerao Hambarde,Assistant Professor,praful,,,Centre of Artificial Intelligence and Robotics (CAIR)
-Abhay Pratap Singh,Junior Technical Superintendent,abhaypratap,A11 4th floor;North Campus,,Centre of Artificial Intelligence and Robotics (CAIR)
-Shivkamal,Attendant,,,,Centre of Artificial Intelligence and Robotics (CAIR)
-Shyam Kumar Masakapalli,Dean(SRIC);Professor,deansric;shyam,4th Floor;Innovation Centre;A9 Building;North Campus;A4-305;South Campus,267914;267151.0,Deans;School of Biosciences & Bio Engineering
-Sandip Kumar Saha,Dean(I & S);Associate Professor,deaninfra;sandip_saha,3rd Floor;Innovation Centre;A-9 building;North Campus;A11-05-04;North Campus,267278;267907.0,Deans;School of Civil & Environmental Engineering
-Aniruddha Chakraborty,Dean Academics;Professor,deanacad;achakraborty,A1-320;South Campus;A11.04.10 (North Campus),267067;267067.0,Deans;School of Chemical Sciences
-Rahul Vaish,Dean (Faculty);Dean (Faculty);Professor,deanfaculty;deanfaculty;rahul,1st Floor;A9 Building;North Campus;A9;1st Floor;North Campus;A11.04.37 North Campus,267819;267819.0;267135.0,Deans;Faculty Establishment and Recruitment;School of Mechanical & Materials Engineering
-Varun Dutt,Dean (Resource Generation & Alumni Relations);Chairperson;Professor,dora;chairrc;varun,3rd Floor;Innovation Centre;A-9 building;North Campus;A9-4th Floor;North Campus;A17-03-01;North Campus,267047;267150.0,Deans;Ranking Cell (RC);School of Computing & Electrical Engineering
-Padmanabhan Rajan,Dean (Digital and Computing Services);Associate Professor,deandcs;padman,DCS Office;Near Mechanical Workshop;South Campus;A17.03.12;North campus,267011;267994.0,Deans;School of Computing & Electrical Engineering
-Laxmidhar Behera,Director,director,4th Floor;Innovation Centre;A-9 building;North Campus,267001,Director Office
-Nishant Kumar,Senior Assistant,nishant;diroffice,4th Floor;Innovation Centre;A-9 building;North Campus,267001/7002,Director Office
-Manoj Kumar,Attendant (Multi Skilled),manojkumar,4th Floor;Innovation Centre;A-9 building;North Campus,267002,Director Office
-Shyam Singh,Driver,shyamsingh,4th Floor;Innovation Centre;A-9 building;North Campus,267002,Director Office
-Suchetna Shachi,Junior Superintendent,suchetnaja,A9;1st Floor;North Campus,267004.0,Faculty Establishment and Recruitment
-Anuj Kumar Dubey,Assistant Registrar;Assistant Registrar,arfe;arrc,A9-3rd Floor;North Campus;A9-4th Floor;North Campus,267944.0,Faculty Establishment and Recruitment;Ranking Cell (RC)
-Prakash Negi,Senior Assistant,prakash,A9;1st Floor;North Campus,267819.0,Faculty Establishment and Recruitment
-Sameem Khan,Junior Assistant,sameemkhan,A9;1st Floor;North Campus,267217.0,Faculty Establishment and Recruitment
-Khem Singh Guleria,Office Assistant,adminoa2,A9;1st Floor;North Campus,267217.0,Faculty Establishment and Recruitment
-Vijay Kumar,Attendant,,A9;1st Floor;North Campus,,Faculty Establishment and Recruitment
-Parminder Jit,Deputy Registrar,drfa,A9-2nd Floor;North Campus,267128.0,Finance and Accounts
-Girish Pal,Junior Superintendent,girishpal,A9-2nd Floor;North Campus,267991.0,Finance and Accounts
-Vikram Jeet,Senior Accountant,vikramjeet,A9-2nd Floor;North Campus,267992.0,Finance and Accounts
-Kartik Kapoor,Junior Accountant,kartikkapoor;accountsoa2,A9-2nd Floor;North Campus,267993.0,Finance and Accounts
-Damini Jain,Junior Accountant,daminijain,A9-2nd Floor;North Campus,267177.0,Finance and Accounts
-Hritika Jain,Junior Accountant,hritikajain,A9-2nd Floor;North Campus,267989.0,Finance and Accounts
-Karan Patar,Junior Accountant,karanpatar,A9-2nd Floor;North Campus,267992.0,Finance and Accounts
-Manish Kumar,Junior Accountant,manishkumar,A9-2nd Floor;North Campus,267012.0,Finance and Accounts
-Tara Devi,Office Assistant,accountsoa1,A9-2nd Floor;North Campus,267990.0,Finance and Accounts
-Kailash Pal,Office Assistant,kailashpal19912@gmail.com,A9-2nd Floor;North Campus,,Finance and Accounts
-Devinder Kumar,Attandent,,A9-2nd Floor;North Campus,,Finance and Accounts
-Munshi Ram,Attandent,,A9-2nd Floor;North Campus,,Finance and Accounts
-Venkata Krishnan,Project Director;Professor,vkn;pd@ihubiitmandi.in;vkn,A17.03.01;North Campus;A3-208;South Campus,267150;267065.0,IIT Mandi i-Hub & HCI;School of Chemical Sciences
-Somjit Amrit,Chief Executive Officer,ceo@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,9108922990,IIT Mandi i-Hub & HCI
-Volga Verma,General Manager,volga@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,7807114921,IIT Mandi i-Hub & HCI
-Gaurav Jaiswal,Faculty Fellow,gaurav@ihubiitmandi.in,A17 (North Campus);Second Floor IIT Mandi iHub and HCI Foundation,,IIT Mandi i-Hub & HCI
-Anuj Nandanwar,Faculty Fellow,anuj@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,8989021051,IIT Mandi i-Hub & HCI
-Kulbhushan,Post Doctoral Fellow,kulbhushan@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,7696528377,IIT Mandi i-Hub & HCI
-Dileep G,Post Doctoral Fellow,dileep@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,7900790619,IIT Mandi i-Hub & HCI
-Akash Rao,Doctoral Fellow,akashk_rao@projects.iitmandi.ac.in,iHub Office;LP01;Near Mind Tree School;North Campus,7807573768,IIT Mandi i-Hub & HCI
-Avnish,Manager (Finance;Administration and Procurement),Avnish@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,9882237475,IIT Mandi i-Hub & HCI
-Shrawan Kumar,Project Manager (Finance & Accounts),shrawan@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,6205447677,IIT Mandi i-Hub & HCI
-Ankush Pathania,Senior Associate,ankush@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,7018242838,IIT Mandi i-Hub & HCI
-Sahil Jaglan,Associate (Business Development),sahil@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,"9179417471, 9467681702",IIT Mandi i-Hub & HCI
-Khem Chand,Associate (Skill Development),,iHub Office;LP01;Near Mind Tree School;North Campus,7986619504,IIT Mandi i-Hub & HCI
-Sonmati Verma,Associate (Research & Development),sonmati@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,7007158637,IIT Mandi i-Hub & HCI
-Rahul Sharma,Member Technology;CEO Office,rahul@ihubiitmandi.in,ihub office;LP 01;Near Mindtree school NC,,IIT Mandi i-Hub & HCI
-Deepak Chauhan,Technical Assistant,deepak@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,9805549992,IIT Mandi i-Hub & HCI
-Ankush,Graphic Designer,,iHub Office;LP01;Near Mind Tree School;North Campus,,IIT Mandi i-Hub & HCI
-Basant Kaur,Junior Assistant (Administration),basant@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,6230238202,IIT Mandi i-Hub & HCI
-Anjna Pathania,Junior Accountant,anjna@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,,IIT Mandi i-Hub & HCI
-Printi Thakur,Office Assistant,printi@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,8219743754,IIT Mandi i-Hub & HCI
-Meena Kumari,Attendant,meena@ihubiitmandi.in,iHub Office;LP01;Near Mind Tree School;North Campus,,IIT Mandi i-Hub & HCI
-Arnav Bhavsar,Chairperson,arnav,A11-05-20;North Campus,267115.0,IKSMHA Center
-Ramajayam Govindaraji,Assistant Professor,ramajayam,A17-02-21;North Campus,,IKSMHA Center
+Venkatesh H Chembrolu,Dean Academics;Dean Academics,deanacad;deanacad,"A9, North Campus;A9, North Campus",267067.0;267067,Academics Section;Deans
+Maheshreddy Gade,Associate Dean (Research);Associate Dean (Research);Associate Professor;Associate Professor,adresearch;adresearch;maheshreddy;maheshreddy,"A9, North Campus;A4-309, South Campus;A11-05-011, North Campus;A11-05-011, North Campus",267753.0;267753;267722.0;267722.0,Academics Section;Associate Deans;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Himanshu Pathak,Associate Dean (Courses);Associate Dean (Courses);Chairperson;Associate Professor;Associate Professor,adcourses;adcourses;himanshu;himanshu;himanshu,"A9, North Campus;A4-207, South Campus;A-11.04.28, North Campus;A-11.04.28, North Campus;A-11.04.28, North Campus",267930.0;267930;267947;267947;267947,Academics Section;Associate Deans;GATE;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Suresh Rohilla,Deputy Registrar (Academics);Deputy Registrar (Academics);Deputy Registrar;Deputy Registrar (Academics);Deputy Registrar (Academics),dracad;dracad;draudit;dracad;dracad,"A9, North Campus;A9,First floor North Campus;A9, 4th Floor, North Campus;A7, North Campus;A7, North Campus",267058.0;267058;267910;267058;267058,Academics Section;GATE;Internal Audit   Legal Section;JAM;JEE CELL
+Shubham Jain,Assistant Registrar;Assistant Registrar,aracad;shubhamjain,"A9, North Campus;A9, 2nd Floor, North Campus",;267015,Academics Section;Staff Recruitment Section
+Vishal Parmar,Junior Superintendent;Junior Superintendent,vishalparmar;vishalparmar,"A9, North Campus;A7, North Campus",267755.0;267063 267260,Academics Section;JEE CELL
+Sonia Gupta,Junior Superintendent;Junior Superintendent;Junior Superintendent,acadoffice;acadoffice;acadoffice,"A9, North Campus;A9-First Floor, North Campus;A7, North Campus",267073.0;267073;267063,Academics Section;GATE;JAM
+Mukesh Kumar,Junior Assistant;Field Supervisor (For South Campus);Junior Assistant,"mukeshkumar, acadoa2;;mukeshkumar,acadoa2","A9, North Campus;;A9, North Campus",267754.0;;267754,Academics Section;Housekeeping Services   Waste Management;JEE CELL
+Vaibhav,Junior Assistant;Junior Assistant,vaibhav;vaibhav,"A9, North Campus;A9, North Campus",267754.0;267754,Academics Section;GATE
+Maninderjeet,Junior Assistant,maninderjeet,"A9, North Campus",267754.0,Academics Section
+Manju Yadav,Junior Assistant,manjuyadav,"A9, North Campus",267063.0,Academics Section
+Dileep Kumar,Junior Assistant,dileepkumar,"A9, North Campus",267063.0,Academics Section
+Rakhi Verma,Office Assistant;Office Assistant,rakhioa;rakhioa,"A9, North Campus;A9, North Campus",267063.0;267063,Academics Section;JAM
+Anuj Thakur,Office Assistant,anujthakur,"A9, North Campus",267754.0,Academics Section
+Narender,Office Attendant;Office Attendant,narender;narender,"A9, North Campus;A7, North Campus",267754.0;267063,Academics Section;JEE CELL
+Vivek Tiwari,Deputy Registrar;Deputy Registrar;Deputy Registrar;Deputy Registrar,dradmin;dradmin;drdir;dradmin,"A9-2nd Floor, North Campus;A9-2nd Floor, North Campus;4th Floor, Innovation Centre, A-9 building, North Campus;A9-2nd Floor, North Campus",267010;267010;267777;267272,Administration and Establishment Section;Central Dak Section;Director Office;Guest House
+Vineet,Junior Superintendent;Junior Superintendent,"jsadmin, vineet;jsrecruit,vineet","A9-2nd Floor, North Campus;A9-2nd Floor, North Campus",267026;267026,Administration and Establishment Section;Staff Recruitment Section
+Balbir,Junior Assistant,"balbirsingh, adminoa1","A9-2nd Floor, North Campus",267037,Administration and Establishment Section
+Kuldeep,Senior Assistant;Senior Assistant,"kuldeep;staffrecruit,kuldeep","A9,2nd Floor North Campus;A9,2nd Floor North Campus",267037;267026,Administration and Establishment Section;Staff Recruitment Section
+Sanjay Kumar,Office Attendant;Senior Accountant,sanjayk;sanjay,"A9-2nd Floor, North Campus;A9-4th Floor, North Campus",267037;267988,Administration and Establishment Section;Dean  SRIC   IR   Office
+Aditi Halder,coordinator;coordinator;Professor,chairamrc;chairamrc;aditi,"A4-205, South Campus;A4-205, South Campus;A4-205, South Campus",267139;267139;267139.0,Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC ;School of Chemical Sciences
+Ishita Nandi,Technical Officer;Technical Officer,"isita, amrcoffice;isita, amrcoffice","A2-101, South Campus;A2-101, South Campus",267027;267027,Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC 
+Puneet Sood,Junior Technical Superintendent;Junior Technical Superintendent,puneetsood;puneetsood,"A2-101, South Campus;A2-101, South Campus",267027;267027,Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC 
+Arjun Barwal,Junior Technical Superintendent;Junior Technical Superintendent,arjunbarwal;arjunbarwal,"A2-101, South Campus;A2-101, South Campus",267027;267027,Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC 
+Naveen Kumar,"Junior Lab Assistant;Junior Lab Assistant;Associate (Communication, Website & SEO);Associate (Communication, Website & SEO)",naveenkumar;naveenkumar;naveen@ihubiitmandi.in;naveen@ihubiitmandi.in,"A2-101, South Campus;A2-101, South Campus;iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",267027;267027;9805420430;9805420430,Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC ;IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Sunil Kumar,Project Associate;Project Associate;Housekeeping Supervisor;Lab Technician;Lab Technician;Carpenter;Carpenter;Junior Assistant,sunilkumar.qc@gmail.com;sunilkumar.qc@gmail.com;supervisorgh;sunilk;sunilk;suniliitmandi@gmail.com;suniliitmandi@gmail.com;sunil_k,"A2-108, South Campus;A2-108, South Campus;CV Raman Guest House, NC;Geotechnical Lab;Geotechnical Lab;Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus);Room No - 400, 3rd Floor, A7 Building,South Campus","267027;267027;267848 ,267847;;;267018;267018;267812.0",Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC ;Guest House;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering;School of Physical Sciences
+Karam Singh,Lab Attendent;Lab Attendent,karamsingh.iitmandi@gmail.com;karamsingh.iitmandi@gmail.com,"A2-101, South Campus;A2-101, South Campus",267027;267027,Advanced Materials Research Center (AMRC);Advanced Materials Research Center  AMRC 
+Satvasheel Ramesh Powar,Associate Dean (SRIC);Dean (F & A);Associate Dean (SRIC);Dean (F & A);Faculty Incharge and Director Incubation;Associate Professor;Associate Professor,adsric;deanfinance;adsric;deanfinance;satvasheel@iitmandicatalyst.in;satvasheel;satvasheel,"A4-203, South Campus;2nd Floor, Innovation Centre, A-9 building, North Campus;A9-4th Floor, North Campus;A9-2nd Floor, North Campus;Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP;A11.04.06;A11.04.06",267136;267166;267136;267166.0;;267136;267136,Associate Deans;Deans;Dean  SRIC   IR   Office;Finance and Accounts;IIT Mandi Catalyst;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Parmod Kumar,Associate Dean (Infrastructure & Services);Associate Dean (Infrastructure & Services);Associate Professor;Associate Professor,parmod;parmod;parmod;parmod,;;A11.04.40 North Campus;A11.04.40 North Campus,267858;267858;267858;267858,Associate Deans;Dean Infrastructure  I S  Land Acquisition;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Sunny Zafar,Associate Dean (Faculty);Associate Dean (Faculty);Associate Professor;Associate Professor,adfaculty;adfaculty;sunnyzafar;sunnyzafar,"A11.4.11, North Campus;;A11.4.11, North Campus;A11.4.11, North Campus",267268;267268.0;267268;267268,Associate Deans;Faculty Establishment and Recruitment;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Atul Dhar,Associate Dean (Finance & Accounts);Associate Dean (F& A);Professor;Professor,adfinance;adfinance;add;add,"A4-209, South Campus;A4-209, South Campus;A11.04.56 North Campus;A11.04.56 North Campus",267143;267143.0;267143;267143,Associate Deans;Finance and Accounts;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+PNB Bank,PNB Bank (IIT Branch),,South Campus Kamand,267094,Banks
+SBI Bank,SBI Bank (IIT Branch),,South Campus Kamand,267093,Banks
+Bhaskar Mondal,Warden;Associate Professor,warden_beaskund;bhaskarmondal,"A8-F7, South Campus;A4-202 (South Campus)",267828.0;267828.0,Beas Kund Hostel;School of Chemical Sciences
+Ashutosh Kumar,Assistant Warden;Assistant Professor;Assistant Professor,asstwarden_beaskund;ashutosh;ashutosh,"A11-05-039, North Campus;A11-05-039, North Campus;A11-05-039, North Campus",267825.0;267825.0;267825.0,Beas Kund Hostel;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Varun Sharma,Resident warden,D21029@students.iitmandi.ac.in,,,Beas Kund Hostel
+Narender Pandit,Caretaker,caretaker_beaskund,"B-1, Hostel",267253.0,Beas Kund Hostel
+Hostel Office B23,,,Hostel Office B23,267253.0,Beas Kund Hostel
+Warden Office B-14 Gamma,,,,,Beas Kund Hostel
+Kala Venkata Uday,Advisor (CnP Cell);Associate Professor;Associate Professor,advisorcnp;uday;uday,"A17.02.03, North Campus;A11-05-13, North Campus;A11-05-13, North Campus",267006;267703.0;267703.0,Career   Placement Cell;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Rahul Shrestha,Associate Professor;Associate Professor;Associate Professor,advisor_tni;rahul_shrestha;rahul_shrestha,"A17.03.21, North Campus;A17.03.21, North Campus;A17.03.21, North Campus",267271;267271.0;267271.0,Career   Placement Cell;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Veomesh Rawat,Junior Superintendent;Junior Superintendent,veomeshrawat;veomeshrawat,"A9-4th Floor, North Campus;A9-4th Floor, North Campus",;,Career   Placement Cell;Media Cell
+Nimisha,Career and Placement Executive,nimisha,Bamboo Hut- Block-D,"267005, 267006",Career   Placement Cell
+Ravinder Kumar,Office Assistant;Office Assistant,cnpcell;caretaker_nako,"A6-5, SC;South Campus",267006;,Career   Placement Cell;Nako Hostel
+CnP Office,,cnpoffice,,,Career   Placement Cell
+C S Yadav,Chairperson;Chairperson,chaircqst;chaircqst,"A6-9, South Campus;A6-9, South Campus",267258.0;267258.0,Center for Quantum Science and Technologies (CQST);Center for Quantum Science and Technologies  CQST 
+Amit Dattatraya Lad,Associate Professor;Associate Professor,amitdlad;amitdlad,"(CQST)Centre, A14;(CQST)Centre, A14",;,Center for Quantum Science and Technologies (CQST);Center for Quantum Science and Technologies  CQST 
+Jaskaran Singh Nirankari,Assistant Professor;Assistant Professor,jaskaran;jaskaran,"CQST Centre, A14;CQST Centre, A14",;,Center for Quantum Science and Technologies (CQST);Center for Quantum Science and Technologies  CQST 
+Vaibhav Gupta,Assistant Professor;Assistant Professor,vaibhavgupta;vaibhavgupta,"A14, North Campus;A14, North Campus",;,Center for Quantum Science and Technologies (CQST);Center for Quantum Science and Technologies  CQST 
+Arvind Thapliyal,Junior Assistant;Junior Assistant,arvindthapliyal;arvindthapliyal,"A14, 3rd floor North Campus;A14, 3rd floor North Campus",267899.0;267899.0,Center for Quantum Science and Technologies (CQST);Center for Quantum Science and Technologies  CQST 
+Aditya,Senior Assistant,adityam,"A9, Ground Floor Campus",267085,Central Dak Section
+Adesh Kumar Kagra,Attendent,cds,"Bamboo Hut, South Campus",267188,Central Dak Section
+Bhupinder Kushal,Attendent,cds,"A9,Ground Floor North Campus",267085,Central Dak Section
+Naresh Singh Bhandari,Deputy Librarian,nsbhandari,"A16-Ground Floor,North Campus",267059,Central Library
+Abhijeet Tiwari,ALIO,abhijeet,"A16-Ground Floor,North Campus",267106,Central Library
+Sonali Malhotra,SLIA,sonali,"A16-First Floor,North Campus",267933,Central Library
+Jitendra Namdev,ALIO,jitendra,"A16,-Top Floor, North Campus",267934,Central Library
+Shradha Thakur,Library Assistant,shradhathakur,"A16-Top Floor,North Campus",267105,Central Library
+Santosh Kumar,Library Trainee,santoshkumar150297@gmail.com,"A16-Ground Floor, North Campus",267931,Central Library
+Ajeet Singh,Library Attendant,ajeetsinghthakur1987@gmail.com,"A16-Ground Floor, North Campus",267931,Central Library
+Tilak Raj,Library Attendant;Junior Superintendent;Junior Superintendent,thakurdj78070@gmail.com;tilakraj;tilakraj,"A16-Ground Floor, North Campus;Ground Floor, A9 building, North Campus;Ground Floor, A9 building, North Campus",267931;267016.0;267016,Central Library;Dean  Students  Office;Office of Chief Warden
+Sanjay,Attendant,,,267931,Central Library
+Ajay Kumar,Caretaker;Project Technician;Office Attendent;Junior Lab Assistant;Junior Lab Assistant,caretaker_mess;ajayverma@projects..iitmandi.ac.in;;ajaykumar;ajaykumar,";A1 NKN Control Room, South Campus;A3, South campus First floor 209, SCS;A 14;A 14",;267052.0;267277.0;267719.0;267719.0,Central Mess;DIGITAL AND COMPUTING SERVICES;School of Chemical Sciences;School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Tushar Jain,Head CCE;Head CCE;Dean (Students);Dean (Students);Associate Professor;Associate Professor,headcce;headcce;deanstudents;deanstudents;tushar;tushar,"CCE office, first floor, auditorium complex, north campus;CCE office, first floor, auditorium complex, north campus;Ground Floor, A9 building, North Campus;Ground Floor, A9 building, North Campus;A17.02.03, North Campus;A17.02.03, North Campus",267787;267787;267062;267062.0;267920.0;267920.0,Centre for Continuing Education (CCE);Centre for Continuing Education  CCE ;Deans;Dean  Students  Office;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Pavin Samuel,Junior Superintendent;Junior Superintendent,pavin;pavin,"CCE office, first floor, auditorium complex, north campus;CCE office, first floor, auditorium complex, north campus",267742;267742,Centre for Continuing Education (CCE);Centre for Continuing Education  CCE 
+Aakash Gautam,JLA (Tech);JLA (Tech),aakashgautam;aakashgautam,"CCE Office, First Floor, Auditorium Complex, North Campus;CCE Office, First Floor, Auditorium Complex, North Campus",267742;267742,Centre for Continuing Education (CCE);Centre for Continuing Education  CCE 
+Amit Kumar,Junior Assistant;Junior Assistant;Junior Lab Assistant,amit_kumar;amit_kumar;amit_k,"CCE office, first floor, auditorium complex, north campus;CCE office, first floor, auditorium complex, north campus;A1 NKN Control Room, South Campus",267742;267742;267052.0,Centre for Continuing Education (CCE);Centre for Continuing Education  CCE ;DIGITAL AND COMPUTING SERVICES
+Rakesh Kumar,Office Assistant;Office Assistant;Assistant Professor;Assistant Professor;Junior Technical Superintendent;Junior Technical Superintendent,cceoffice;cceoffice;rakesh;rakesh;rakeshkumar;rakeshkumar,"CCE office, first floor, auditorium complex, north campus;CCE office, first floor, auditorium complex, north campus;;;Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267788;267788;;;267017;267017,Centre for Continuing Education (CCE);Centre for Continuing Education  CCE ;School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Ram Lal,Attendent;Attendent,sharmaramlal33@gmail.com;sharmaramlal33@gmail.com,"CCE office, first floor, auditorium complex, north campus;CCE office, first floor, auditorium complex, north campus",267788;267788,Centre for Continuing Education (CCE);Centre for Continuing Education  CCE 
+Amit Shukla,Chairperson;Chairperson,"chair_cair,amitshukla;chair_cair,amitshukla",A-11 4th Floor North Campus;A-11 4th Floor North Campus,267704.0;267704.0,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Dipankar Deb,Professor;Professor,dipankar;dipankar,;,;,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Radhe Shyam Sharma,Assistant Professor;Assistant Professor;Warden;Assistant Professor;Assistant Professor,radheshyam;radheshyam;warden_dashir;radheshyam;radheshyam,"A17.02.12, North Campus;A17.02.12, North Campus;A17.02.12, North Campus;A17.02.12, North Campus;A17.02.12, North Campus",267273.0;267273.0;267273.0;267273.0;267273.0,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR ;Dashir Hostel;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Jagadeesh Kadiyam,Assistant Professor;Assistant Professor,jagadeesh;jagadeesh,"A11.04.03, North Campus;A11.04.03, North Campus",267736.0;267736.0,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Narendra Kumar Dhar,Assistant Professor;Assistant Professor;Alumni Advisor;Assistant Professor;Assistant Professor,narendra;narendra;advisoralum3;narendra;narendra,"A17.02.11, North Campus;A17.02.11, North Campus;A17.02.11, North Campus;A17.02.11, North Campus;A17.02.11, North Campus",;;;;,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR ;Dean Resource Generation   Alumni Relations;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Praful Tejerao Hambarde,Assistant Professor;Assistant Professor,praful;praful,;,;,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Deepak Raina,Assistant Professor;Assistant Professor,deepakraina;deepakraina,;,;,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Abhay Pratap Singh,Junior Technical Superintendent;Junior Technical Superintendent,abhaypratap;abhaypratap,"A11 4th floor, North Campus;A11 4th floor, North Campus",;,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Shivkamal,Attendant;Attendant,;,;,;,Centre of Artificial Intelligence and Robotics (CAIR);Centre of Artificial Intelligence and Robotics  CAIR 
+Rik Rani Koner,Warden;Professor;Professor,warden_chandrataal;rik;rik,"A6-23, South Campus;A-4.209, South Campus;A-4.209, South Campus",267220.0;267220;267220,Chandertaal Hostel;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Indu Bala,Assistant Warden;Assistant Professor,asstwarden_chandrataal;indu,";G1-109, South Campus School of Chemical Sciences",;,Chandertaal Hostel;School of Chemical Sciences
+Malika Nagpal,Resident warden,D23103@students.iitmandi.ac.in,,,Chandertaal Hostel
+Purushottma,Caretaker,caretaker_chandertaal,B-8 Hostel,267189.0,Chandertaal Hostel
+Mangla,Caretaker,caretaker_chandertaal,,267189.0,Chandertaal Hostel
+Hostel Office B8 Block,,,Hostel Office B8 Block,267189.0,Chandertaal Hostel
+Saswata Adhikari,Head;Assistant Professor;Assistant Professor,saswata;saswata;saswata,";A13/F13, North Campus;A13/F13, North Campus",;267201.0;267201.0,Common Rooms;School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Prateek Pathania,Junior Assistant,prateekp,"Ground Floor, A9 building, North Campus",,Common Rooms
+Gopal krishan,Office Assistant,sceeoa1,"A10, North Campus",,Common Rooms
+Vijay Kumar Sharma,Superintending Engineer,seer,"Construction Wing, South Campus",267020.0,Construction   Maintainance Cell
+Neeraj Chauhan,Assistant Engineer (Electrical),neerajchauhan,"Construction Wing Office, South Campus",267127.0,Construction   Maintainance Cell
+Siddharth Jamwal,Assistant Engineer (Civil),siddharth,"C-29, North Campus",267200.0,Construction   Maintainance Cell
+Vikas Chaudhary,Assistant (Engineer) Civil,vikas_kumar,Construction Wing Office Kamand,267028.0,Construction   Maintainance Cell
+Omjeet Thakur,Junior (Engineer) Civil,omjeet_thakur,Construction Wing Office Kamand,,Construction   Maintainance Cell
+Atul Sen,Junior Engineer (Civil),atul_sen,"Construction Wing Office , SC",267295.0,Construction   Maintainance Cell
+Gavin Dhiman,Junior Engineer (Civil),gavin_dhiman,Construction Wing Office South Campus,,Construction   Maintainance Cell
+Chirag Vaidya,Junior Engineer (Electrical),chirag,Construction Wing Office Kamand,267022.0,Construction   Maintainance Cell
+Deen Dyal,Junior Engineer (Civil),deenta,Construction Wing Office North Campus,267029.0,Construction   Maintainance Cell
+Kapil Dev,Junior Engineer (Electrical),kapildev,Construction Wing Office,,Construction   Maintainance Cell
+Munna Kumar,Junior Engineer (Horticulture),munnakumar,Construction Wing Office South Campus,,Construction   Maintainance Cell
+Navish Sharma,Junior Engineer(Civil),navishsharma,Construction Wing Office Kamand,267029.0,Construction   Maintainance Cell
+Yashpal Thakur,Junior Engineer (Electrical ),ythakur,"Construction office, North Campus",267999.0,Construction   Maintainance Cell
+Deepak,Junior Engineer (Civil),deepak_c,,,Construction   Maintainance Cell
+Anil Kumar Bhatia,Senior Assistant,anil_kumar,Construction Wing Office Kamand,267295.0,Construction   Maintainance Cell
+Lalit Kumar,Office Assistant,lalit_kumar,Construction Cell south Campus,267028.0,Construction   Maintainance Cell
+Vijay Kumar,Office Attendant;Attendant;Pharmacist,;;vijay_kumar,"Construction wing office;A9, 1st Floor, North Campus;Medical Unit Kamand",;;267014.0,Construction   Maintainance Cell;Faculty Establishment and Recruitment;Health Center
+Duni Chand,Gardener;Lab Attendant;Lab Attendant,;;,Horticulture Nursery South Campus (near Medical unit) and North Campus (near Government School).;Geotechnical Lab;Geotechnical Lab,;;,Construction   Maintainance Cell;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Swapnil Pathak,"Superintending Engineer, Civil, CPWD",eempd3.cpwd@gmail.com,"South Campus , IIT Mandi(HP)",,CPWD
+Rajvir Singh,"Executive Engineer, Civil, CPWD",mndse-iitm@cpwd.gov.in,"South Campus , IIT Mandi(HP)",,CPWD
+Sandip Kumar Saha,Dean (I & S);Dean(I & S);Dean (I & S);Associate Professor;Associate Professor,deaninfra;deaninfra;deaninfra;sandip_saha;sandip_saha,"3rd Floor,Innovation Centre, A-9 building, North Campus;3rd Floor, Innovation Centre, A-9 building, North Campus;3rd Floor,Innovation Centre, A-9 building, North Campus;A11-05-04, North Campus;A11-05-04, North Campus",267265.0;267278;267278;267907.0;267907.0,Creche;Deans;Dean Infrastructure  I S  Land Acquisition;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Prabhakar Palni,Faculty In-charge;Assistant Professor,prabhakar;prabhakar,;,;,Creche;School of Physical Sciences
+Sunil Chauhan,Ex-Offico;Junior Superintendent,sunilchauhan;sunilchauhan,"3rd Floor,Innovation Centre, A-9 building, NC;3rd Floor,Innovation Centre, A-9 building, NC",267024.0;267024,Creche;Dean Infrastructure  I S  Land Acquisition
+Anjana Chandel,Creche Care Teacher,daycare,"C-26/G2,NC",267925.0,Creche
+Creche (South Campus),,,South Campus,267013.0,Creche
+Creche(North Campus),,,"C26/G2,NC",267925.0,Creche
+Venkata Ratnam Vakacharla,Assistant Warden;Assistant Professor;Assistant Professor,asstwarden_dashir;vvratnam;vvratnam,"A17.03.10, North Campus;A17.03.10, North Campus;A17.03.10, North Campus",267111.0;267111.0;267111.0,Dashir Hostel;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Maninder Pal Singh,Resident Warden,D21071@students.iitmandi.ac.in,,,Dashir Hostel
+Nitin Thakur,Caretaker,caretaker_dashir,,,Dashir Hostel
+Dashir Hostel Office,,,Dashir Hostel Office,,Dashir Hostel
+Rahul Vaish,Dean (Faculty);Dean (Faculty);Professor;Professor,deanfaculty;deanfaculty;rahul;rahul,"1st Floor, A9 Building, North Campus;A9, 1st Floor, North Campus;A11.04.37 North Campus;A11.04.37 North Campus",267819;267819.0;267135;267135,Deans;Faculty Establishment and Recruitment;School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Shyam Kumar Masakapalli,Dean(SRIC);Dean(SRIC);Professor;Professor,deansric;deansric;shyam;shyam,"4th Floor, Innovation Centre, A9 Building, North Campus,;A9-4th Floor, North Campus;A4-305, South Campus;A4-305, South Campus",267914;267914;267151.0;267151.0,Deans;Dean  SRIC   IR   Office;School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Varun Dutt,Dean (Resource Generation & Alumni Relations);Dean;Chairperson;Chairperson;Professor;Professor,dora;dora;chairrc;chairrc;varun;varun,"3rd Floor, Innovation Centre, A-9 building, North Campus;A17-03-01, North Campus;A9-4th Floor, North Campus;A9-4th Floor, North Campus;A17-03-01, North Campus;A17-03-01, North Campus",267047;267945.0;;;267150.0;267150.0,Deans;Dean Resource Generation   Alumni Relations;Ranking Cell (RC);Ranking Cell  RC ;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Padmanabhan Rajan,Dean (Digital and Computing Services);Dean DCS;Associate Professor;Associate Professor,deandcs;deandcs;padman;padman,"DCS Office, Near Mechanical Workshop, South Campus;DCS Office, Near Mechanical Workshop, South Campus;A17.03.12, North campus;A17.03.12, North campus",267011;267011.0;267994.0;267994.0,Deans;DIGITAL AND COMPUTING SERVICES;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Ankush Sharma,Junior Assistant;Junior Assistant,ankush_sharma;ankush_sharma,"3rd Floor,Innovation Centre, A-9 building, North Campus;North Campus",267024;267024.0,Dean Infrastructure  I S  Land Acquisition;Transportation
+Mahesh Kumar,Technician (Auditorium),,"3rd Floor,Innovation Centre, A-9 building, NC",267024,Dean Infrastructure  I S  Land Acquisition
+Shubhajit Roy Chowdhury,Alumni Advisor;Professor;Professor,advisoralum1;src;src,"A17-3-31, North Campus;A17-3-31, North Campus;A17-3-31, North Campus",267915.0;267915.0;267915.0,Dean Resource Generation   Alumni Relations;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Dinesh Singh,Alumni Advisor;Assistant Professor;Assistant Professor;Warden,advisoralum2;dineshsingh;dineshsingh;warden_suvalsar,"A17.02.27, North Campus;A17.02.27, North Campus;A17.02.27, North Campus;A17.02.27, North Campus",267222.0;267222.0;267222.0;267222.0,Dean Resource Generation   Alumni Relations;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering;Suvalsar Hostel
+Anuj Kumar Dubey,Assistant Registrar;Assistant Registrar;Assistant Registrar;Assistant Registrar,ardora;arfe;arrc;arrc,"A9-3rd Floor, North Campus;A9-3rd Floor, North Campus;A9-4th Floor, North Campus;A9-4th Floor, North Campus",267944.0;267272.0;;,Dean Resource Generation   Alumni Relations;Faculty Establishment and Recruitment;Ranking Cell (RC);Ranking Cell  RC 
+Anoop Kumar,Junior Superintendent,"jsdora,anoopkumar","A9-3rd Floor, North Campus",267942.0,Dean Resource Generation   Alumni Relations
+Mayank Sharma,Office Assistant,"doraoffice, alumni_officestaff1, alumni_office","A9-3rd Floor, North Campus",267942.0,Dean Resource Generation   Alumni Relations
+Dushyant Sharma,Assistant Registrar,"arsric, dushyantsharma","A9-4th Floor, North Campus",267183,Dean  SRIC   IR   Office
+Sandeep Kumar,Jr.Superintendent,"sandeepkumar, sricoffice","A9-4th Floor, North Campus",267132,Dean  SRIC   IR   Office
+Binni Sharma,Junior Accountant,binnisharma,"A9-4th Floor, North Campus",267988,Dean  SRIC   IR   Office
+Lucky Sharma,Junior Accountant,"luckysharma, accountsoa3","A9-4th Floor, North Campus",267012,Dean  SRIC   IR   Office
+Vijay Singh,Junior Assistant,"sricoa, vijay_singh","A9-4th Floor, North Campus",267988,Dean  SRIC   IR   Office
+Suresh Kumar,Office Attendant,,"A9-4th Floor, North Campus",267132,Dean  SRIC   IR   Office
+Arsheen Gurung,Junior Assistant,arsheengurung,"A9-4th Floor, North Campus",267988,Dean  SRIC   IR   Office
+Ramna Thakur,Chief Warden;Chief Warden;Associate Professor;Associate Professor,chiefwarden;chiefwarden;ramna;ramna,"A14.05.37, North Campus;A14.05.37, North Campus;A14.05.37, North Campus;A14.05.37, North Campus",267757.0;267757;267707.0;267707.0,Dean  Students  Office;Office of Chief Warden;School of Humanities & Social Sciences;School of Humanities   Social Sciences
+G. Shrikanth Reddy,Chair-SAP;Associate Professor;Associate Professor,chairsap;gopishrikanth;gopishrikanth,"Ground Floor, A9 building, North Campus;A17.03.33, North Campus;A17.03.33, North Campus",;267221.0;267221.0,Dean  Students  Office;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Shelika,Assistant Registrar,arstudents,"Ground Floor, A9 building, North Campus",267114.0,Dean  Students  Office
+Vinod Kumar,ALIO;Junior Lab Assistant,vinod;vinodla,"Ground Floor, A9 building, North Campus;Physics Lab, Stable complex , South campus",267228.0;,Dean  Students  Office;School of Physical Sciences
+Arun Kumar,Junior Assistant;Junior Assistant;Lab. Technical Assistant;Lab. Technical Assistant,"studoffice_hostel,arunkumar;hostels;eelabs;eelabs","Ground Floor, A9 building, North Campus;Ground Floor, A9 building, North Campus;Near Mech. workshop;Near Mech. workshop",267759.0;267016;267186.0;267186.0,Dean  Students  Office;Office of Chief Warden;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Renu,Junior Assistant,renu_jangra,"A9-2nd Floor, North Campus",7759.0,Dean  Students  Office
+Atul Saini,Junior Assistant,atulsaini,A11 4th floor North Campus,,Dean  Students  Office
+Aditi,Office Assistant,studofficeoa2,"Ground Floor, A9 building, North Campus",267016.0,Dean  Students  Office
+Vinti Chandel,Office Assistant,studoffice_gymkhana,"Ground Floor, A9 building, North Campus",267228.0,Dean  Students  Office
+Keshab,Office Attendent,,"Ground Floor, A9 building, North Campus",267016.0,Dean  Students  Office
+IT Helpdesk,,it_helpdesk,,,DIGITAL AND COMPUTING SERVICES
+DCS Office,,dcsoffice,"DCS office, A9 Building, South Campus",267000.0,DIGITAL AND COMPUTING SERVICES
+Lalit Thakur,Technical Superintendent,lalit,"DCS Office, Param Himalaya Building, South Campus",,DIGITAL AND COMPUTING SERVICES
+Monika Kashyap,Senior Superintendent,monika,"3rd Floor,Innovation Centre, A-9 building, North Campus",,DIGITAL AND COMPUTING SERVICES
+Desh Raj,Junior Technical Superintendent,deshraj,South Campus,,DIGITAL AND COMPUTING SERVICES
+Dashmesh Singh,Senior Lab Assistant,dashmesh,"DCS office, A9 Building, South Campus",267052.0,DIGITAL AND COMPUTING SERVICES
+Anil Kumar,Junior Technical Superintendent,anilkumar,"DCS office, A9 Building, South Campus",267000.0,DIGITAL AND COMPUTING SERVICES
+Gopal Sharma,Senior Lab Assistant,gopal_sharma,"A5-301, South Campus",267000.0,DIGITAL AND COMPUTING SERVICES
+Gulshan Kumar,Junior Lab Assistant,gulshan,,,DIGITAL AND COMPUTING SERVICES
+Rakesh Sharma,Junior Lab Assistant,rakeshsharma,"Stable Complex, South Campus",267030.0,DIGITAL AND COMPUTING SERVICES
+Anand Kumar Dewangan,Junior Lab Assistant,anand_kumar,DCS office South Campus,267034.0,DIGITAL AND COMPUTING SERVICES
+Khem chand,Project Assistant,khem_chand@projects.iitmandi.ac.in,"Stable Complex, South Campus",267032.0,DIGITAL AND COMPUTING SERVICES
+Jatin Sharma,Project Assistant,jatin_sharma@projects.iitmandi.ac.in,"A10 PC Lab, North Campus",267909.0,DIGITAL AND COMPUTING SERVICES
+Kushal Bhatia,Project Assistant,kushal_bhatia@projects.iitmandi.ac.in,A5 Top Floor 302 S.C,267034.0,DIGITAL AND COMPUTING SERVICES
+Laxmidhar Behera,Director,director,"4th Floor, Innovation Centre, A-9 building, North Campus",267001,Director Office
+Nishant Kumar,Senior Assistant,"nishant,diroffice","4th Floor, Innovation Centre, A-9 building, North Campus",267001/7002,Director Office
+Manoj Kumar,Attendant (Multi Skilled),manojkumar,"4th Floor, Innovation Centre, A-9 building, North Campus",267002,Director Office
+Shyam Singh,Driver,shyamsingh,"4th Floor, Innovation Centre, A-9 building, North Campus",267002,Director Office
+Suchetna Shachi,Junior Superintendent,suchetnaja,"A9, 1st Floor, North Campus",267004.0,Faculty Establishment and Recruitment
+Prakash Negi,Senior Assistant,prakash,"A9, 1st Floor, North Campus",267819.0,Faculty Establishment and Recruitment
+Sameem Khan,Junior Assistant,sameemkhan,"A9, 1st Floor, North Campus",267217.0,Faculty Establishment and Recruitment
+Khem Singh Guleria,Office Assistant,adminoa2,"A9, 1st Floor, North Campus",267217.0,Faculty Establishment and Recruitment
+Parminder Jit,Deputy Registrar,drfa,"A9-2nd Floor, North Campus",267128.0,Finance and Accounts
+Girish Pal,Junior Superintendent,girishpal,"A9-2nd Floor, North Campus",267991.0,Finance and Accounts
+Kartik Kapoor,Junior Accountant,"kartikkapoor, accountsoa2","A9-2nd Floor, North Campus",267993.0,Finance and Accounts
+Hritika Jain,Junior Accountant,hritikajain,"A9-2nd Floor, North Campus",267989.0,Finance and Accounts
+Karan Patar,Junior Accountant,karanpatar,"A9-2nd Floor, North Campus",267992.0,Finance and Accounts
+Manish Kumar,Junior Accountant,manishkumar,"A9-2nd Floor, North Campus",267012.0,Finance and Accounts
+Tara Devi,Office Assistant,accountsoa1,"A9-2nd Floor, North Campus",267990.0,Finance and Accounts
+Kailash Pal,Office Assistant,kailashpal19912@gmail.com,"A9-2nd Floor, North Campus",,Finance and Accounts
+Devinder Kumar,Attandent,,"A9-2nd Floor, North Campus",,Finance and Accounts
+Munshi Ram,Attandent,,"A9-2nd Floor, North Campus",,Finance and Accounts
+Dhanya J,Warden;Assistant Professor;Assistant Professor,warden_gaurikund;dhanya;dhanya,"A11-05-040, North Campus;A11-05-040, North Campus;A11-05-040, North Campus",;267740.0;267740.0,Gauri Kund Hostel;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Sneha Singh,Assistant Warden;Assistant Professor;Assistant Professor,asstwarden_gaurikund;sneha;sneha,;;,;;,Gauri Kund Hostel;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Anchal,Resident Warden,D23264@students.iitmandi.ac.in,,,Gauri Kund Hostel
+Bhawana,Caretaker,,B-20 Beta Block,,Gauri Kund Hostel
+Bharti,Caretaker,caretaker_gaurikund,B-20 Beta Block,,Gauri Kund Hostel
+Hostel Office,,,B20 Block,,Gauri Kund Hostel
+Sushil K. Pal,Junior Superintendent,sushil,"CV Raman Guest House, NC",267846,Guest House
+Rakesh Bhatt,Junior Assistant,rakeshbhatt,"CV Raman Guest House, NC",267021,Guest House
+Dinesh Kumar,Cashier cum Receptionist,,"CV Raman Guest House, NC",267848267847,Guest House
+Guest House Official,,managergh,"CV Raman Guest House, NC",267846,Guest House
+Baskar Bakthavachalu,Advisor;Associate Professor;Associate Professor,baskar;baskar;baskar,"307-A4,South Campus;307/A4, South Campus;307/A4, South Campus",;;,Guidance   Counselling Cell;School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Geeta Rani,Counselor,geetarani,,267008.0,Guidance   Counselling Cell
+Reception and Emergency Number (North Campus),,healthcentre,Health Centre (North Campus),267849.0,Health Center
+Emergency Number (South campus),,healthcentre,Health Centre (South Campus),,Health Center
+Chander Singh,Principal Medical Officer,dr.chandersingh,"Health Center, NC",267209.0,Health Center
+Milan Behl,Medical Officer (Ayurveda),milan,"Medical Unit, South Campus",267238.0,Health Center
+Utsav Thakur,Medical Officer,utsavthakur,"Health Center,NC",267849.0,Health Center
+Navneet,Medical Officer,navneet,"Health Center, NC",267849.0,Health Center
+Kritika Sharma,Medical Officer,kritikasharma,"Health Center, NC",267849.0,Health Center
+Raavi Rohilla,Medical Officer,raavirohilla,"Health Center, NC",267849.0,Health Center
+Bhavneshwari Devi,Staff Nurse,bhavneshwari,Medical Unit Kamand,267014.0,Health Center
+Kamlesh Saklani,Staff Nurse,kamlesh_saklani,Medical Unit Kamand,267014.0,Health Center
+Seema Kumari,Staff Nurse,seema_k,Medical Unit Kamand,267849.0,Health Center
+Namita Kumari,Staff Nurse,namita_kumari,Medical Unit Kamand,267849.0,Health Center
+Chandni Thakur,Staff Nurse,chandni,Medical Unit Kamand,267014.0,Health Center
+Jagriti Thakur,Staff Nurse,jagritithakur,Medical Unit Kamand,267014.0,Health Center
+Sarika Sharma,Staff Nurse,sarikasha1506@gmail.com,"Health Center, North campus",267849.0,Health Center
+Arti Devi,Staff Nurse,artidevi,Health Centre North campus,267849.0,Health Center
+Yuvraj,JLA Medical,yuvraj,Health Centre North campus,267849.0,Health Center
+Yoginder Kumar Aggarwal,Junior Lab. Assistant,yoginderaggarwal,Health Centre North campus,,Health Center
+Dharampal,Ambulance driver,-,"Health Centre, North Campus",267849.0,Health Center
+Kamal Kishore,Offie Assistant Medical,medicaloa,Health Centre North Campus,267849.0,Health Center
+Rajkumar,Ambulance driver,,"Medical Unit, North Campus",,Health Center
+Lekh Raj,Ambulance Driver;Security Supervisor,;securityoffice,";Security Office, SC",;267126.0,Health Center;Security Unit
+Nitesh Sharma,Attendent,nitesh,Medical Unit Kamand,267014.0,Health Center
+Vidya Devi,Medical Attendant,,,,Health Center
+Kapil Sharma,"Field Supervisor (For Admn.& Academic buildings, North Campus)",,,,Housekeeping Services   Waste Management
+Krishan Chand,Field Supervisor (For Hostel & Mess North Campus),,,,Housekeeping Services   Waste Management
+Bhupender Thakur,"Field Supervisor (For Medical, Auditorium & Faculty/Staff Residential Area, North Campus)",,,,Housekeeping Services   Waste Management
+Ajay Singh,Supervisor (North & South Campus),housekeeping,"Auditorium (Opposite Security office, North Campus)",,Housekeeping Services   Waste Management
+Anil Singh,General Manager,gm@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Gaurav Parulkar,Manager,gaurav.parulkar@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Harish Kanaujia,Lead Finance,finance@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Salik Sarwar,Lead Investment,salik@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Ravinder Thakur,Associate,ravinder@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Vishal Sharma,Associate,accounts@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Minni Kaur,Associate,minni@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Kushal Deep Jagota,Associate,kushal@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Abhishek Mukamia,Associate,abhishek@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Shashwat Mishra,Executive,shashwat@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Gurpreet Kaur,Executive,gurpreet@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Jetender Kumar,Office Assistant,jetender@iitmandicatalyst.in,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Vitu,Caretaker,catalystcaretaker@gmail.com,"Catalyst Office, LP01, Ground Floor, North Campus, Salgi, Kamand, HP",,IIT Mandi Catalyst
+Venkata Krishnan,Project Director;Project Director;Professor,"vkn, pd@ihubiitmandi.in;vkn, pd@ihubiitmandi.in;vkn","A17.03.01, North Campus;A17.03.01, North Campus;A3-208, South Campus",267150;267150;267065.0,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI;School of Chemical Sciences
+Somjit Amrit,Chief Executive Officer;Chief Executive Officer,ceo@ihubiitmandi.in;ceo@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",9108922990;9108922990,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Volga Verma,General Manager;General Manager,volga@ihubiitmandi.in;volga@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7807114921;7807114921,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Gaurav Jaiswal,Faculty Fellow;Faculty Fellow,gaurav@ihubiitmandi.in;gaurav@ihubiitmandi.in,"A17 (North Campus), Second Floor IIT Mandi iHub and HCI Foundation;A17 (North Campus), Second Floor IIT Mandi iHub and HCI Foundation",;,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Anuj Nandanwar,Faculty Fellow;Faculty Fellow,anuj@ihubiitmandi.in;anuj@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",8989021051;8989021051,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Kulbhushan,Post Doctoral Fellow;Post Doctoral Fellow,kulbhushan@ihubiitmandi.in;kulbhushan@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7696528377;7696528377,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Dileep G,Post Doctoral Fellow;Post Doctoral Fellow,dileep@ihubiitmandi.in;dileep@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7900790619;7900790619,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Akash Rao,Doctoral Fellow;Doctoral Fellow,akashk_rao@projects.iitmandi.ac.in;akashk_rao@projects.iitmandi.ac.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7807573768;7807573768,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Avnish,"Manager (Finance, Administration and Procurement);Manager (Finance, Administration and Procurement)",Avnish@ihubiitmandi.in;Avnish@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",9882237475;9882237475,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Shrawan Kumar,Project Manager (Finance & Accounts);Project Manager (Finance & Accounts),shrawan@ihubiitmandi.in;shrawan@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",6205447677;6205447677,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Ankush Pathania,Senior Associate;Senior Associate,ankush@ihubiitmandi.in;ankush@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7018242838;7018242838,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Sahil Jaglan,Associate (Business Development);Associate (Business Development),sahil@ihubiitmandi.in;sahil@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus","9179417471, 9467681702;9179417471, 9467681702",IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Khem Chand,Associate (Skill Development);Associate (Skill Development),;,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7986619504;7986619504,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Sonmati Verma,Associate (Research & Development);Associate (Research & Development),sonmati@ihubiitmandi.in;sonmati@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",7007158637;7007158637,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Rahul Sharma,"Member Technology,CEO Office;Member Technology,CEO Office",rahul@ihubiitmandi.in;rahul@ihubiitmandi.in,"ihub office,LP 01,Near Mindtree school NC;ihub office,LP 01,Near Mindtree school NC",;,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Deepak Chauhan,Technical Assistant;Technical Assistant,deepak@ihubiitmandi.in;deepak@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",9805549992;9805549992,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Ankush,Graphic Designer;Graphic Designer,;,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",;,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Basant Kaur,Junior Assistant (Administration);Junior Assistant (Administration),basant@ihubiitmandi.in;basant@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",6230238202;6230238202,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Anjna Pathania,Junior Accountant;Junior Accountant,anjna@ihubiitmandi.in;anjna@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",;,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Printi Thakur,Office Assistant;Office Assistant,printi@ihubiitmandi.in;printi@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",8219743754;8219743754,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Meena Kumari,Attendant;Attendant,meena@ihubiitmandi.in;meena@ihubiitmandi.in,"iHub Office, LP01, Near Mind Tree School, North Campus;iHub Office, LP01, Near Mind Tree School, North Campus",;,IIT Mandi i-Hub & HCI;IIT Mandi i-Hub   HCI
+Arnav Bhavsar,Chairperson,"chairiksmha,arnav","A11-05-20, North Campus",267115.0,IKSMHA Center
+Ramajayam Govindaraji,Assistant Professor,ramajayam,"A17-02-21, North Campus",,IKSMHA Center
 Venkatesh Hanumant Rao Chembrolu,Associate Professor,venkatesh,,,IKSMHA Center
 Pushpendra Singh,Assistant Professor,pushpendra,,,IKSMHA Center
-Jyotiranjan Beuria,Post Doctoral Fellow,jbeuria,IKSMHA & ACS Lab;4th Floor;A18 building,267786.0,IKSMHA Center
-Sakshi Sachan,Junior Assistant,sakshisachan;iksmha-office,IKSMHA Centre & ACS Lab;4th Floor;A18 building,267786.0,IKSMHA Center
-Shivani,Office Assistant,iksmha-office,IKSMHA Centre & ACS Lab;4th Floor;A18 building,267786.0,IKSMHA Center
-Kumar Sambhav Pandey,Registrar;Registrar;Registrar,registrar;registrar;registrar,A9-2nd Floor;North Campus;A9-2nd Floor;North Campus;A9;2nd Floor;North Campus,267015.0;267015;267015,Media Cell;Registrar Office;Staff Recruitment Section
-Veomesh Rawat,Junior Superintendent,veomeshrawat,A9-4th Floor;North Campus,,Media Cell
-Saumya Malviya,Assistant Professor;Assistant Professor,saumyamalviya;saumyamalviya,A14.05.13;North Campus;A14.05.13;North Campus,267829;267829.0,Rajbhasa Section;School of Humanities & Social Sciences
-Lavanya Prabha,Office Assistant,hindicell,A9-2nd Floor;North Campus,267814,Rajbhasa Section
-Manika Gupta,Assistant Executive Officer,rcoffice,A9-4th Floor;North Campus,,Ranking Cell (RC)
-Sushma Kumari,Junior Superintendent,registraroffice;sushma,A9;North Campus,267015/75,Registrar Office
-Vivek Kumar Dongre,Junior Assistant,vivek_dongre,A9-2nd Floor;North Campus,267015,Registrar Office
-Leela Dhar,Junior Attendant (Multi Skilled),leeladhar,A9-2nd Floor;North Campus,267075,Registrar Office
-Tulika Srivastava(Chairperson),Professor,tulika,206/A4. South Campus,267140.0,School of Biosciences & Bio Engineering
-Amit Jaiswal,Associate Professor,j.amit,309/A4;South Campus,267154.0,School of Biosciences & Bio Engineering
-Amit Prasad,Associate Professor,amitprasad,311/A3;South Campus,267263.0,School of Biosciences & Bio Engineering
-Baskar Bakthavachalu,Associate Professor,baskar,307/A4;South Campus,,School of Biosciences & Bio Engineering
-Kharerin Hungyo,Assistant Professor,kharerin,,,School of Biosciences & Bio Engineering
-Prasad Kasturi,Associate Professor,prasadkasturi,304/A4;South Campus,267269.0,School of Biosciences & Bio Engineering
-Sumit Murab,Assistant professor,sumitmurab,305/A3;South Campus,267066.0,School of Biosciences & Bio Engineering
-Trayambak Basak,Associate Professor,trayambak,309/A3;South Campus,267262.0,School of Biosciences & Bio Engineering
-Ekta Makhija,Assistant Professor,ekta,A11.04.22 - Office Room 22;4th Floor- north campus,,School of Biosciences & Bio Engineering
-Sanjeev Nara,Assistant Professor,sanjeevnara,,,School of Biosciences & Bio Engineering
-Lokeshkumar Pisaram Ramteke,Assistant Professor,lokesh,,,School of Biosciences & Bio Engineering
-Prodipta Mukherjee,Project Associate,bioxoffice;prodipta@projects.iitmandi.ac.in,A6;BioX Centre;South Campus,267248.0,School of Biosciences & Bio Engineering
-Sruchi Devi,Junior Assistant,sbboffice;suruchioa,211-A4;South campus,267061.0,School of Biosciences & Bio Engineering
-Pinku lal,Office Attendent,,211-A4;South campus,267061.0,School of Biosciences & Bio Engineering
-Subrata Ghosh(Chairperson),Professor,chairscs;subrata,A3-208;South Campus,267069.0,School of Chemical Sciences
-Prem Felix Siril,Professor,prem,A3-102;South Campus,267851.0,School of Chemical Sciences
-Pradeep Parameswaran,Professor,pradeep,A3-211;South Campus,267045.0,School of Chemical Sciences
-Chayan K. Nandi,Professor,chayan,A3-310;North Campus,267047.0,School of Chemical Sciences
+Jyotiranjan Beuria,Post Doctoral Fellow,jbeuria,"IKSMHA & ACS Lab, 4th Floor, A18 building",267786.0,IKSMHA Center
+Sakshi Sachan,Junior Assistant,"sakshisachan,iksmha-office","IKSMHA Centre & ACS Lab, 4th Floor, A18 building",267786.0,IKSMHA Center
+Shivani,Office Assistant,iksmha-office,"IKSMHA Centre & ACS Lab, 4th Floor, A18 building",267786.0,IKSMHA Center
+Ramesh Kumar,Superintendent(Accounts),ramesh.kumar,"A9-2nd Floor, North Campus",267130,Internal Audit   Legal Section
+Kahan Singh,Junior Assistant,kahan_singh,"A9-2nd Floor, North Campus",267130,Internal Audit   Legal Section
+Ajay Soni,Chairperson;Professor,"jamchair,ajay;ajay","A4-309, South Campus;A4-309, South Campus",267854;267854.0,JAM;School of Physical Sciences
+Subhamoy Sen,Chairperson;Associate Professor;Associate Professor,subhamoy;subhamoy;subhamoy,"A14-04, North Campus;A14-04, North Campus;A14-04, North Campus",267261267260;267261.0;267261.0,JEE CELL;School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Pratim Kundu,Vice-Chairperson;Warden;Assistant Professor;Assistant Professor,pratim;warden_parashar;pratim;pratim,"A17.02.25 , North Campus;A11.04.25 , North Campus;A17.02.25 , North Campus;A17.02.25 , North Campus",267996;267996.0;267996.0;267996.0,JEE CELL;Parashar Hostel;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Amal Sarkar,Warden;Assistant Professor,warden_manimahesh;amal,G1/102 South Campus;G1/102 South Campus,;,Manimahesh Hostel;School of Physical Sciences
+Narayan Sinha,Assistant Warden;Assistant Professor,asstwarden_manimahesh;narayan,"G1, Room-111, South Campus;G1, Room-111, South Campus",;267813.0,Manimahesh Hostel;School of Chemical Sciences
+Ashutosh Sahoo,Resident Warden,D21105@students.iitmandi.ac.in,,,Manimahesh Hostel
+Ravi Kumar,Caretaker,caretaker_manimahesh,South campus,,Manimahesh Hostel
+Kumar Sambhav Pandey,Registrar;Registrar,registrar;registrar,"A9-2nd Floor, North Campus;A9-2nd Floor, North Campus",267015.0;267015,Media Cell;Registrar Office
+Pankaj Singta,"Account Executive, Adfactors PR","mediacell,pankaj.singta@adfactorspr.com",,,Media Cell
+Mind Tree School,"NC, Kamand",,North Campus,267257,Mind Tree School
+Srinivasu Bodapati,Warden;Assistant Professor;Assistant Professor,warden_nako;srinivasu;srinivasu,"A17.02.04, North Campus;A17.02.04, North Campus;A17.02.04, North Campus",267853;267853.0;267853.0,nakowarden;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Sumit Murab,Assistant Warden;Assistant professor;Assistant professor,asstwarden_nako;sumitmurab;sumitmurab,";305/A3, South Campus;305/A3, South Campus",267066.0;267066.0;267066.0,Nako Hostel;School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Hostel Office B7 Block,,,Hostel Office B7 Block,267019.0,Nako Hostel
+Hostel Office B6 Block,,,Hostel Office B6 Block,267036.0,Nako Hostel
+Varunkumar Jayapaul,Assistant Professor;Assistant Professor;Assistant Professor,varunkumar;varunkumar;varunkumar,"A17.03.09, North Campus;A17.03.09, North Campus;A17.03.09, North Campus",267144.0;267144.0;267144.0,NSS;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Robin Khosla,Co-Advisor;Assistant Warden;Assistant Professor;Assistant Professor,robin;asstwarden_parashar;robin;robin,"A17.03.09, North Campus;;;",;;;,NSS;Parashar Hostel;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Prateek,Junior Assistant,nss,Bamboo Hut-127,267228.0,NSS
+Hemraj,Caretaker,caretaker_parashar,B6 Hostel,267070,parasharwarden
+Naresh Sharma,Resident Warden,D23139@students.iitmandi.ac.in,,,Parashar Hostel
+"Hostel Office B1 Block,Warden office",,,B1-Block,267074.0,Parashar Hostel
+Hostel Office B2 Block,,,Hostel Office B2 Block,267070.0,Parashar Hostel
+Kamand Police Chowki,,,Kamand,269400,Police Chowki Kamand
+Saumya Malviya,Assistant Professor;Assistant Professor;Assistant Professor,saumyamalviya;saumyamalviya;saumyamalviya,"A14.05.13, North Campus;A14.05.13, North Campus;A14.05.13, North Campus",267829;267829.0;267829.0,Rajbhasa Section;School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Lavanya Prabha,Office Assistant,hindicell,"A9-2nd Floor, North Campus",267814,Rajbhasa Section
+Manika Gupta,Assistant Executive Officer;Assistant Executive Officer,rcoffice;rcoffice,"A9-4th Floor, North Campus;A9-4th Floor, North Campus",;,Ranking Cell (RC);Ranking Cell  RC 
+Kunal Ghosh,Faculty Coordinator;Associate Professor;Associate Professor,kunal;kunal;kunal,"A17.02.05, North Campus;A17.02.05, North Campus;A17.02.05, North Campus",267145.0;267145.0;267145.0,Recreation Center;School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Recreation Center-01,Recreation Center-01 KMD,,"Recreation Center-01 , Near stable complex",,Recreation Center
+Recreation Center-02,Recreation Center-02 KMD,,"Recreation Center-02 , Near stable complex",,Recreation Center
+Sushma Kumari,Junior Superintendent,"registraroffice,sushma","A9, North Campus",267015/75,Registrar Office
+Vivek Kumar Dongre,Junior Assistant,vivek_dongre,"A9-2nd Floor, North Campus",267015,Registrar Office
+Leela Dhar,Junior Attendant (Multi Skilled),leeladhar,"A9-2nd Floor, North Campus",267075,Registrar Office
+Tulika Srivastava(Chairperson),Professor;Professor,"chairsbb,tulika;chairsbb,tulika",206/A4. South Campus;206/A4. South Campus,267140.0;267140.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Amit Jaiswal,Associate Professor;Associate Professor,j.amit;j.amit,"309/A4, South Campus;309/A4, South Campus",267154.0;267154.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Amit Prasad,Associate Professor;Associate Professor,amitprasad;amitprasad,"311/A3, South Campus;311/A3, South Campus",267263.0;267263.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Kharerin Hungyo,Assistant Professor;Assistant Professor,kharerin;kharerin,;,;,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Prasad Kasturi,Associate Professor;Associate Professor,prasadkasturi;prasadkasturi,"304/A4, South Campus;304/A4, South Campus",267269.0;267269.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Trayambak Basak,Associate Professor;Associate Professor,trayambak;trayambak,"309/A3, South Campus;309/A3, South Campus",267262.0;267262.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Ekta Makhija,Assistant Professor;Assistant Professor,ekta;ekta,"A11.04.22 - Office Room 22, 4th Floor- north campus;A11.04.22 - Office Room 22, 4th Floor- north campus",;,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Sanjeev Nara,Assistant Professor;Assistant Professor,sanjeevnara;sanjeevnara,;,;,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Lokeshkumar Pisaram Ramteke,Assistant Professor;Assistant Professor,lokesh;lokesh,;,;,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Prodipta Mukherjee,Project Associate;Project Associate,"bioxoffice,prodipta@projects.iitmandi.ac.in;bioxoffice,prodipta@projects.iitmandi.ac.in","A6, BioX Centre, South Campus;A6, BioX Centre, South Campus",267248.0;267248.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Sruchi Devi,Junior Assistant;Junior Assistant,"sbboffice, suruchioa;sbboffice, suruchioa","211-A4, South campus;211-A4, South campus",267061.0;267061.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Pinku lal,Office Attendent;Office Attendent,;,"211-A4, South campus;211-A4, South campus",267061.0;267061.0,School of Biosciences & Bio Engineering;School of Biosciences   Bio Engineering
+Subrata Ghosh(Chairperson),Professor,"chairscs, subrata","A3-208, South Campus",267069.0,School of Chemical Sciences
+Aniruddha Chakraborty,Professor,achakraborty,A11.04.10 (North Campus),267067.0,School of Chemical Sciences
+Prem Felix Siril,Professor,prem,"A3-102, South Campus",267851.0,School of Chemical Sciences
+Pradeep Parameswaran,Professor,pradeep,"A3-211, South Campus",267045.0,School of Chemical Sciences
+Chayan K. Nandi,Professor,chayan,"A3-310, North Campus",267047.0,School of Chemical Sciences
 Amit Balkrishna Pawar,Associate Professor,amitpawar,A4-203 (South Campus),267116.0,School of Chemical Sciences
-Bhaskar Mondal,Associate Professor,bhaskarmondal,A4-202 (South Campus),267828.0,School of Chemical Sciences
-Abhimanew Dhir,Assistant Professor,abhimanew,G1 - 105;South Campus,267861.0,School of Chemical Sciences
-Abhishek Dewanji,Assistant Professor,abhishek,G1/110;South Campus,267182.0,School of Chemical Sciences
+Abhimanew Dhir,Assistant Professor,abhimanew,"G1 - 105, South Campus",267861.0,School of Chemical Sciences
+Abhishek Dewanji,Assistant Professor,abhishek,"G1/110, South Campus",267182.0,School of Chemical Sciences
 Garima Agrawal,Associate Professor,garima,A4-302 (South Campus),267827.0,School of Chemical Sciences
-Moupriya Das,Assistant Professor,moupriya,A7-302;South Campus,,School of Chemical Sciences
-Narayan Sinha,Assistant Professor,narayan,G1;Room-111;South Campus,267813.0,School of Chemical Sciences
-Indu Bala,Assistant Professor,indu,G1-109;South Campus School of Chemical Sciences,,School of Chemical Sciences
-Rahul,Junior Assistant;Office Attendent,scsoffice1;rahulthakur,A3 Building 209 South campus;A13/F10;North Campus,267277.0;267929.0,School of Chemical Sciences;School of Mathemathical & Statistical Sciences
+Moupriya Das,Assistant Professor,moupriya,"A7-302, South Campus",,School of Chemical Sciences
+Rahul,Junior Assistant;Office Attendent;Office Attendent,"scsoffice1,rahulthakur;;","A3 Building 209 South campus;A13/F10, North Campus;A13/F10, North Campus",267277.0;267929.0;267929.0,School of Chemical Sciences;School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
 Gaurav Vashisth,Office Assistant,scsoffice,A3 Building South Campus Room No 209,267277.0,School of Chemical Sciences
 Palvi Sharma,Technical Assistant,palvisharma,A6 Chemistry Lab South Campus,,School of Chemical Sciences
-Ajay Kumar,Office Attendent;Junior Lab Assistant,ajaykumar,A3;South campus First floor 209;SCS;A 14,267277.0;267719.0,School of Chemical Sciences;School of Humanities & Social Sciences
-Rajneesh Sharma,Associate Professor(Chairperson),chair_scene;rsharma,A11-05-044;North Campus,267727267741.0,School of Civil & Environmental Engineering
-Dericks Praise Shukla,Associate Professor,dericks,A11-05-25;North campus;A11-02-27;North campus,267147.0,School of Civil & Environmental Engineering
-Deepak Swami,Associate Professor,deepak,A11-05-03;North Campus,267265.0,School of Civil & Environmental Engineering
-Kala Venkata Uday,Associate Professor,uday,A11-05-13;North Campus,267703.0,School of Civil & Environmental Engineering
-Kaustav Sarkar,Associate Professor,srkr,A11-05-020;North Campus,267901.0,School of Civil & Environmental Engineering
-Ashutosh Kumar,Assistant Professor,ashutosh,A11-05-039;North Campus,267825.0,School of Civil & Environmental Engineering
-Dhanya J,Assistant Professor,dhanya,A11-05-040;North Campus,267740.0,School of Civil & Environmental Engineering
-Harshad Kulkarni,Assistant Professor,harshad,A11-05-28;North Campus,267739.0,School of Civil & Environmental Engineering
-Mousumi Mukherjee,Assistant Professor,mousumi,A11-05-031;North Campus,267997.0,School of Civil & Environmental Engineering
-Prasanna R.,Assistant Professor,prasanna,A11-05-041;North Campus,267118.0,School of Civil & Environmental Engineering
-Sayantan Sarkar,Associate Professor,sayantan,A11-05-38;North Campus,267714.0,School of Civil & Environmental Engineering
-Shashank Pathak,Assistant Professor,shashank,A11-15;North Campus 15,267716.0,School of Civil & Environmental Engineering
-Shivang Shekhar,Assistant Professor,shivang,A11-05-30;North Campus,267724.0,School of Civil & Environmental Engineering
-Subhamoy Sen,Associate Professor,subhamoy,A14-04;North Campus,267261.0,School of Civil & Environmental Engineering
-Thainswemong Choudhury,Assistant Professor,thainswe,A11-05-27;North Campus,267725.0,School of Civil & Environmental Engineering
-Vivek Gupta,Assistant Professor,vivekgupta,A11-05-033;North Campus,267117.0,School of Civil & Environmental Engineering
-Ranjeet Kumar Jha,Assistant Professor,ranjeet,A11-05-29,,School of Civil & Environmental Engineering
-Aliva Nanda,Assistant Professor,aliva,A11;5th floor;Room No: 42,,School of Civil & Environmental Engineering
-Anand Giri,DST-Inspire Faculty,anand_giri@projects.iitmandi.ac.in,A11-05-21;North Campus,267738.0,School of Civil & Environmental Engineering
-Narendra Kumar Goel,Adjunct Professor,nkgoel@hy.iitr.ac.in,,,School of Civil & Environmental Engineering
-Sanjeev Sharma,Junior Technical Superintendent,cmlab;sanjeevsharma,A11.02.29,,School of Civil & Environmental Engineering
-Rahul Jamwal,Junior Lab Assistant (Tech),rahuljamwal,,,School of Civil & Environmental Engineering
-Mamta,Junior Assistant,mamta;office_scene,A11-05-26;North Campus,267180.0,School of Civil & Environmental Engineering
-Preeti,Office Assistant;Assistant Professor,office_sceneoa1;preeti,A11-05-26;North Campus;A13/F11;North Campus,267180.0;267935.0,School of Civil & Environmental Engineering;School of Mathemathical & Statistical Sciences
-Duni Chand,Lab Attendant,,Geotechnical Lab,,School of Civil & Environmental Engineering
-Tilak,Lab Attendant,,SCENE Lab,,School of Civil & Environmental Engineering
-Ram Singh,Lab Attendant,ramsinghmnd@gmail.com,SCENE Lab,,School of Civil & Environmental Engineering
-Moumita,Project Associate,moumitachakraborty59@gmail.com,i4s Lab;South Campus,,School of Civil & Environmental Engineering
-Dharmender Kumar,Office Attendent,scene_admissions,A11-05-26;North Campus,267180.0,School of Civil & Environmental Engineering
-Aditya Nigam,Associate Professor (Chairperson),aditya;chairscee,A17.02.06;North Campus,267921.0,School of Computing & Electrical Engineering
-Adarsh patel,Assistant Professor,adarsh,A17.03.08;North Campus,267948.0,School of Computing & Electrical Engineering
-Amit Kumar Singha,Assistant professor,amit,A17.02.21;North Campus,267712.0,School of Computing & Electrical Engineering
-Akhilanand Pati Tiwari,Visiting Professor,akhilanand,A17-02-28;North Campus,,School of Computing & Electrical Engineering
-Ankush Mittal,Adjunct Professor,ankushm,,,School of Computing & Electrical Engineering
-Anirban Sarkar,Assistant Professor,anirban,A17.02.01;North Campus,,School of Computing & Electrical Engineering
-Arnav Bhavsar Vinayak,Professor,arnav,A17.03.02;North Campus,267115.0,School of Computing & Electrical Engineering
-Dinesh Singh,Assistant Professor,dineshsingh,A17.02.27;North Campus,267222.0,School of Computing & Electrical Engineering
-G. Shrikanth Reddy,Associate Professor,gopishrikanth,A17.03.33;North Campus,267221.0,School of Computing & Electrical Engineering
-Himanshu Misra,Assistant Professor,himanshumisra,A17.02.02;North campus,267701.0,School of Computing & Electrical Engineering
-Hitesh Shrimali,Professor,hitesh,A17.03.32;North Campus,267902.0,School of Computing & Electrical Engineering
-Jinesh Machchar,Assistant Professor,jinesh,A17.03.22;North Campus,267728.0,School of Computing & Electrical Engineering
-Kunal Ghosh,Associate Professor,kunal,A17.02.05;North Campus,267145.0,School of Computing & Electrical Engineering
-Kaushik Halder,Assistant Professor,kaushik,A17.02.29;North Campus,,School of Computing & Electrical Engineering
-Moumita Das,Associate Professor,moumita,A17.02.08;North Campus,267270.0,School of Computing & Electrical Engineering
-Pratim Kundu,Assistant Professor,pratim,A17.02.25;North Campus,267996.0,School of Computing & Electrical Engineering
-Parimala kancharla,Assistant Professor,parimala,A17.03.06,267224.0,School of Computing & Electrical Engineering
-Priyatosh Mahish,Assistant Professor,priyatosh,A17.03.25;North Campus,267735.0,School of Computing & Electrical Engineering
-Satinder Sharma,Professor,satinder,A4-201;South Campus,267134.0,School of Computing & Electrical Engineering
-Rahul Shrestha,Associate Professor,rahul_shrestha,A17.03.21;North Campus,267271.0,School of Computing & Electrical Engineering
-Rohit Saluja,Assistant Professor,rohit,A17.03.14;North Campus,267110.0,School of Computing & Electrical Engineering
-Robin Khosla,Assistant Professor,robin,,,School of Computing & Electrical Engineering
-Satyajitsinh A. Thakor,Associate Professor,satyajit,A17.02.23;North Campus,267917.0,School of Computing & Electrical Engineering
-Shubhajit Roy Chowdhury,Professor,src,A17-3-31;North Campus,267915.0,School of Computing & Electrical Engineering
-Siddhartha Sarma,Assistant Professor,siddhartha,A17.03.04;North Campus,267123.0,School of Computing & Electrical Engineering
-Siddharth Panwar,Assistant Professor,siddharthpanwar,A17.03.30;North Campus,267120.0,School of Computing & Electrical Engineering
-Sneha Singh,Assistant Professor,sneha,,,School of Computing & Electrical Engineering
-Sreelakshmi Manjunath,Assistant Professor,sreelakshmi,A17.03.05;North Campus,267702.0,School of Computing & Electrical Engineering
-Samar,Associate Professor,samar,A17.03.11;North Campus,267107.0,School of Computing & Electrical Engineering
-Srikanth Sugavanam,Assistant Professor,ssrikanth,A17.03.24;North Campus,267113.0,School of Computing & Electrical Engineering
-Srinivasu Bodapati,Assistant Professor,srinivasu,A17.02.04;North Campus,267853.0,School of Computing & Electrical Engineering
-Varunkumar Jayapaul,Assistant Professor,varunkumar,A17.03.09;North Campus,267144.0,School of Computing & Electrical Engineering
-Venkata Ratnam Vakacharla,Assistant Professor,vvratnam,A17.03.10;North Campus,267111.0,School of Computing & Electrical Engineering
-Indu Joshi,Assistant Professor,indujoshi,A17.03.27;North Campus,267225.0,School of Computing & Electrical Engineering
-Prateek Vishnoi,Assistant Professor,prateekvishnoi,A17.02.32;North Campus,267995.0,School of Computing & Electrical Engineering
-Bikram Paul,Assistant Professor,bikram,,,School of Computing & Electrical Engineering
-Gaurav Sood,Assistant Professor,gauravsood,A17-02-09;North Campus,267998.0,School of Computing & Electrical Engineering
-Awaneesh Kumar Yadav,Assistant Professor,awaneesh,A17-02-25 North Campus,,School of Computing & Electrical Engineering
-Abhishek Sharma,Assistant Professor,abhisheksharma,A17-03-33;North Campus,,School of Computing & Electrical Engineering
-Preti Kumari,Assistant Professor,preti,A17.02.26;North Campus,,School of Computing & Electrical Engineering
-Yanumula Venkata Karteek,Assistant Professor,karteek,A17.03.31;North Campus,,School of Computing & Electrical Engineering
-Sourav Dutta,Assistant Professor,sourav,A17.02.34,,School of Computing & Electrical Engineering
-Yvonne Dittrich,Adjunct Professor,ydi,,267133.0,School of Computing & Electrical Engineering
-Rajan Kapur,Adjunct Professor,rajan.kapur@larankelo.com,,267133.0,School of Computing & Electrical Engineering
-Pawan Kumar,Junior Superintendent,pawan.patial,A17.02.41 North Campus,267133.0,School of Computing & Electrical Engineering
-Tarun Verma,Senior Lab Assistant,tarun_verma,DAE Lab,267125.0,School of Computing & Electrical Engineering
-Shivam,Junior Technical Superintendent,shivam;controllab,UG Control Systems Lab;A18-03-01 (First Floor) North Campus,267185.0,School of Computing & Electrical Engineering
-Nalini Singh,Junior Assistant,nalinisingh,A17.02.41;North Campus,267071.0,School of Computing & Electrical Engineering
-Shiv,Junior Assistant,shiv_kamal,A17.02.41;North Campus,267133.0,School of Computing & Electrical Engineering
-Arun Kumar,Lab. Technical Assistant,eelabs,Near Mech. workshop,267186.0,School of Computing & Electrical Engineering
-Maneshwar,Multiple Assistant,maneshware,A17.02.41;North Campus,267071.0,School of Computing & Electrical Engineering
-Manish Rana,Lab Technician,spcomlab,A10/302;North Campus,267185.0,School of Computing & Electrical Engineering
-Surya Prakash Upadhyay,Associate Professor(Chairperson),chairshss;surya,A14.05.30;North Campus,267821.0,School of Humanities & Social Sciences
-Shyamasree Dasgupta,Associate Professor,shyamasree;chairshss,A14.05.33;North Campus,267122.0,School of Humanities & Social Sciences
-Manu V Devadevan,Associate Professor,manu,A14.05.20;North Campus,267147.0,School of Humanities & Social Sciences
-Aruna Bommareddi,Assistant Professor,aruna,A14.05.09;North Campus,267706.0,School of Humanities & Social Sciences
-Devika Sethi,Assistant Professor,devika,A14.05.34;North Campus,267244.0,School of Humanities & Social Sciences
-Neha Kaushik,Assistant Professor,nehakaushik,A14.05.36;North Campus,267267.0,School of Humanities & Social Sciences
-Nilamber Chhetri,Assistant Professor,nilamber,A14.05.17;North Campus,267822.0,School of Humanities & Social Sciences
-Neethi Vadakkan Alexander,Assistant Professor,neethi,A14.3.15;North Campus,267824.0,School of Humanities & Social Sciences
-Aparna Malviya,Visiting Assistant Professor,aparna,A14.05.14,267730.0,School of Humanities & Social Sciences
-Rajeshwari Dutt,Associate Professor,rdutt,A14.05.29;North Campus,267109.0,School of Humanities & Social Sciences
-Juan Luis Toribio Vazquez,Visiting Assistant Professor;Visiting Assistant Professor,juan;juan,A14.05.35;A14.05.35 North Campus,267784.0,School of Humanities & Social Sciences;School of Humanities & Social Sciences
-Ramna Thakur,Associate Professor,ramna,A14.05.37;North Campus,267707.0,School of Humanities & Social Sciences
-Suman,Associate Professor,suman.sigroha,A14.05.02;North Campus,267919.0,School of Humanities & Social Sciences
-Thirthankar Chakraborty,Assistant Professor,thirthankar,A14.05.21;North Campus,267823.0,School of Humanities & Social Sciences
-Stuti Sharma,Junior Assistant,stutioa;shssoffice,A14.05.05;North Campus,267719.0,School of Humanities & Social Sciences
-Anjan Kumar Swain,Professor (Chairperson),chairsom;anjan,A10-407;North campus,267751,School of Management
-Manoj Thakur,Professor;Professor,manoj;manoj,A10-412 A;North Campus;A13-F4;North Campus,267750;267913.0,School of Management;School of Mathemathical & Statistical Sciences
-Puran Singh,Associate Professor,puran,A10-404;North Campus,267916,School of Management
-Saumya Dixit,Assistant Professor,saumya,A10-405;North Campus,267904,School of Management
-Ashish Bollimbala,Assistant Professor,ashish,A10.403;North Campus,267733,School of Management
-Masudul Hasan Adil,Assistant Professor,masudul,A10-406;North Campus,267905,School of Management
-Lishma Anand,Junior Superintendent,somoffice;lishma,A10;412;North Campus,267119,School of Management
-Churamani,Office Attendent,,A10 412;North Campus,267119,School of Management
-Rajendra Kr. Ray(Chairperson),Professor,chairsmss;rajendra,A13-F2;North Campus,267912267041.0,School of Mathemathical & Statistical Sciences
-Nitu Kumari,Associate Professor,nitu,A3-101South Campus,267109.0,School of Mathemathical & Statistical Sciences
-Muslim Malik,Associate Professor,muslim,A13-F6;North Campus,267918.0,School of Mathemathical & Statistical Sciences
-Sarita Azad,Associate Professor,sarita,A13- F9;North Campus,,School of Mathemathical & Statistical Sciences
-Syed Abbas,Professor,abbas,A13-F3;North Campus,267914.0,School of Mathemathical & Statistical Sciences
-Qaiser Jahan,Associate Professor,qaiser,A13-F12;North Campus,267923.0,School of Mathemathical & Statistical Sciences
-Samir Shukla,Assistant Professor,samir,A13- F14 North Campus,267922.0,School of Mathemathical & Statistical Sciences
-Sampat Kumar Sharma,Assistant Professor,sampat,A13-F15;North Campus,267717.0,School of Mathemathical & Statistical Sciences
-Saswata Adhikari,Assistant Professor,saswata,A13/F13;North Campus,267201.0,School of Mathemathical & Statistical Sciences
-Mirza Galib Anwarul Husain Baig,Assistant Professor,mirza,A13_F8_TopFloor,,School of Mathemathical & Statistical Sciences
-Vikash Tripathi,Assistant Professor,vikash,,,School of Mathemathical & Statistical Sciences
-Tanmay Kayal,Assistant Professor,tanmay,F1;A13;North Campus,,School of Mathemathical & Statistical Sciences
-Rishikesh Yadav,Assistant Professor,rishikesh,,,School of Mathemathical & Statistical Sciences
-Doyel Pandey,Assistant Professor,doyel,,,School of Mathemathical & Statistical Sciences
-Dushyant Kumar,Junior Assistant,dushyant/smssoffice,A-13 /F10;North Campus,267929.0,School of Mathemathical & Statistical Sciences
-Alka,Office Assistant,smssoffice/smssoa1,A13/F10;North Campus,267929.0,School of Mathemathical & Statistical Sciences
-Rajeev Kumar,Professor,rajeev,A11.04.36 North Campus,267148.0,School of Mechanical & Materials Engineering
-Himanshu Pathak,Associate Professor,himanshu,A-11.04.28;North Campus,267947.0,School of Mechanical & Materials Engineering
-Jaspreet Kaur Randhawa,Associate Professor,jaspreet,A-3;Top Floor;South Campus,267056.0,School of Mechanical & Materials Engineering
-Mohammad Talha,Professor,talha,A-11.04.39 North Campus,267152.0,School of Mechanical & Materials Engineering
-Pradeep Kumar,Associate Professor;Associate Professor,pradeepkumar;pkumar,A-11.04.19 North Campus;A4-204;South Campus,267112.0;267137.0,School of Mechanical & Materials Engineering;School of Physical Sciences
-Rajesh Ghosh,Associate Professor,rajesh,A11.04.41 North Campus,267903.0,School of Mechanical & Materials Engineering
-Rik Rani Koner,Professor,rik,A-4.209;South Campus,267220.0,School of Mechanical & Materials Engineering
-Sarthak Nag,Assistant Professor,sarthak,A11-04-57;North Campus,267743.0,School of Mechanical & Materials Engineering
-Dube Dheeraj Prakashchand,Assistant Professor,dheeraj,A11.04.58 North Campus,267746.0,School of Mechanical & Materials Engineering
-Bukke Ravindra Naik,Assistant Professor,ravindra,A11.04.24;North Campus,267723.0,School of Mechanical & Materials Engineering
-Vishal Singh Chauhan,Professor,vsc,A11.04.38 North Campus,267044.0,School of Mechanical & Materials Engineering
-Viswanath Balakrishnan,Professor,viswa,A4-208;South Campus,267142.0,School of Mechanical & Materials Engineering
-Gajendra Singh,Assistant Professor,gajendra,A11.04.08 North Campus,267715.0,School of Mechanical & Materials Engineering
-Gaurav Bhutani,Assistant Professor,gaurav,A11.04.05 North Campus,267108.0,School of Mechanical & Materials Engineering
-Prateek Saxena,Assistant Professor,prateek,A11.4.26;North campus,267711.0,School of Mechanical & Materials Engineering
-Sudhir Kumar Pandey,Assistant Professor,sudhir,A3-207;South Campus,267852.0,School of Mechanical & Materials Engineering
-Ranbir Singh,Assistant Professor,ranbir,A11.04.14 North Campus,267804.0,School of Mechanical & Materials Engineering
-Swati Sharma,Assistant Professor,swati,A4.02.207;South Campus,267830.0,School of Mechanical & Materials Engineering
-Deepak Sachan,Assistant Professor,dsachan,A11.04.04;North Campus,267737.0,School of Mechanical & Materials Engineering
-Raj Kiran,Assistant Professor,raj,A11.04.21,267294.0,School of Mechanical & Materials Engineering
-Shashwat Bhattacharya,Assistant Professor,shashwat,A-11.04.29;North Campus;IIT Mandi,,School of Mechanical & Materials Engineering
-Butunath Majhy,Assistant Professor,butunath,Room No: A-11-04-25,,School of Mechanical & Materials Engineering
-Neha Shukla,Assistant Professor,nehashukla,A11-04-23;North Campus,,School of Mechanical & Materials Engineering
-Sandeep Sahu,Assistant Professor,sandeep,A11.04.15 North Campus,,School of Mechanical & Materials Engineering
-Suntharavel Muthaiah V.M,Assistant Professor,suntharavel,A-11.04.20;North Campus,,School of Mechanical & Materials Engineering
-Sanasam Sunderlal Singh,Assistant Professor,sunderlal,Room no. 25;Fourth Floor;A11 Building;North Campus;IIT Mandi,,School of Mechanical & Materials Engineering
-Sandip Chatterjee,Adjunct Professor,,,,School of Mechanical & Materials Engineering
-Raj S Dave,Professor of Practice,,,,School of Mechanical & Materials Engineering
-Vikas Kumar,Adjunct Professor,,,,School of Mechanical & Materials Engineering
-Ankush kapil,Jr. Technical Superintendent,ankush,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Amit Sharma,Junior Technical Superintendent,amits,Design Lab A-11 North Campus,267178.0,School of Mechanical & Materials Engineering
-Dinesh Thakur,Senior Lab Assistant,dinesh_thakur,Design Lab A-11 North Campus,267178.0,School of Mechanical & Materials Engineering
-Anish Dhiman,Junior Lab Assistant,anishdhiman,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Teeka Ram,Junior Lab Assistant,teekaram,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Shiv Kamal,Junior Lab Assistant,shivkamal,Central Mechanical Workshop (A14;Ground Floor;North Campus),,School of Mechanical & Materials Engineering
-Sumeet,Junior Assistant,smmeoffice;sumeet,A11.04.33;North Campus,267138.0,School of Mechanical & Materials Engineering
-Anurag Rawat,Junior Assistant,anuragrawat;smmeoffice,A-11.04.33;North Campus,267138.0,School of Mechanical & Materials Engineering
-Anju,Office Assistant,seoa1;smmeoffice,A-11.04.33;North Campus,267138.0,School of Mechanical & Materials Engineering
-Raj kumar,Technician,rajkumaruk1970@gmail.com,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Dalvinder,Turner,dalvinder,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Satish Kumar,Welder,,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Bhuri,Machinist;fitter,bhuri.iitmandi@gmail.com,Central Mechanical Workshop (A14;Ground Floor;North Campus),267018.0,School of Mechanical & Materials Engineering
-Materials Science Lab,,,Mechanical Laboratory;Near stable complex,267231.0,School of Mechanical & Materials Engineering
-Bindu Radhamany(Chairperson),Professor,chairsps;bindu,A3-210;South Campus,267060.0,School of Physical Sciences
-Ajay Soni,Professor,ajay,A4-309;South Campus,267854.0,School of Physical Sciences
-Arko Roy,Assistant Professor,arko,A7-203;South Campus,267828.0,School of Physical Sciences
-Hari Varma,Professor,hari,A3-206;South Campus,267064.0,School of Physical Sciences
-Suman Kalyan Pal,Professor,suman,A3-312;North Campus,267040.0,School of Physical Sciences
-Prasanth P. Jose,Associate Professor,prasanth,A7-201;South Campus,267266.0,School of Physical Sciences
-Kaustav Mukherjee,Professor,kaustav,A3-306;South Campus,267043.0,School of Physical Sciences
+Rajneesh Sharma,Associate Professor(Chairperson);Associate Professor(Chairperson),"chair_scene,rsharma;chair_scene,rsharma","A11-05-044, North Campus;A11-05-044, North Campus",267727267741.0;267727267741.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Dericks Praise Shukla,Associate Professor;Associate Professor,dericks;dericks,"A11-05-25,North campus,A11-02-27, North campus;A11-05-25,North campus,A11-02-27, North campus",267147.0;267147.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Deepak Swami,Associate Professor;Associate Professor,deepak;deepak,"A11-05-03, North Campus;A11-05-03, North Campus",267265.0;267265.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Kaustav Sarkar,Associate Professor;Associate Professor,srkr;srkr,"A11-05-020, North Campus;A11-05-020, North Campus",267901.0;267901.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Harshad Kulkarni,Assistant Professor;Assistant Professor,harshad;harshad,"A11-05-28, North Campus;A11-05-28, North Campus",267739.0;267739.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Mousumi Mukherjee,Assistant Professor;Assistant Professor,mousumi;mousumi,"A11-05-031, North Campus;A11-05-031, North Campus",267997.0;267997.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Prasanna R.,Assistant Professor;Assistant Professor,prasanna;prasanna,"A11-05-041, North Campus;A11-05-041, North Campus",267118.0;267118.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Sayantan Sarkar,Associate Professor;Associate Professor,sayantan;sayantan,"A11-05-38, North Campus;A11-05-38, North Campus",267714.0;267714.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Shashank Pathak,Assistant Professor;Assistant Professor,shashank;shashank,"A11-15, North Campus 15;A11-15, North Campus 15",267716.0;267716.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Shivang Shekhar,Assistant Professor;Assistant Professor,shivang;shivang,"A11-05-30, North Campus;A11-05-30, North Campus",267724.0;267724.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Thainswemong Choudhury,Assistant Professor;Assistant Professor,thainswe;thainswe,"A11-05-27, North Campus;A11-05-27, North Campus",267725.0;267725.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Vivek Gupta,Assistant Professor;Assistant Professor,vivekgupta;vivekgupta,"A11-05-033, North Campus;A11-05-033, North Campus",267117.0;267117.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Ranjeet Kumar Jha,Assistant Professor;Assistant Professor,ranjeet;ranjeet,A11-05-29;A11-05-29,;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Aliva Nanda,Assistant Professor;Assistant Professor,aliva;aliva,"A11, 5th floor, Room No: 42;A11, 5th floor, Room No: 42",;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Anand Giri,DST-Inspire Faculty;DST-Inspire Faculty,anand_giri@projects.iitmandi.ac.in;anand_giri@projects.iitmandi.ac.in,"A11-05-21, North Campus;A11-05-21, North Campus",267738.0;267738.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Narendra Kumar Goel,Adjunct Professor;Adjunct Professor,nkgoel@hy.iitr.ac.in;nkgoel@hy.iitr.ac.in,;,;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Sanjeev Sharma,Junior Technical Superintendent;Junior Technical Superintendent,"cmlab, sanjeevsharma;cmlab, sanjeevsharma",A11.02.29;A11.02.29,;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Rahul Jamwal,Junior Lab Assistant (Tech);Junior Lab Assistant (Tech),rahuljamwal;rahuljamwal,;,;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Mamta,Junior Assistant;Junior Assistant,"mamta, office_scene;mamta, office_scene","A11-05-26, North Campus;A11-05-26, North Campus",267180.0;267180.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Preeti,Office Assistant;Office Assistant;Assistant Professor;Assistant Professor,office_sceneoa1;office_sceneoa1;preeti;preeti,"A11-05-26, North Campus;A11-05-26, North Campus;A13/F11, North Campus;A13/F11, North Campus",267180.0;267180.0;267935.0;267935.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering;School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Tilak,Lab Attendant;Lab Attendant,;,SCENE Lab;SCENE Lab,;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Ram Singh,Lab Attendant;Lab Attendant,ramsinghmnd@gmail.com;ramsinghmnd@gmail.com,SCENE Lab;SCENE Lab,;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Moumita,Project Associate;Project Associate,moumitachakraborty59@gmail.com;moumitachakraborty59@gmail.com,"i4s Lab, South Campus;i4s Lab, South Campus",;,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Dharmender Kumar,Office Attendent;Office Attendent,scene_admissions;scene_admissions,"A11-05-26, North Campus;A11-05-26, North Campus",267180.0;267180.0,School of Civil & Environmental Engineering;School of Civil   Environmental Engineering
+Aditya Nigam,Associate Professor (Chairperson);Associate Professor (Chairperson),"aditya, chairscee;aditya, chairscee","A17.02.06, North Campus;A17.02.06, North Campus",267921.0;267921.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Adarsh patel,Assistant Professor;Assistant Professor,adarsh;adarsh,"A17.03.08, North Campus;A17.03.08, North Campus",267948.0;267948.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Amit Kumar Singha,Assistant professor;Assistant professor,amit;amit,"A17.02.21, North Campus;A17.02.21, North Campus",267712.0;267712.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Akhilanand Pati Tiwari,Visiting Professor;Visiting Professor,akhilanand;akhilanand,"A17-02-28, North Campus;A17-02-28, North Campus",;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Ankush Mittal,Adjunct Professor;Adjunct Professor,ankushm;ankushm,;,;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Animesh Biswas,Distinguished Professor;Distinguished Professor,animesh;animesh,"A17.02.24, North Campus;A17.02.24, North Campus",;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Arnav Bhavsar Vinayak,Professor;Professor,arnav;arnav,"A17.03.02, North Campus;A17.03.02, North Campus",267115.0;267115.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Himanshu Misra,Assistant Professor;Assistant Professor;Faculty In-Charge,himanshumisra;himanshumisra;chairtransport,"A17.02.02, North campus;A17.02.02, North campus;A17-02-02,North Campus",267701.0;267701.0;267701.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering;Transportation
+Hitesh Shrimali,Professor;Professor,hitesh;hitesh,"A17.03.32, North Campus;A17.03.32, North Campus",267902.0;267902.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Jinesh Machchhar,Assistant Professor;Assistant Professor,jinesh;jinesh,"A17.03.22, North Campus;A17.03.22, North Campus",267728.0;267728.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Kaushik Halder,Assistant Professor;Assistant Professor,kaushik;kaushik,"A17.02.29,North Campus;A17.02.29,North Campus",;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Moumita Das,Associate Professor;Associate Professor,moumita;moumita,"A17.02.08, North Campus;A17.02.08, North Campus",267270.0;267270.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Parimala kancharla,Assistant Professor;Assistant Professor,parimala;parimala,A17.03.06;A17.03.06,267224.0;267224.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Priyatosh Mahish,Assistant Professor;Assistant Professor,priyatosh;priyatosh,"A17.03.25, North Campus;A17.03.25, North Campus",267735.0;267735.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Satinder Sharma,Professor;Professor,satinder;satinder,"A4-201, South Campus;A4-201, South Campus",267134.0;267134.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Rohit Saluja,Assistant Professor;Assistant Professor,rohit;rohit,"A17.03.14, North Campus;A17.03.14, North Campus",267110.0;267110.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Satyajitsinh A. Thakor,Associate Professor;Associate Professor,satyajit;satyajit,"A17.02.23, North Campus;A17.02.23, North Campus",267917.0;267917.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Siddhartha Sarma,Assistant Professor;Assistant Professor,siddhartha;siddhartha,"A17.03.04, North Campus;A17.03.04, North Campus",267123.0;267123.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Siddharth Panwar,Assistant Professor;Assistant Professor,siddharthpanwar;siddharthpanwar,"A17.03.30, North Campus;A17.03.30, North Campus",267120.0;267120.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Sreelakshmi Manjunath,Assistant Professor;Assistant Professor,sreelakshmi;sreelakshmi,"A17.03.05, North Campus;A17.03.05, North Campus",267702.0;267702.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Samar,Associate Professor;Associate Professor,samar;samar,"A17.03.11, North Campus;A17.03.11, North Campus",267107.0;267107.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Srikanth Sugavanam,Assistant Professor;Assistant Professor,ssrikanth;ssrikanth,"A17.03.24, North Campus;A17.03.24, North Campus",267113.0;267113.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Indu Joshi,Assistant Professor;Assistant Professor,indujoshi;indujoshi,"A17.03.27, North Campus;A17.03.27, North Campus",267225.0;267225.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Prateek Vishnoi,Assistant Professor;Assistant Professor,prateekvishnoi;prateekvishnoi,"A17.02.32, North Campus;A17.02.32, North Campus",267995.0;267995.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Bikram Paul,Assistant Professor;Assistant Professor,bikram;bikram,;,;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Gaurav Sood,Assistant Professor;Assistant Professor,gauravsood;gauravsood,"A17-02-09,North Campus;A17-02-09,North Campus",267998.0;267998.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Awaneesh Kumar Yadav,Assistant Professor;Assistant Professor,awaneesh;awaneesh,A17-02-25 North Campus;A17-02-25 North Campus,;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Abhishek Sharma,Assistant Professor;Assistant Professor,abhisheksharma;abhisheksharma,"A17-03-33,North Campus;A17-03-33,North Campus",;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Preti Kumari,Assistant Professor;Assistant Professor,preti;preti,"A17.02.26,North Campus;A17.02.26,North Campus",;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Yanumula Venkata Karteek,Assistant Professor;Assistant Professor,karteek;karteek,"A17.03.31,North Campus;A17.03.31,North Campus",;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Sourav Dutta,Assistant Professor;Assistant Professor,sourav;sourav,A17.02.34;A17.02.34,;,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Dwijasish Das,Assistant Professor;Assistant Professor,dwijasish;dwijasish,"A17.02.30, North Campus;A17.02.30, North Campus",267745.0;267745.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Yvonne Dittrich,Adjunct Professor;Adjunct Professor,ydi;ydi,;,267133.0;267133.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Rajan Kapur,Adjunct Professor;Adjunct Professor,rajan.kapur@larankelo.com;rajan.kapur@larankelo.com,;,267133.0;267133.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Pawan Kumar,Junior Superintendent;Junior Superintendent,pawan.patial;pawan.patial,A17.02.41 North Campus;A17.02.41 North Campus,267133.0;267133.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Tarun Verma,Senior Lab Assistant;Senior Lab Assistant,tarun_verma;tarun_verma,DAE Lab;DAE Lab,267125.0;267125.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Shivam,Junior Technical Superintendent;Junior Technical Superintendent,"shivam, controllab;shivam, controllab","UG Control Systems Lab, A18-03-01 (First Floor) North Campus;UG Control Systems Lab, A18-03-01 (First Floor) North Campus",267185.0;267185.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Nalini Singh,Junior Assistant;Junior Assistant,nalinisingh;nalinisingh,"A17.02.41, North Campus;A17.02.41, North Campus",267071.0;267071.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Shiv,Junior Assistant;Junior Assistant,shiv_kamal;shiv_kamal,"A17.02.41, North Campus;A17.02.41, North Campus",267133.0;267133.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Maneshwar,Multiple Assistant;Multiple Assistant,maneshware;maneshware,"A17.02.41, North Campus;A17.02.41, North Campus",267071.0;267071.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Manish Rana,Lab Technician;Lab Technician,spcomlab;spcomlab,"A10/302, North Campus;A10/302, North Campus",267185.0;267185.0,School of Computing & Electrical Engineering;School of Computing   Electrical Engineering
+Surya Prakash Upadhyay,Associate Professor(Chairperson);Associate Professor(Chairperson),"chairshss,surya;chairshss,surya","A14.05.30, North Campus;A14.05.30, North Campus",267821.0;267821.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Shyamasree Dasgupta,Associate Professor;Associate Professor,"shyamasree, chairshss;shyamasree, chairshss","A14.05.33, North Campus;A14.05.33, North Campus",267122.0;267122.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Manu V Devadevan,Associate Professor;Associate Professor,manu;manu,"A14.05.20, North Campus;A14.05.20, North Campus",267147.0;267147.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Aruna Bommareddi,Assistant Professor;Assistant Professor,aruna;aruna,"A14.05.09, North Campus;A14.05.09, North Campus",267706.0;267706.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Devika Sethi,Assistant Professor;Assistant Professor,devika;devika,"A14.05.34, North Campus;A14.05.34, North Campus",267244.0;267244.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Neha Kaushik,Assistant Professor;Assistant Professor,nehakaushik;nehakaushik,"A14.05.36, North Campus;A14.05.36, North Campus",267267.0;267267.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Nilamber Chhetri,Assistant Professor;Assistant Professor,nilamber;nilamber,"A14.05.17, North Campus;A14.05.17, North Campus",267822.0;267822.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Neethi Vadakkan Alexander,Assistant Professor;Assistant Professor,neethi;neethi,"A14.3.15, North Campus;A14.3.15, North Campus",267824.0;267824.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Aparna Malviya,Visiting Assistant Professor;Visiting Assistant Professor,aparna;aparna,A14.05.14;A14.05.14,267730.0;267730.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Rajeshwari Dutt,Associate Professor;Associate Professor,rdutt;rdutt,"A14.05.29, North Campus;A14.05.29, North Campus",267109.0;267109.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Suman,Associate Professor;Associate Professor,suman.sigroha;suman.sigroha,"A14.05.02, North Campus;A14.05.02, North Campus",267919.0;267919.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Thirthankar Chakraborty,Assistant Professor;Assistant Professor,thirthankar;thirthankar,"A14.05.21, North Campus;A14.05.21, North Campus",267823.0;267823.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Masudul Hasan Adil,Assistant Professor;Assistant Professor;Assistant Warden,masudul;masudul;asstwarden_surajtaal,"A14.05.18,North Campus;A14.05.18,North Campus;A10-406, North Campus",267905.0;267905.0;267905.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences;Suraj Taal Hostel
+Juan Luis Toribio Vazquez,Visiting Assistant Professor;Visiting Assistant Professor,juan;juan,A14.05.35 North Campus;A14.05.35 North Campus,;,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Stuti Sharma,Junior Assistant;Junior Assistant,"stutioa, shssoffice;stutioa, shssoffice","A14.05.05, North Campus;A14.05.05, North Campus",267719.0;267719.0,School of Humanities & Social Sciences;School of Humanities   Social Sciences
+Anjan Kumar Swain,Professor (Chairperson),"chairsom,anjan","A10-407, North campus",267751,School of Management
+Manoj Thakur,Professor;Professor;Professor,manoj;manoj;manoj,"A10-412 A, North Campus;A13-F4, North Campus;A13-F4, North Campus",267750;267913.0;267913.0,School of Management;School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Puran Singh,Associate Professor,puran,"A10-404, North Campus",267916,School of Management
+Saumya Dixit,Assistant Professor,saumya,"A10-405, North Campus",267904,School of Management
+Ashish Bollimbala,Assistant Professor,ashish,"A10.403, North Campus",267733,School of Management
+Dechen Angmo,Assistant Professor,dechen,"A11.3.33, North Campus",7790,School of Management
+Ridhi Arora,Assistant Professor,ridhi,"A11.3.33,North Campus",7790,School of Management
+Lishma Anand,Junior Superintendent,"somoffice,lishma","A10, 412, North Campus",267119,School of Management
+Churamani,Office Attendent,,"A10 412, North Campus",267119,School of Management
+Rajendra Kr. Ray(Chairperson),Professor;Professor,"chairsmss,rajendra;chairsmss,rajendra","A13-F2, North Campus;A13-F2, North Campus",267912267041.0;267912267041.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Nitu Kumari,Associate Professor;Associate Professor,nitu;nitu,A3-101South Campus;A3-101South Campus,267109.0;267109.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Muslim Malik,Associate Professor;Associate Professor,muslim;muslim,"A13-F6, North Campus;A13-F6, North Campus",267918.0;267918.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Sarita Azad,Associate Professor;Associate Professor,sarita;sarita,"A13- F9, North Campus;A13- F9, North Campus",;,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Syed Abbas,Professor;Professor,abbas;abbas,"A13-F3, North Campus;A13-F3, North Campus",267914.0;267914.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Qaiser Jahan,Associate Professor;Associate Professor,qaiser;qaiser,"A13-F12, North Campus;A13-F12, North Campus",267923.0;267923.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Samir Shukla,Assistant Professor;Assistant Professor,samir;samir,A13- F14 North Campus;A13- F14 North Campus,267922.0;267922.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Sampat Kumar Sharma,Assistant Professor;Assistant Professor,sampat;sampat,"A13-F15, North Campus;A13-F15, North Campus",267717.0;267717.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Mirza Galib Anwarul Husain Baig,Assistant Professor;Assistant Professor,mirza;mirza,A13_F8_TopFloor;A13_F8_TopFloor,;,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Vikash Tripathi,Assistant Professor;Assistant Professor,vikash;vikash,;,;,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Tanmay Kayal,Assistant Professor;Assistant Professor,tanmay;tanmay,"F1, A13,North Campus;F1, A13,North Campus",;,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Rishikesh Yadav,Assistant Professor;Assistant Professor,rishikesh;rishikesh,;,;,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Doyel Pandey,Assistant Professor;Assistant Professor,doyel;doyel,;,;,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Dushyant Kumar,Junior Assistant;Junior Assistant,dushyant/smssoffice;dushyant/smssoffice,"A-13 /F10, North Campus;A-13 /F10, North Campus",267929.0;267929.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+Alka,Office Assistant;Office Assistant,smssoffice/smssoa1;smssoffice/smssoa1,"A13/F10, North Campus;A13/F10, North Campus",267929.0;267929.0,School of Mathemathical & Statistical Sciences;School of Mathemathical   Statistical Sciences
+P. Anil Kishan,Associate Professor(Chairperson);Associate Professor(Chairperson),"chairsmme,kishan;chairsmme,kishan",A11.03.32 North Campus;A11.03.32 North Campus,267141 / 267220;267141 / 267220,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Rajeev Kumar,Professor;Professor,rajeev;rajeev,A11.04.36 North Campus;A11.04.36 North Campus,267148;267148,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Jaspreet Kaur Randhawa,Associate Professor;Associate Professor,jaspreet;jaspreet,"A-3, Top Floor, South Campus;A-3, Top Floor, South Campus",267056;267056,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Mohammad Talha,Professor;Professor,talha;talha,A-11.04.39 North Campus;A-11.04.39 North Campus,267152;267152,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Pradeep Kumar,Associate Professor;Associate Professor;Associate Professor,pradeepkumar;pradeepkumar;pkumar,"A-11.04.19 North Campus;A-11.04.19 North Campus;A4-204, South Campus",267112;267112;267137.0,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering;School of Physical Sciences
+Rajesh Ghosh,Associate Professor;Associate Professor,rajesh;rajesh,A11.04.41 North Campus;A11.04.41 North Campus,267903;267903,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Sarthak Nag,Assistant Professor;Assistant Professor,sarthak;sarthak,"A11-04-57, North Campus;A11-04-57, North Campus",267743;267743,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Dube Dheeraj Prakashchand,Assistant Professor;Assistant Professor;Assistant Warden,dheeraj;dheeraj;dheeraj,A11.04.58 North Campus;A11.04.58 North Campus;,267746;267746;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering;Suvalsar Hostel
+Bukke Ravindra Naik,Assistant Professor;Assistant Professor,ravindra;ravindra,"A11.04.24, North Campus;A11.04.24, North Campus",267723;267723,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Vishal Singh Chauhan,Professor;Professor,vsc;vsc,A11.04.38 North Campus;A11.04.38 North Campus,267044;267044,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Viswanath Balakrishnan,Professor;Professor,viswa;viswa,"A4-208, South Campus;A4-208, South Campus",267142;267142,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Gajendra Singh,Assistant Professor;Assistant Professor,gajendra;gajendra,A11.04.08 North Campus;A11.04.08 North Campus,267715;267715,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Gaurav Bhutani,Assistant Professor;Assistant Professor,gaurav;gaurav,A11.04.05 North Campus;A11.04.05 North Campus,267108;267108,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Prateek Saxena,Assistant Professor;Assistant Professor;Warden,prateek;prateek;warden_surajtaal,"A11.4.26, North campus;A11.4.26, North campus;A11.4.26, North campus",267711;267711;267711.0,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering;Suraj Taal Hostel
+Sudhir Kumar Pandey,Assistant Professor;Assistant Professor,sudhir;sudhir,"A3-207, South Campus;A3-207, South Campus",267852;267852,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Ranbir Singh,Assistant Professor;Assistant Professor,ranbir;ranbir,A11.04.14 North Campus;A11.04.14 North Campus,267804;267804,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Swati Sharma,Assistant Professor;Assistant Professor,swati;swati,"A4.02.207, South Campus;A4.02.207, South Campus",267830;267830,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Deepak Sachan,Assistant Professor;Assistant Professor,dsachan;dsachan,"A11.04.04,North Campus;A11.04.04,North Campus",267737;267737,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Raj Kiran,Assistant Professor;Assistant Professor,raj;raj,A11.04.21;A11.04.21,267294;267294,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Shashwat Bhattacharya,Assistant Professor;Assistant Professor,shashwat;shashwat,"A-11.04.29, North Campus, IIT Mandi;A-11.04.29, North Campus, IIT Mandi",;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Neha Shukla,Assistant Professor;Assistant Professor,nehashukla;nehashukla,"A11-04-23, North Campus;A11-04-23, North Campus",;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Sandeep Sahu,Assistant Professor;Assistant Professor,sandeep;sandeep,A11.04.15 North Campus;A11.04.15 North Campus,;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Suntharavel Muthaiah V.M,Assistant Professor;Assistant Professor,suntharavel;suntharavel,"A-11.04.20, North Campus;A-11.04.20, North Campus",;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Sanasam Sunderlal Singh,Assistant Professor;Assistant Professor,sunderlal;sunderlal,"Room no. 25, Fourth Floor, A11 Building, North Campus, IIT Mandi;Room no. 25, Fourth Floor, A11 Building, North Campus, IIT Mandi",;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Sandip Chatterjee,Adjunct Professor;Adjunct Professor,;,;,;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Deepak Deelip Patil,Assistant Professor;Assistant Professor,deepakpatil;deepakpatil,"A4-11-16,North Campus;A4-11-16,North Campus",;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Raj S Dave,Professor of Practice;Professor of Practice,;,;,;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Vikas Kumar,Adjunct Professor;Adjunct Professor,;,;,;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Ankush kapil,Jr. Technical Superintendent;Jr. Technical Superintendent,ankush;ankush,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Amit Sharma,Junior Technical Superintendent;Junior Technical Superintendent,amits;amits,Material Science Lab A-14 North Campus;Material Science Lab A-14 North Campus,;,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Dinesh Thakur,Senior Lab Assistant;Senior Lab Assistant,dinesh_thakur;dinesh_thakur,Design Lab A-11 North Campus;Design Lab A-11 North Campus,267178;267178,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Anish Dhiman,Junior Lab Assistant;Junior Lab Assistant,anishdhiman;anishdhiman,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Dalvinder,Junior Lab Assistant;Junior Lab Assistant,dalvinder;dalvinder,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Teeka Ram,Junior Lab Assistant;Junior Lab Assistant,teekaram;teekaram,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Shiv Kamal,Junior Lab Assistant;Junior Lab Assistant,shivkamal;shivkamal,"Thermo-fluid Lab (A11,2nd Floor, North Campus);Thermo-fluid Lab (A11,2nd Floor, North Campus)",267178;267178,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Sumeet,Junior Assistant;Junior Assistant,"smmeoffice, sumeet;smmeoffice, sumeet","A11.04.33, North Campus;A11.04.33, North Campus",267138;267138,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Anurag Rawat,Junior Assistant;Junior Assistant,"anuragrawat,smmeoffice;anuragrawat,smmeoffice","A-11.04.33, North Campus;A-11.04.33, North Campus",267138;267138,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Anju,Office Assistant;Office Assistant,"seoa1, smmeoffice;seoa1, smmeoffice","A-11.04.33, North Campus;A-11.04.33, North Campus",267138;267138,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Raj kumar,Technician;Technician,rajkumaruk1970@gmail.com;rajkumaruk1970@gmail.com,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Satish Kumar,Welder;Welder,;,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Bhuri,"Machinist, fitter;Machinist, fitter",bhuri.iitmandi@gmail.com;bhuri.iitmandi@gmail.com,"Central Mechanical Workshop (A14,Ground Floor, North Campus);Central Mechanical Workshop (A14,Ground Floor, North Campus)",267018;267018,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Ashwani Kumar,Multiple Assistant;Multiple Assistant,ashwanithakur7722@gmail.com;ashwanithakur7722@gmail.com,"A-11.04.33, North Campus;A-11.04.33, North Campus",267138;267138,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Materials Science Lab,;,;,"Mechanical Laboratory , Near stable complex;Mechanical Laboratory , Near stable complex",267231;267231,School of Mechanical & Materials Engineering;School of Mechanical   Materials Engineering
+Bindu Radhamany(Chairperson),Professor,"chairsps, bindu","A3-210, South Campus",267060.0,School of Physical Sciences
+Arko Roy,Assistant Professor,arko,"A7-203, South Campus",267828.0,School of Physical Sciences
+Hari Varma,Professor,hari,"A3-206, South Campus",267064.0,School of Physical Sciences
+Suman Kalyan Pal,Professor,suman,"A3-312, North Campus",267040.0,School of Physical Sciences
+Prasanth P. Jose,Associate Professor,prasanth,"A7-201, South Campus",267266.0,School of Physical Sciences
+Kaustav Mukherjee,Professor,kaustav,"A3-306, South Campus",267043.0,School of Physical Sciences
 Pradyuman K Pathak,Associate Professor,ppathak,A10-North Campus,,School of Physical Sciences
-Arti Kashyap,Professor,arti,A4;South Campus,267155.0,School of Physical Sciences
-C. S. Yadav,Professor,shekhar,A4-303;South Campus,267258.0,School of Physical Sciences
-Gargee G. Sharma,Assistant Professor,gargee,A4;South Campus,267855.0,School of Physical Sciences
-Nirmalya Kajuri,Assistant Professor,nirmalya,A11-5;North Campus,,School of Physical Sciences
+Arti Kashyap,Professor,arti,"A4, South Campus",267155.0,School of Physical Sciences
+C. S. Yadav,Professor,shekhar,"A4-303, South Campus",267258.0,School of Physical Sciences
+Nirmalya Kajuri,Assistant Professor,nirmalya,"A11-5, North Campus",,School of Physical Sciences
 Harsh Soni,Assistant Professor,harsh,A11-04-15 North Campus,,School of Physical Sciences
-Amal Sarkar,Assistant Professor,amal,G1/102 South Campus,,School of Physical Sciences
-Krishna Mohan Parattu,Assistant Professor,krishna,G1/104;South Campus,,School of Physical Sciences
+Krishna Mohan Parattu,Assistant Professor,krishna,"A7-102, South Campus",,School of Physical Sciences
 Rahul Kumar Kothari,Assistant Professor,rkothari,,267149.0,School of Physical Sciences
-Prabhakar Palni,Assistant Professor,prabhakar,,,School of Physical Sciences
-Vinod Kumar,Junior Lab Assistant,vinodla,Physics Lab;Stable complex;South campus,,School of Physical Sciences
 Ravindra Kumar Yadav,Assistant Professor,ravindrayadav,,,School of Physical Sciences
-Anugrah Rawat,Junior Assistant,anugrahrawat;spsoffice,Room No - 400;3rd Floor;A7 Building;South Campus,267812.0,School of Physical Sciences
-Aditi Thakur,Project Associate,aditithakur,A6-Physics LAB;South Campus,267226.0,School of Physical Sciences
-Devesh Sharma,Office Attendant,,SPS Office;Room No - 400;3rd Floor;A7 Building;South Campus,,School of Physical Sciences
-Suresh Rohilla,Deputy Registrar,drsp,A9-2nd Floor;North Campus,267039,Store and Purchase Section
-Rajeev Kumar Sharma,Junior Superintendent,jssp;rajeevsharma,A9-2nd Floor;North Campus,267078,Store and Purchase Section
-Gaurav Katoch,Junior Assistant,storepurchase;gaurav_katoch,A9-2nd Floor;North Campus,267048,Store and Purchase Section
-Suman Kumar,Junior Assistant,sumankumar,A9-2nd Floor;North Campus,267048,Store and Purchase Section
-Dheeraj Kumar,Office Assistant,spoa2,A9-2nd Floor;North Campus,267048,Store and Purchase Section
-Budhi Singh,Office Attendent,,A9-2nd Floor;North Campus,267048,Store and Purchase Section
+Anugrah Rawat,Junior Assistant,"anugrahrawat,spsoffice","Room No - 400, 3rd Floor, A7 Building,South Campus",267812.0,School of Physical Sciences
+Aditi Thakur,Project Associate,aditithakur,"A6-Physics LAB, South Campus",267226.0,School of Physical Sciences
+Devesh Sharma,Office Attendant,,"SPS Office, Room No - 400, 3rd Floor, A7 Building,South Campus",,School of Physical Sciences
+Emergency South Campus,Duty Security Supervisor-SC,,,,Security Unit
+Emergency North Campus,Duty Security Supervisor-NC,,,,Security Unit
+Hira Singh Negi,Deputy Security Officer,dso,"Security Office, SC (Bamboo Hut -A)",267179.0,Security Unit
+Kehsar Chand,Security Supervisor,securityoffice,"Security Office, SC",267126.0,Security Unit
+Baldev Singh Thakur,Security Supervisor,securityoffice,"Security Office, SC",267126.0,Security Unit
+Security Post near Ulh Guest House,,,"SC, Kamand",267098.0,Security Unit
+Director's Residence Post,,,"NC, Kamand",267783.0,Security Unit
+North Campus Barrier,Security Post,,North Campus,267808.0,Security Unit
+Security post Guest House,,,"NC, Kamand",267219.0,Security Unit
+Ghadpa Guest house Security Post at Kamand,,,Kamand,267101.0,Security Unit
+IIT Main Gate Security Post(Kamand),,,Kamand,267096.0,Security Unit
+Security Office (North Campus),Pawan Kumar,,"Security Office, NC",267984.0,Security Unit
+A9 Security Post (North Campus),Security Post,,North Campus,267083.0,Security Unit
+Kaul Singh,PTI,kaulsingh,M1 Building (S.C),267033,Sports
+Khushi Rai,PTI,Khushi_rai,"A6-Sports Complex , North Campus",267928,Sports
+Hitesh Sharma,PTI,hiteshsharma,"A6-Sports Complex , North Campus",267928,Sports
+Ramsaran,Office Attendant,,"A6-Sports Complex , North Campus",267928,Sports
+Baldev Raj,Office Attendant,baldev85thakur@gmail.com,"M1- Sports Complex, SC",267033,Sports
+Prahlad Ray Meel,Assistant Registrar,arsp,"A9-2nd Floor, North Campus",267039,Store and Purchase Section
+Rajeev Kumar Sharma,Junior Superintendent,"jssp, rajeevsharma","A9-2nd Floor, North Campus",267078,Store and Purchase Section
+Gaurav Katoch,Junior Assistant,"storepurchase, gaurav_katoch","A9-2nd Floor, North Campus",267048,Store and Purchase Section
+Suman Kumar,Junior Assistant,sumankumar,"A9-2nd Floor, North Campus",267048,Store and Purchase Section
+Dheeraj Kumar,Office Assistant,spoa2,"A9-2nd Floor, North Campus",267048,Store and Purchase Section
+Budhi Singh,Office Attendent,,"A9-2nd Floor, North Campus",267048,Store and Purchase Section
+Krishna Prasad Naik,Resident Warden,D22004@students.iitmandi.ac.in,,,Suraj Taal Hostel
+Chaman Rana,Caretaker,caretaker_surajtaal,,267815.0,Suraj Taal Hostel
+Ganesh Jaiswal,Resident Warden,D22088@students.iitmandi.ac.in,,,Suvalsar Hostel
+Prakash,Caretaker,caretaker_suvalsar,,,Suvalsar Hostel
+AD (Courses),Member,adcourses,"A9,North Campus",267930.0,Transportation
+Chief Warden,Member,chiefwarden,"A9,North Campus",267757.0,Transportation
+Hostel Secretary,Member,hostelaffairs_secretary@students*,,,Transportation

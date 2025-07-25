@@ -255,6 +255,59 @@ def fuzzy_search_by_designation(designation: str, threshold=0.7, limit=3):
         return_connection(conn)
 
 
+def fuzzy_search_by_section(section: str, threshold=0.7, limit=3):
+    conn = get_connection()
+    try:
+        with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
+            cur.execute("SELECT * FROM contact_directory_view")
+            rows = cur.fetchall()
+
+            results = []
+            for row in rows:
+                sect = row["section"]
+                if sect:
+                    score = Levenshtein.ratio(section.lower(), sect.lower())
+                    if score >= threshold:
+                        results.append({
+                            "match": dict(row),
+                            "similarity": round(score, 3)
+                        })
+
+            return sorted(results, key=lambda x: x["similarity"], reverse=True)[:limit]
+    finally:
+        return_connection(conn)
+
+
+def fuzzy_search_by_designation_and_section(designation: str, section: str, threshold=0.7, limit=5):
+    conn = get_connection()
+    try:
+        with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
+            cur.execute("SELECT * FROM contact_directory_view")
+            rows = cur.fetchall()
+
+            results = []
+            for row in rows:
+                desig = row["designation"]
+                sect = row["section"]
+                if desig and sect:
+                    desig_score = Levenshtein.ratio(designation.lower(), desig.lower())
+                    sect_score = Levenshtein.ratio(section.lower(), sect.lower())
+                    avg_score = (desig_score + sect_score) / 2
+
+                    if avg_score >= threshold:
+                        results.append({
+                            "match": dict(row),
+                            "similarity": round(avg_score, 3),
+                            "designation_similarity": round(desig_score, 3),
+                            "section_similarity": round(sect_score, 3)
+                        })
+
+            return sorted(results, key=lambda x: x["similarity"], reverse=True)[:limit]
+    finally:
+        return_connection(conn)
+
+
+
 
 def filter_contacts(name=None, designation=None, section=None):
     conn = get_connection()

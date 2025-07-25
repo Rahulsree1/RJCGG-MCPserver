@@ -1,39 +1,39 @@
-{
-  "Monday": {
-    "Breakfast": [
-      "Aloo onion parantha",
-      "Chutney",
-      "Curd",
-      "Fruits/ Eggs",
-      "Daliya",
-      "Milk (200 ml)",
-      "Bread (4 slices)",
-      "Butter",
-      "Jam",
-      "Bournvita",
-      "Coffee Powder/Tea bags",
-      "Sprouts(Black Chana + Moong + Lemon)"
-    ],
-    "Lunch": [
-      "Arhar Dal",
-      "Veg. Kofta",
-      "Roti",
-      "Rice",
-      "Bundhi Raita",
-      "Green Salad",
-      "Lemon + Pickle"
-    ],
-    "Dinner": [
-      "Mix Veg (gajar+paneer or Mushroom+bean+gobi+matar)",
-      "Rongi Dal",
-      "Motichur Laddu",
-      "Rice",
-      "Pickle",
-      "Green Salad",
-      "Lemon"
-    ]
-  },
-  "Tuesday": {
+  {
+    "Monday": {
+      "Breakfast": [
+        "Aloo onion parantha",
+        "Chutney",
+        "Curd",
+        "Fruits/ Eggs",
+        "Daliya",
+        "Milk (200 ml)",
+        "Bread (4 slices)",
+        "Butter",
+        "Jam",
+        "Bournvita",
+        "Coffee Powder/Tea bags",
+        "Sprouts(Black Chana + Moong + Lemon)"
+      ],
+      "Lunch": [
+        "Arhar Dal",
+        "Veg. Kofta",
+        "Roti",
+        "Rice",
+        "Bundhi Raita",
+        "Green Salad",
+        "Lemon + Pickle"
+      ],
+      "Dinner": [
+        "Mix Veg (gajar+paneer or Mushroom+bean+gobi+matar)",
+        "Rongi Dal",
+        "Motichur Laddu",
+        "Rice",
+        "Pickle",
+        "Green Salad",
+        "Lemon"
+      ]
+    },
+    "Tuesday": {
     "Breakfast": [
       "Poori",
       "Chana Masala",

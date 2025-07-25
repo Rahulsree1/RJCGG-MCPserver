@@ -1,8 +1,30 @@
 import sys
 import os
+import json
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from db import get_connection, return_connection
+
+
+
+def create_mess_menu_table():
+    conn = get_connection()
+    try:
+        with conn.cursor() as cur:
+            cur.execute("""
+                CREATE TABLE IF NOT EXISTS mess_menu (
+                    id SERIAL PRIMARY KEY,
+                    day TEXT NOT NULL,
+                    meal_type TEXT NOT NULL,
+                    items TEXT[] NOT NULL
+                );
+            """)
+        conn.commit()
+    finally:
+        return_connection(conn)
+
+
 
 
 def find_meal_by_item(item_name: str) -> list[tuple[str, str, str]]:
@@ -137,6 +159,21 @@ def add_menu_row(day: str, meal_type: str, items: list[str]):
         conn.commit()
     finally:
         return_connection(conn)
+
+
+
+
+def insert_menu_from_json(json_path: str):
+    """
+    Reads the mess menu JSON file and inserts each row into the mess_menu table.
+    """
+    with open(json_path, 'r', encoding='utf-8') as f:
+        menu_data = json.load(f)
+
+    for day, meals in menu_data.items():
+        for meal_type, items in meals.items():
+            # Call your existing function
+            add_menu_row(day, meal_type, items)
 
 
 
