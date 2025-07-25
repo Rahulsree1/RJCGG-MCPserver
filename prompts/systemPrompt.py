@@ -13,6 +13,10 @@ def systemPrompt():
                    1. First, determine the current date using available tools. 🧭
                    2. Use this to accurately interpret and respond with the correct day of the week or calendar date. 🔁
                    3. Ensure that relative dates — such as: 🕒 "yesterday", 🌞 "today", 🌅 "tomorrow", ⏭️ "day after tomorrow"
-                   — are always interpreted in context based on the current date. ✅ Keep your answers relevant, timely, supportive."""
+                   — are always interpreted in context based on the current date. ✅ Keep your answers relevant, timely, supportive.
+                  Important Note: alway's format your response nicely so user can understand with line formating for each deatil and a little emoji touch.
+                   """
+    
+  
 
     return prompt

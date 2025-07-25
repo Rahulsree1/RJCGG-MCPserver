@@ -195,7 +195,7 @@ def fuzzy_search_contact_by_name(search_name: str, threshold=0.7, limit=3):
 
                 # Auto-append domain if needed
                 if row_dict.get("email") and '@' not in row_dict["email"]:
-                    row_dict["email"] += "@iitmandi.ac.in"
+                    row_dict["email"] = ', '.join([ i + "@iitmandi.ac.in" for i in row_dict["email"].split(',')])
 
                 full_name = row_dict.get("name", "").strip()
                 full_ratio = Levenshtein.ratio(search_name.lower(), full_name.lower())
@@ -230,6 +230,7 @@ def fuzzy_search_contact_by_name(search_name: str, threshold=0.7, limit=3):
     finally:
         return_connection(conn)
 
+    
 
 
 def fuzzy_search_by_designation(designation: str, threshold=0.7, limit=3):
@@ -245,8 +246,11 @@ def fuzzy_search_by_designation(designation: str, threshold=0.7, limit=3):
                 if desig:
                     score = Levenshtein.ratio(designation.lower(), desig.lower())
                     if score >= threshold:
+                        row_dict = dict(row)
+                        if row_dict.get("email") and '@' not in row_dict["email"]:
+                            row_dict["email"] = ', '.join([ i + "@iitmandi.ac.in" for i in row_dict["email"].split(',')])
                         results.append({
-                            "match": dict(row),
+                            "match": row_dict,
                             "similarity": round(score, 3)
                         })
 
@@ -268,8 +272,11 @@ def fuzzy_search_by_section(section: str, threshold=0.7, limit=3):
                 if sect:
                     score = Levenshtein.ratio(section.lower(), sect.lower())
                     if score >= threshold:
+                        row_dict = dict(row)
+                        if row_dict.get("email") and '@' not in row_dict["email"]:
+                            row_dict["email"] = ', '.join([ i + "@iitmandi.ac.in" for i in row_dict["email"].split(',')])
                         results.append({
-                            "match": dict(row),
+                            "match": row_dict,
                             "similarity": round(score, 3)
                         })
 
@@ -295,8 +302,11 @@ def fuzzy_search_by_designation_and_section(designation: str, section: str, thre
                     avg_score = (desig_score + sect_score) / 2
 
                     if avg_score >= threshold:
+                        row_dict = dict(row)
+                        if row_dict.get("email") and '@' not in row_dict["email"]:
+                            row_dict["email"] = ', '.join([ i + "@iitmandi.ac.in" for i in row_dict["email"].split(',')])
                         results.append({
-                            "match": dict(row),
+                            "match": row_dict,
                             "similarity": round(avg_score, 3),
                             "designation_similarity": round(desig_score, 3),
                             "section_similarity": round(sect_score, 3)
