@@ -18,6 +18,8 @@ import tools.contacts.main_tools
 
 
 
+
 if __name__ == "__main__":
     import asyncio
+    
     asyncio.run(mcp.run_streamable_http_async())
