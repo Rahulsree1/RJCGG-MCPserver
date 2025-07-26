@@ -12,7 +12,7 @@ from mcp_instance import mcp
 
 
 @mcp.tool()
-def get_menu_by_day_and_mealtype(day: str, meal_type: str):
+def get_menu_by_day_and_meal_type(day: str, meal_type: str):
 
 
     """
@@ -71,7 +71,7 @@ def get_menu_by_day_and_mealtype(day: str, meal_type: str):
 
 
 @mcp.tool()
-def get_days_by_item(items:list):
+def         get_days_by_item(items:list):
 
 
 
