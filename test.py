@@ -1,4 +1,4 @@
-# from db import contacts_dao, mess_dao
+from db import contacts_dao, mess_dao, courses_dao
 
 # contacts_dao.create_normalized_contact_directory_tables()
 # contacts_dao.insert_normalized_directory_csv("./contacts.csv")
@@ -15,6 +15,7 @@
 
 # print(data)
 
+# courses_dao.create_course_directory_tables()
+# courses_dao.insert_courses_from_csv("D:\\MCP-Server-RJCGG\\merged_course_data.csv")
+# courses_dao.create_course_view_table()
 
-temp =', '.join([ i+ "@studnets" for i in "dfssd".split(',')])
-print(temp)

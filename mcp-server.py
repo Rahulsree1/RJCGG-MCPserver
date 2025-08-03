@@ -11,7 +11,7 @@ import tools.mess.main_tools
 import tools.datetime.main_tools
 import prompts.systemPrompt
 import tools.contacts.main_tools
-
+import tools.courses.main_tools
 
 
 

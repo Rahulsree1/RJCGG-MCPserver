@@ -1,0 +1,322 @@
+Course Code,Course Name,Instructor,Credits,Slot,Classroom,Location,Slot Schedule,Label,School,For the Students,Additional Info
+AR511,AUTONOMOUS MOBILE ROBOTS,DR. RADHE SHYAM SHARMA,3,G,A13-2D,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,CAIR,,
+AR520,DESIGN PRACTICUM OF MECHATRONIC SYSTEMS,DR. JAGADEESH KADIYAM,3,E,A10-1B,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,CAIR,,
+AR521,CONTROL OF ROBOTIC SYSTEMS,PROF. DIPANKAR DEB,3,D,A17-1D,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,CAIR,,
+AR522,ROBOT VISION,DR. PRAFUL TEJERAO HAMBARDE,3,H,A13-2D,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,CAIR,,
+AR523,ROBOT MANIPULATORS,DR. AMIT SHUKLA,3,,,,Unknown Slot,,,,
+BE201,CELL BIOLOGY,DR. PRASAD KASTURI,4,G,A10-2B,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",2,SBB,B. Tech 2nd year,B. Tech (Bio) DC Courses
+BE202,BIOCHEMISTRY AND MOLECULAR BIOLOGY,DR. BHASKAR MONDAL,4,B,A10-2B,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",2,SBB,B. Tech 2nd year,"B. Tech (Bio) DC Courses, IC136 or equivalent"
+BE303,APPLIED BIOSTATISTICS,DR. KHARERIN HUNGYO,4,A,A10-2B,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",3,SBB,B. Tech 3rd year,B. Tech 1st/2nd/3rd year only
+BE305,BIOETHICS & REGULATORY AFFAIRS,DR. TRAYAMBAK BASAK,1,,,,Unknown Slot,,,B. Tech 3rd year,B. Tech (Bio) DC Courses
+BE306,GENETIC ENGINEERING: PRINCIPLES AND APPLICATIONS,DR. PRASAD KASTURI,4,D,A10-2B,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",3,SBB,B. Tech 3rd year,"B. Tech (Bio) DC Courses, IC136 or equivalent"
+BE308,INTRODUCTION TO BIOMANUFACTURING,DR. EKTA MAKHIJA,4,F,A10-2B,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",3,SBB,B. Tech 2nd year,B. Tech (Bio) DC Courses
+BE309,BIOSENSING & BIOINSTRUMENTATION,DR. EKTA  MAKHIJA,4,C,A10-2B,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",3,SBB,B. Tech 2nd year,B. Tech (Bio) DC Courses
+BE310,BIOMATERIALS,DR. SUMIT MURAB,4,E,A10-2B,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",3,SBB,B. Tech 3rd year,B. Tech (Bio) DC Courses
+BE396,SEMESTER INTERNSHIP,DR. PRASAD KASTURI,6,,,,Unknown Slot,,,B.Tech Bio Engg 4th Year,
+BE399,SEMESTER INTERNSHIP,DR. PRASAD KASTURI,9,,,,Unknown Slot,,,B.Tech Bio Engg 4th Year,
+BE498P,MAJOR TECHNICAL PROJECT - 1,DR. PRASAD KASTURI,3,,,,Unknown Slot,,,"B. Tech 4th year, Bio/IDD",B. Tech (Bio) DC Courses
+BE501,ANATOMY AND PHYSIOLOGY,DR. TRAYAMBAK BASAK,3,C,A17-1D,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SBB,B. Tech 3rd year,
+BE609P,MTECH PROJECT - 1,DR. TULIKA PRAKASH SRIVASTAVA,17,,,,Unknown Slot,,,M. Tech (IDD),B. Tech (Bio) DC Courses
+BY505,NANO-BIOTECHNOLOGY,DR. AMIT JAISWAL,3,D,A5-3,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SBB,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY512,QUANTITATIVE AND COMPUTATIONAL BIOLOGY,DR. TULIKA PRAKASH SRIVASTAVA,4,B,A5-3,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SBB,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY513,CELLULAR BIOPROCESS TECHNOLOGY,DR. LOKESHKUMAR PISARAM RAMTEKE,3,C,A5-3,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SBB,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY525,SEMINAR,DR. KHARERIN HUNGYO,1,,,,Unknown Slot,,,M. Tech 2nd year,M. Tech (Bio) DC Courses
+BY530,ADVANCED CELL AND MOLECULAR BIOLOGY,DR. AMIT PRASAD,3,A,A5-3,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SBB,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY533P,ADVANCED CELL AND MOLECULAR BIOLOGY,DR. AMIT PRASAD,1,,,,Unknown Slot,,,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY534,FUNCTIONAL NEUROIMAGING AND DATA ANALYSIS,DR. SANJEEV NARA,3,F,A5-3,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SBB,B.Tech Final Yr / M.Tech 1st Yr,
+BY534P,CELLULAR BIOPROCESS TECHNOLOGY,DR. LOKESHKUMAR PISARAM RAMTEKE,1,,,,Unknown Slot,,,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY600,RESEARCH METHODOLOGY,DR. PRASAD KASTURI,1,,,,Unknown Slot,,,M. Tech 1st year,M. Tech (Bio) DC Courses
+BY613,METAGENOMICS AND NEXT GENERATION SEQUENCING APPLICATIONS,DR. TULIKA PRAKASH SRIVASTAVA,3,,,,Unknown Slot,,,BTech 3 and 4 yrs and MTech,
+BY698P,POST GRADUATE PROJECT-1,DR. KHARERIN HUNGYO,16,,,,Unknown Slot,,,M. Tech 2nd year,M. Tech (Bio) DC Courses
+CE203,CIVIL ENGINEERING MATERIALS,DR. THAINSWEMONG CHOUDHURY,3,F,A13-2A,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",2,SCENE,BTech – 2nd,B. Tech (CE) DC Courses
+CE203P,BUILDING MATERIALS LAB,DR. THAINSWEMONG CHOUDHURY,1,,,,Unknown Slot,,,BTech – 2nd,B. Tech (CE) DC Courses
+CE252,GEOLOGY AND GEOMORPHOLOGY,DR. DERICKS PRAISE SHUKLA,3,B,A13-2A,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",2,SCENE,BTech – 2nd,B. Tech (CE) DC Courses
+CE303,WATER RESOURCES ENGINEERING,DR. ALIVA NANDA,3,C,A10-1B,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",3,SCENE,BTech – 3rd,B. Tech (CE) DC Courses
+CE310,STRENGTH OF MATERIALS AND STRUCTURES,DR. MAHESHREDDY GADE,3,C,A13-2A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",3,SCENE,BTech – 2nd,B. Tech (CE) DC Courses
+CE310P,STRENGTH OF MATERIALS AND STRUCTURES LAB,DR. MAHESHREDDY GADE,1,,,,Unknown Slot,,,BTech – 2nd,B. Tech (CE) DC Courses
+CE351,DESIGN OF REINFORCED CONCRETE STRUCTURES,DR. SUBHAMOY SEN,3,B,A17-1D,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",3,SCENE,BTech – 3rd,B. Tech (CE) DC Courses
+CE352,TRANSPORTATION ENGINEERING,DR. RAJNEESH SHARMA,3,D,A17-1C,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",3,SCENE,BTech – 3rd,B. Tech (CE) DC Courses
+CE352P,TRANSPORTATION ENGINEERING LAB,DR. KALA VENKATA UDAY,1,,,,Unknown Slot,,,BTech – 3rd,B. Tech (CE) DC Courses
+CE353P,CIVIL ENGINEERING DRAWING,DR. SHIVANG SHEKHAR,1,,,,Unknown Slot,,,BTech – 3rd,B. Tech (CE) DC Courses
+CE396,SEMESTER INTERNSHIP,DR. HARSHAD VIJAY KULKARNI,6,,,,Unknown Slot,,,B.Tech Civil 4th Year,
+CE399,SEMESTER INTERNSHIP,DR. HARSHAD VIJAY KULKARNI,9,,,,Unknown Slot,,,B.Tech Civil 4th Year,
+CE402,GEOTECHNICAL ENGINEERING II,DR. ASHUTOSH KUMAR,3,E,A13-2A,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",4,SCENE,BTech – 3rd,B. Tech (CE) DC Courses
+CE451,IRRIGATION ENGINEERING & HYDRAULIC STRUCTURES,DR. RANJEET KUMAR JHA,3,H,A5-2,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",4,SCENE,BTech – 4th,
+CE498P,MAJOR TECHNICAL PROJECT - 1,DR. HARSHAD VIJAY KULKARNI,3,,,,Unknown Slot,,,"4th Year, B.Tech CE",
+CE501,REMOTE SENSING,DR. DERICKS PRAISE SHUKLA,3,E,A10-3A,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SCENE,"MTech(R)/Ph.D. 1st Environment, Remote Sensing",
+CE505,ENGINEERING OF GROUND MODIFICATION,DR. KALA VENKATA UDAY,3,H,A10-3A,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SCENE,MTech(R)/Ph.D. 1st Geotech,
+CE511,STRUCTURAL DYNAMICS WITH APPLICATION TO EARTHQUAKE ENGINEERING,DR. SHASHANK PATHAK,3,A,A10-3A,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SCENE,MTech/MTech (R)/Ph.D. 1st Structural,"M. Tech (STE) DC Courses, Open for MTech (R) and PhD students, BTech 4th year can enroll as Discipline Elective"
+CE512,ADVANCED SOIL MECHANICS,DR. MOUSUMI MUKHERJEE,3,G,A10-3A,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SCENE,MTech(R)/Ph.D. 1st Geotech,
+CE520,ENVIRONMENTAL REACTION MODELING,DR. HARSHAD VIJAY KULKARNI,3,G,CL-3,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SCENE,"MTech(R)/Ph.D. 1st Environment, Remote Sensing",
+CE521,ECOLOGY AND ENVIRONMENT MICROBIOLOGY,DR. RAJNEESH SHARMA,4,A,A5-2,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SCENE,"MTech(R)/Ph.D. 1st Environment, Remote Sensing",
+CE524,APPLIED HYDROCLIMATOLOGY,DR. VIVEK GUPTA,3,C,A10-3A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SCENE,MTech(R)/Ph.D. 1st Water,
+CE524P,COMPUTATIONAL HYDROCLIMATOLOGY LAB,DR. VIVEK GUPTA,1,,,,Unknown Slot,,,"BTech Civil 4th Year, 7th Sem, MTech (R), PhD",
+CE555,ADVANCED DESIGN OF STRUCTURES,DR. KAUSTAV SARKAR,3,B,A10-3A,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SCENE,MTech/MTech (R)/Ph.D. 1st Structural,"M. Tech (STE) DC Courses, Open for MTech (R) and PhD students, BTech 4th year can enroll as Discipline Elective"
+CE556P,STRUCTURAL ENGINEERING LABORATORY,DR. SUBHAMOY SEN,2,,,,Unknown Slot,,,MTech/MTech (R)/Ph.D. 1st Structural,M. Tech (STE) DC Courses
+CE557,SOLID MECHANICS IN STRUCTURAL ENGINEERING,DR. SHIVANG SHEKHAR,3,D,A13-2A,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SCENE,MTech/MTech (R)/Ph.D. 1st Structural,"M. Tech (STE) DC Courses, Open for MTech (R) and PhD students, BTech 4th year can enroll as Discipline Elective"
+CE558,AIR POLLUTION AND ITS MITIGATION,DR. SAYANTAN SARKAR,3,B,SC-NKN,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SCENE,"MTech(R)/Ph.D. 1st Environment, Remote Sensing",
+CE562,NUMERICAL METHODS FOR ENGINEERING COMPUTATION,DR. DHANYA J,3,F,A10-3A,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SCENE,MTech/MTech (R)/Ph.D. 1st Structural,"M. Tech (STE) DC Courses, Open for MTech (R) and PhD students, BTech 4th year can enroll as Discipline Elective"
+CE587P,INDUSTRIAL/RESEARCH INTERNSHIP,DR. SUBHAMOY SEN,1,,,,Unknown Slot,,,,
+CE600,RESEARCH METHODOLOGY,DR. KAUSTAV SARKAR,1,,,,Unknown Slot,,,MTech(R)/Ph.D. 1st Geotech,"CE 600 Mandatory course for all new PhD and M.Tech.(Research) students of SCEnE, Kept in Free slot"
+CE617,MECHANICS OF COMPOSITE MATERIALS,DR. RAJNEESH SHARMA,3,,,,Unknown Slot,,,MTech/MTech (R)/Ph.D. 1st Structural,
+CE690P,POST GRADUATE PROJECT 1,DR. SUBHAMOY SEN,14,,,,Unknown Slot,,,Mtech Structural Engineering,DC Core for Mtech STE
+CS208,MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE,DR. GAURAV SOOD,4,B,A18-2,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",2,SCEE,B.Tech 2nd Year Sem-3,B. Tech (CSE) DC Courses
+CS212,DESIGN OF ALGORITHMS,DR. PRATEEK VISHNOI,4,C,A18-2,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",2,SCEE,B.Tech 2nd Year Sem-3,B. Tech (CSE) DC Courses
+CS213,REVERSE ENGINEERING,DR. JINESH C MACHCHHAR,1,,,,Unknown Slot,,,B.Tech 2nd Year Sem-3,
+CS214,COMPUTER ORGANIZATION,DR. KUMAR SAMBHAV PANDEY,4,E,A17-1B,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",2,SCEE,B.Tech 2nd Year Sem-3,B. Tech (CSE) DC Courses
+CS312,OPERATING SYSTEMS,DR. PADMANABHAN RAJAN,4,C,A17-1B,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",3,SCEE,B.Tech 3rd Year Sem-5,B. Tech (CSE) DC Courses
+CS313,COMPUTER NETWORKS,DR. SREELAKSHMI P.M SREELAKSHMI P.M,4,F,A18-1,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",3,SCEE,B.Tech 3rd Year Sem-5,B. Tech (CSE) DC Courses
+CS362,ARTIFICIAL INTELLIGENCE,DR. VARUN DUTT,3,D,A18-1,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",3,SCEE,B.Tech 3rd Year Sem-5,B. Tech (CSE) DC Courses
+CS396,SEMESTER INTERNSHIP,DR. PADMANABHAN RAJAN,6,,,,Unknown Slot,,,B.Tech CSE 4th Year,
+CS399,SEMESTER INTERNSHIP,DR. PADMANABHAN RAJAN,9,,,,Unknown Slot,,,B.Tech CSE 4th Year,
+CS498P,MAJOR TECHNICAL PROJECT - 1,DR. PADMANABHAN RAJAN,3,,,,Unknown Slot,,,"4th Year, B.Tech CSE",
+CS511,APPLIED PROBABILITY,DR. PRETI KUMARI,2,F,SC-NKN,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SCEE,"M.Tech 1st Year sem-1, All PG students",
+CS512,MATRIX THEORY,DR. PRETI KUMARI,2,,,,Unknown Slot,,,,
+CS514,ADVANCE ALGORITHMS,DR. VARUNKUMAR JAYAPAUL,4,C,CL-2,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SCEE,"1st ,All PG Students",M. Tech (CSE) DC Courses
+CS515,ADVANCE CS PRACTICUM,DR. AWANEESH KUMAR YADAV,3,,,,Unknown Slot,,,"1st ,All PG Students",M. Tech (CSE) DC Courses
+CS521,INTRODUCTION TO POST QUANTUM SECURITY,DR. AWANEESH KUMAR YADAV,3,H,CL-2,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SCEE,PG/Elective B.Tech 3rd/4th year,Elective
+CS524,COMPUTATIONAL COMPLEXITY THEORY,DR. GAURAV SOOD,4,E,CL-1,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SCEE,PG/Elective B.Tech 3rd/4th year,Elective
+CS550,COMPUTER GRAPHICS AND GEOMETRIC DESIGN,DR. JINESH C MACHCHHAR,3,,,,Unknown Slot,,,PG/Elective B.Tech 3rd/4th year,Elective
+CS621P,POST GRADUATE PROJECT-1,DR. GAURAV SOOD,12,,,,Unknown Slot,,,Mtech CSE 2nd Year,DC Core for Mtech Biotech
+CS660,DATA MINING FOR DECISION MAKING,DR. VARUN DUTT,4,B,CL-2,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",6,SCEE,PG/Elective B.Tech 3rd/4th year,Elective
+CS669,PATTERN RECGONITION,DR. ARNAV VINAYAK BHAVSAR,4,A,SC-NKN,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",6,SCEE,PG/Elective B.Tech 3rd/4th year,Elective
+CS672,ADVANCED DEEP LEARNING,DR. ADITYA NIGAM,4,G,CL-2,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",6,SCEE,,
+CS685,NATURAL LANGUAGE PROCESSING,DR. ROHIT SALUJA,3,,,,Unknown Slot,,,PG/Elective B.Tech 3rd/4th year,Elective
+CY001,PREPARATORY CHEMISTRY-1,DR. PRADEEP C PARAMESWARAN,4,,,,Unknown Slot,,,,
+CY201P,PHYSICAL CHEMISTRY LABORATORY,DR. INDU BALA,2,,,,Unknown Slot,,,Second Year /Third Sem,BS-CS DC Cours
+CY301,PRINCIPLES AND THEORIES OF PHYSICAL CHEMISTRY,DR. MOUPRIYA DAS,3,,,,Unknown Slot,,,Second Year /Third Sem,BS-CS DC Cours
+CY302,PRINCIPLES OF ORGANIC CHEMISTRY,DR. SUBRATA GHOSH,3,H,A5-1,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",3,SCS,Second Year /Third Sem,BS-CS DC Cours
+CY303,FUNDAMENTALS OF INORGANIC CHEMISTRY,DR. VENKATA KRISHNAN,3,B,A5-2,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",3,SCS,Second Year /Third Sem,BS-CS DC Cours
+CY402,APPLIED MATERIALS CHEMISTRY,DR. GARIMA AGRAWAL,3,F,A5-1,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",4,SCS,,
+CY404,FUNDAMENTALS OF SOFT MATTER SCIENCE AND APPLICATIONS,DR. INDU BALA,3,G,A5-1,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",4,SCS,,
+CY506P,INORGANIC CHEMISTRY LAB,DR. PRADEEP C PARAMESWARAN,4,,,,Unknown Slot,,,Second Year /Third Sem,M. Sc (Chemistry)  DC Courses - 2024 Batch
+CY508,ORGANOMETALLIC CHEMISTRY,DR. NARAYAN  SINHA,2,D,A5-1,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SCS,Second Year /Third Sem,M. Sc (Chemistry)  DC Courses - 2024 Batch
+CY512,ADVANCED QUANTUM CHEMISTRY,DR. DEEPAK DEELIP PATIL,3,D,A5-2,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SCS,First year /First Semester,M. Sc (Chemistry)  DC Courses - 2025 Batch
+CY512P,PHYSICAL CHEMISTRY LABORATORY,DR. BHASKAR MONDAL,D,,,,Unknown Slot,,,M. Sc (Chemistry)  DC Courses - 2025 Batch,
+CY514,CHEMICAL THERMODYNAMICS & ELECTROCHEMISTRY,DR. ADITI HALDER,3,C,A1-NKN,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SCS,Second Year /Third Sem,M. Sc (Chemistry)  DC Courses - 2025 Batch
+CY522,COMPUTATIONAL CHEMISTRY,DR. BHASKAR MONDAL,3,E,CL-4,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SCS,Second Year /Third Sem,M. Sc (Chemistry)  DC Courses - 2024 Batch
+CY531,ORGANIC REACTION AND MECHANISM,DR. ABHISHEK DEWANJI,3,B,A5-1,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SCS,First year /First Semester,M. Sc (Chemistry)  DC Courses - 2025 Batch
+CY533,CHEMISTRY OF MAIN GROUP ELEMENTS,DR. ABHIMANEW DHIR,3,C,CL-4,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SCS,First year /First Semester,M. Sc (Chemistry)  DC Courses - 2025 Batch
+CY533P,INORGANIC CHEMISTRY LABORATORY,DR. NARAYAN  SINHA,3,,,,Unknown Slot,,,First year /First Semester,M. Sc (Chemistry)  DC Courses - 2025 Batch
+CY561P,RESEARCH LITERATURE PRESENTATION - I (P/F),DR. AMIT BALKRISHNA PAWAR,1,,,,Unknown Slot,,,First year /First Semester,M. Sc (Chemistry)  DC Courses - 2025 Batch
+CY598P,POST GRADUATE PROJECT-I,DR. GARIMA AGRAWAL,4,,,,Unknown Slot,,,Second Year /Third Sem,M. Sc (Chemistry)  DC Courses - 2024 Batch
+CY600,RESEARCH METHODOLOGY,DR. ABHISHEK DEWANJI,1,,,,Unknown Slot,,,,
+CY645,REAGENTS IN ORGANIC SYNTHESIS,DR. AMIT BALKRISHNA PAWAR,F,F,CL-1,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",6,SCS,,
+CY670,FLUORESCENCE SPECTROSCOPY MICROSCOPY AND APPLICATIONS,DR. CHAYAN KANTI NANDI,E,,,,Unknown Slot,,,,
+DP503P,BASIC MECHANICAL AND ELECTRICAL WORKSHOP,DR. PRADEEP C PARAMESWARAN,H,,,,Unknown Slot,,,,
+DS201,DATA HANDLING AND VISUALISATION,DR. ROHIT SALUJA,3,F,A18-2,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",2,SCEE,"B.Tech. DSE 2nd Year, Sem-3",B. Tech (DSE) DC Courses
+DS301,MATHEMATICAL FOUNDATIONS OF DATA SCIENCE,DR. SAMIR SHUKLA,4,B,A13-2B,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",3,SMSS,"B.Tech. DSE 2nd Year, Sem-3",B. Tech (DSE) DC Courses
+DS396,SEMESTER INTERNSHIP,DR. SAMPAT KUMAR SHARMA,6,,,,Unknown Slot,,,B.Tech DSE 4th Year,
+DS399,SEMESTER INTERNSHIP,DR. SAMPAT KUMAR SHARMA,9,,,,Unknown Slot,,,B.Tech DSE 4th Year,
+DS413,INTRODUCTION TO STATISTICAL LEARNING,DR. KANCHARLA PARIMALA,4,A,A17-1B,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",4,SCEE,B.Tech. DSE 3rd/4th Year Sem-5/7,B. Tech (DSE) DC Courses
+DS498P,MAJOR TECHNICAL PROJECT - 1,DR. SAMPAT KUMAR SHARMA,3,,,,Unknown Slot,,,"4th Year, B.Tech DSE",
+EE203,NETWORK THEORY,DR. KAUSHIK HALDER,3,B,A17-1A,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",2,SCEE,"Elective for B.Tech. EE 2th Year, Sem-3",B. Tech (EE) DC Courses
+EE210,DIGITAL SYSTEMS DESIGN,DR. SRINIVASU BODAPATI,3,G,A17-1A,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",2,SCEE,"Elective for B.Tech. EE 2th Year, Sem-3",B. Tech (EE) DC Courses
+EE210P,DIGITAL SYSTEMS DESIGN LAB,DR. SRINIVASU BODAPATI,1,,,,Unknown Slot,,,"Elective for B.Tech. EE 2th Year, Sem-3, B. Tech. EE 3rd Year, sem-5",B. Tech (EE) and (VLSI) DC Courses
+EE231,MEASUREMENT AND INSTRUMENTATION,DR. SRIKANTH SUGAVANAM,3,F,A17-1A,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",2,SCEE,"B.Tech. EE 3rd Year, Sem-5",B. Tech (EE) DC Courses
+EE260,SIGNALS AND SYSTEMS,DR. SIDDHARTH PANWAR,3,H,A17-2B,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",2,SCEE,"B.Tech. EE 2th Year, Sem-3","B. Tech (EE), (VLSI) DC Courses"
+EE261,ELECTRICAL SYSTEMS AROUND US,DR. MOUMITA DAS,3,A,A17-2B,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",2,SCEE,"B.Tech. EE 2th Year, Sem-3",B. Tech (EE) DC Courses
+EE261P,ELECTRICAL SYSTEMS AROUND US LAB,DR. DWIJASISH DAS,2,,,,Unknown Slot,,,"B.Tech. EE 2th Year, Sem-3",B. Tech (EE) DC Courses
+EE301,CONTROL SYSTEMS,DR. ADITYA NIGAM,4,C,A17-1A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",3,SCEE,"Elective for B.Tech. EE 3rd Year, Sem-5","B. Tech (EE), (VLSI) DC Courses"
+EE301P,CONTROL SYSTEMS LAB,DR. VENKATA KARTEEK YANUMULA,4,,,,Unknown Slot,,,"Elective for B.Tech. EE 3rd Year, Sem-5",B. Tech (EE) DC Courses
+EE303,POWER SYSTEMS,DR. PRATIM KUNDU,4,A,A17-1A,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",3,SCEE,"B.Tech. EE 3rd Year, Sem-5",B. Tech (EE) DC Courses
+EE311,DEVICE ELECTRONICS,DR. ROBIN  KHOSLA,3,E,A17-1A,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",3,SCEE,"Elective for B.Tech. EE 2th Year, Sem-3",B. Tech (EE) DC Courses
+EE314,DIGITAL SIGNAL PROCESSING,DR. SIDDHARTHA SARMA,3,G,A17-1B,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",3,SCEE,"B.Tech. EE 3rd Year, Sem-5",B. Tech (EE) DC Courses
+EE326,COMPUTER ORGANIZATION & PROCESSOR ARCHITECTURE DESIGN,DR. BIKRAM PAUL,4,E,A17-2B,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",3,SCEE,"B.Tech. EE 3rd Year, Sem-5",B. Tech (EE) DC Courses
+EE396,SEMESTER INTERNSHIP,DR. SATYAJITSINH AJITSINH THAKOR,6,,,,Unknown Slot,,,B.Tech EE 4th Year,
+EE399,SEMESTER INTERNSHIP,DR. SATYAJITSINH AJITSINH THAKOR,9,,,,Unknown Slot,,,B.Tech EE 4th Year,
+EE498P,MAJOR TECHNICAL PROJECT - 1,DR. SATYAJITSINH AJITSINH THAKOR,3,,,,Unknown Slot,,,"4th Year, B.Tech EE",
+EE504,SWITCH MODE POWER CONVERSION,DR. AMIT KUMAR SINGHA,3,D,CL-3,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SCEE,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE508,FUNDAMENTALS OF ELECTRIC DRIVES,DR. HIMANSHU MISRA,3,B,CL-3,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SCEE,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE508P,PRACTICUM ON FUNDAMENTALS OF ELECTRICAL DRIVES,DR. HIMANSHU MISRA,2,,,,Unknown Slot,,,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE509,LINEAR DYNAMICAL SYSTEMS,DR. TUSHAR JAIN,3,G,CL-1,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SCEE,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE511,COMPUTER VISION,DR. DINESH SINGH,4,H,CL-3,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SCEE,PG/Elective B.Tech 3rd/4th year,Elective
+EE512,CMOS ANALOG IC DESIGN,DR. HITESHBHAI KANTILAL SHRIMALI,4,C,CL-1,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SCEE,"M.Tech VLSI 1st Year, Sem-1",M. Tech (VLSI) DC Courses
+EE514,ROBUST CONTROL SYSTEMS,DR. VENKATA KARTEEK YANUMULA,3,D,CL-1,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE517,WIRELESS COMMUNICATION AND NETWORKS,DR. SOURAV DUTTA,3,,,,Unknown Slot,,,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE519P,CMOS DIGITAL IC DESIGN PRACTICUM,DR. ADITYA NIGAM,2,,,,Unknown Slot,,,"M.Tech VLSI 1st Year, Sem-1",M. Tech (VLSI) DC Courses
+EE520,MICROELECTRONIC DEVICES AND MODELLING,DR. ABHISHEK SHARMA,3,E,CL-3,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SCEE,"M.Tech VLSI 1st Year, Sem-1",M. Tech (VLSI) DC Courses
+EE524,DIGITAL MOS LSI CIRCUITS,DR. RAHUL SHRESTHA,3,F,CL-3,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SCEE,"M.Tech VLSI 1st Year, Sem-1",M. Tech (VLSI) DC Courses
+EE527,ANALYSIS AND DESIGN OF POWER ELECTRONIC CONVERTERS,DR. VENKATA RATNAM VAKACHARLA,3,A,CL-3,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SCEE,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE527P,PRACTICUM ON ANALYSIS AND DESIGN OF POWER ELECTRONIC CONV.,DR. VENKATA RATNAM VAKACHARLA,2,,,,Unknown Slot,,,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE528,MODELING AND ANALYSIS OF ELECTRIC MACHINES,DR. DWIJASISH DAS,3,C,A5-1,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SCEE,"Elective for B.Tech. EE 4th Year, Masters and PhD students",M. Tech (PED) DC Courses
+EE534,PROBABILITY AND RANDOM PROCESSES,DR. SATYAJITSINH AJITSINH THAKOR,3,B,A1-NKN,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",B. Tech (EE) DC Courses
+EE550,OPTIMAL CONTROL AND ESTIMATION,DR. KAUSHIK HALDER,3,E,A1-NKN,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE551,APPLIED PHOTONICS FOR SCIENTISTS AND ENGINEERS,DR. SRIKANTH SUGAVANAM,3,D,CL-4,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE553,FUNDAMENTALS OF INTELLIGENT COMMUNICATION SYSTEMS-I,DR. ADARSH PATEL,4,E,CL-2,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",
+EE557,ADAPTIVE CONTROL,DR. ADITYA NIGAM,3,H,CL-1,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE585,"THEORY, MODELLING AND CHARACTERIZATION OF PHOTOVOLTAIC DEVICES",DR. KUNAL GHOSH,3,A,CL-1,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE597,INTELLEGENT CONTROL SYSTEM,DR. NARENDRA KUMAR DHAR,3,F,A1-NKN,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SCEE,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",
+EE615,NANOELECTRONICS AND MICRONANOFABRICATION,DR. SATINDER KUMAR SHARMA,3,,,,Unknown Slot,,,"M.Tech VLSI 1st Year, Sem-1",M. Tech (VLSI) DC Courses
+EE621,RADIATING SYSTEM,DR. GOPI SHRIKANTH REDDY,4,,,,Unknown Slot,,,,
+EE622,MICROWAVE INTEGRATED CIRCUITS,DR. GOPI SHRIKANTH REDDY,3,,,,Unknown Slot,,,"Elective for B. Tech. EE 4th Year, Masters and PhD Students",DE
+EE624P,POST GRADUATE PROJECT-1,DR. DWIJASISH DAS,15,,,,Unknown Slot,,,Mtech PED 2nd Year,DC Core for Mtech PED
+EE650P,POST GRADUATE PROJECT-1,DR. GOPI SHRIKANTH REDDY,17,,,,Unknown Slot,,,Mtech VLSI,DC Core for Mtech Biotech
+EP301,ENGINEERING MATHEMATICS - 2,DR. HARSH SONI,4,C,A10-2A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",3,SPS,EP 3 Sem,B. Tech (Engineering Physics) DC Courses
+EP302,COMPUTATIONAL METHODS FOR ENGINEERING,DR. ARKO ROY,3,A,A10-2A,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",3,SPS,EP 5 sem,B. Tech (Engineering Physics) DC Courses
+EP321,FOUNDATIONS OF ELECTRODYNAMICS,DR. PRADYUMNA KUMAR PATHAK,3,E,A10-2A,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",3,SPS,EP 3 Sem,B. Tech (Engineering Physics) DC Courses
+EP396,SEMESTER INTERNSHIP,DR. ARKO ROY,6,,,,Unknown Slot,,,B.Tech EP 4th Year,
+EP399,SEMESTER INTERNSHIP,DR. ARKO ROY,9,,,,Unknown Slot,,,B.Tech EP 4th Year,
+EP402P,ENGINEERING PHYSICS PRACTICUM,DR. SUMAN KALYAN PAL,4,,,,Unknown Slot,,,EP 5 sem,B. Tech (Engineering Physics) DC Courses
+EP498P,MAJOR TECHNICAL PROJECT - 1,DR. ARKO ROY,3,,,,Unknown Slot,,,"4th Year, B.Tech EP",
+GE502,CONSCIOUSNESS AND PROFESSIONAL ETHICS,DR. ATUL DHAR,3,,,,Unknown Slot,,,,
+HS001,PREPARATORY ENGLISH-1,DR. VADAKKAN NEETHI ALEXANDER,3,,,,Unknown Slot,,,,Preparatory Batch
+HS105,BASIC COMMUNICATION SKILLS,DR. RAJESHWARI DUTT,3,C,A11-1B,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",1,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS108,,,,D,A17-1A,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",1,SHSS,All,
+HS1081,BASIC ENGLISH FOR ENGINEERS,DR. VADAKKAN NEETHI ALEXANDER,3,,,,Unknown Slot,,,,
+HS1082,BASIC ENGLISH FOR ENGINEERS,DR. THIRTHANKAR CHAKRABORTY,3,,,,Unknown Slot,,,,
+HS110,,,,D,A11-1B,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",1,SHSS,All,
+HS112,JAPANESE LANGUAGE CLASS I,DR. SURYA PRAKASH UPADHYAY,3,,,,Unknown Slot,,,,
+HS202,PRINCIPLES OF ECONOMICS,DR. RAMNA DEVI THAKUR,3,H,A11-1A,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",2,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS210,INTRODUCTION TO POETRY IN ENGLISH,DR. THIRTHANKAR CHAKRABORTY,3,C,A10-1A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",2,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS212,,,,C,A13-2C,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",2,SHSS,All,
+HS213,JAPANESE LANGUAGE CLASS II,DR. SURYA PRAKASH UPADHYAY,3,,,,Unknown Slot,,,,
+HS256,INTRODUCTION TO SPANISH,DR. SURYA PRAKASH UPADHYAY,3,D,A11-1A,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",2,SHSS,B. Tech 1st year,B. Tech
+HS261,THE INDIAN CONSTITUTION,DR. SURYA PRAKASH UPADHYAY,3,H,A13-1A,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",2,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS310,JAPANESE LANGUAGE CLASS III,DR. SURYA PRAKASH UPADHYAY,3,,,,Unknown Slot,,,,
+HS342,GERMAN I,DR. NEHA KAUSHIK,3,D,A10-1A,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",3,SHSS,B. Tech 1st year,B. Tech
+HS344,INTRODUCTION TO SOCIOLOGY,DR. SURYA PRAKASH UPADHYAY,3,A,A13-2A,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",3,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS352,GERMAN II,DR. NEHA KAUSHIK,3,A,A13-2C,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",3,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS391,INTRODUCTION TO WORLD HISTORY,DR. RAJESHWARI DUTT,3,H,A11-1B,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",3,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS505,CIRCULARITY IN MODERN EUROPEAN LITERATURE,DR. SURYA PRAKASH UPADHYAY,3,A,A13-2D,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SHSS,M. A 2nd year,M. A
+HS510,ESSENTIALS OF ENTREPRENUERSHIP,DR. SATVASHEEL RAMESH POWAR,3,A,A1-NKN,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SHSS,M.A. 2nd Year,M. A
+HS522,RESEARCH METHODOLOGY TO SOCIAL SCIENCE,DR. MASUDUL HASAN ADIL,4,B,A5-4,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SHSS,M. A 1st year,M. A
+HS525,HISTORY OF DEVELOPMENT THOUGHT,DR. RAMNA DEVI THAKUR,3,A,A5-4,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SHSS,M. A 1st year,M. A
+HS526,HUMAN GEOGRAPHY: A WESTERN HIMALAYAN PERSPECTIVE,DR. NILAMBER CHHETRI,3,C,A5-4,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SHSS,M. A 1st year,M. A
+HS527,INDIAN SOCIAL STRUCTURE AND DEVELOPMENT,DR. SAUMYA MALVIYA,3,E,A5-4,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SHSS,M. A 1st year,M. A
+HS529,NATURAL RESOURCE AND DEVELOPMENT,DR. SHYAM KUMAR MASAKAPALLI,3,G,A5-4,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SHSS,M. A 1st year,M. A
+HS532,SUSTAINABLE DEVELOPMENT AND ENVIRONMENTAL PROTECTION,DR. SHYAMASREE DASGUPTA,3,F,A5-4,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SHSS,M. A 1st year,M. A
+HS541,TECHNICAL COMMUNICATION,DR. ARUNA BOMMAREDDI,1,,,,Unknown Slot,,,M.Tech.,M.Tech.
+HS549,INDIAN LITERATURES IN ENGLISH TRANSLATION,DR. ARUNA BOMMAREDDI,3,F,CL-2,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SHSS,M. A 2nd year,M. A
+HS554P,POST GRADUATE PROJECT,DR. NEHA KAUSHIK,22,,,,Unknown Slot,,,MA Development 2nd Year,DC Core for MA DS
+HS555,INFRASTRUCTURAL DEVELOPMENT IN HIGHLAND SOUTH ASIA,DR. NILAMBER CHHETRI,3,D,A5-4,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",5,SHSS,M. A 2nd year,M. A
+HS557,"RURAL DEVELOPMENT: STRUCTURES, INSTITUTIONS AND PROCESSES",DR. SURYA PRAKASH UPADHYAY,3,H,A5-4,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SHSS,M. A 2nd year,M. A
+HS558,SCIENCE FICTION,DR. ARUNA BOMMAREDDI,3,H,SC-NKN,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SHSS,B.Tech 2nd/3rd/4th year,B. Tech
+HS600,RESEARCH METHODOLOGY (SHSS),DR. NILAMBER CHHETRI,1,,,,Unknown Slot,,,,Ph.D.
+HS602,INDIAN WRITING IN ENGLISH,DR. SUMAN,3,H,CL-4,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",6,SHSS,,M. A
+HS608,MODERN WESTERN SOCIAL THOUGHT,DR. MANU V. DEVADEVAN,3,,,,Unknown Slot,,,M. A 2nd year,M. A
+IC112,CALCULUS,PROF. MANOJ THAKUR,2,,,,Unknown Slot,,,,
+IC114,LINEAR ALGEBRA,DR. SAMPAT KUMAR SHARMA,2,,,,Unknown Slot,,,,
+IC131,APPLIED CHEMISTRY FOR ENGINEERS,DR. PREM FELIX SIRIL,3,,,,Unknown Slot,,,,
+IC136,UNDERSTANDING BIOTECHNOLOGY AND ITS APPLICATIONS,DR. SHYAM KUMAR MASAKAPALLI,3,,,,Unknown Slot,,,B. Tech 1st year,IC course
+IC152,INTRODUCTION TO PYTHON AND DATA SCIENCE,DR. SNEHA SINGH,4,,,,Unknown Slot,,,B.Tech CSE 1st Year sem-1,
+IC181,INTRODUCTION TO CONSCIOUSNESS AND HOLISTIC WELLBEING,DR. VENKATESH HANUMANT RAO CHEMBROLU,3,,,,Unknown Slot,,,1st year undergraduates (optional - with a choice of IC182 offered in the even semester),
+IC182,HISTORY OF SCIENCE AND TECHNOLOGY,PROF. PARTHA GHOSE/DR. PROF. LAXMIDHAR BEHERA,3,,,,Unknown Slot,,,,
+IC202P,DESIGN PRACTICUM,DR. GAJENDRA SINGH,3,,,,Unknown Slot,,,"2nd year, 3rd Sem","B.Tech, BS"
+IC230,ENVIRONMENTAL SCIENCE,DR. SAYANTAN SARKAR,3,,,,Unknown Slot,,,BTech – 1st,"Along with B.Tech, IC"
+IC241,MATERIALS SCIENCE FOR ENGINEERS,DR. RAHUL VAISH,3,D,A10-1B,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",2,SMME,1st and 2nd year,B.Tech
+IC272,MACHINE LEARNING,DR. INDU JOSHI,3,,,,Unknown Slot,,,"B,.Tech 2nd Year sem-3",
+IK501,INTRODUCTION TO YOGASUTRA,DR. ARNAV VINAYAK BHAVSAR,3,,,,Unknown Slot,,,"Ph.D, Master students, elective for UG students",
+IK502,INTRODUCTION TO BIO-SIGNALS,DR. ARNAV VINAYAK BHAVSAR,4,B,A17-1E,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,IKSMHA,BTech/MTech/MS/MSc/MA/Ph.D.,
+IK504,BHAGAVAD GITA - COMPREHENSIVE,DR. PROF. LAXMIDHAR BEHERA,3,F,A10-1A,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,IKSMHA,UG/PG/PhD,
+IK510,COGNITIVE NEUROSCIENCE,DR. RAMAJAYAM GOVINDARAJI,4,E,A17-1D,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,IKSMHA,"3rd & 4th Year B. Tech, Masters and PhD",
+IK516,ELECTROMAGNETIC PROPERTIES OF BIOMATERIALS,DR. PUSHPENDRA SINGH,3,B,A17-1B,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,IKSMHA,Postgraduates,
+MA001,PREPARATORY MATHEMATICS-1,DR. RAJENDRA KUMAR RAY,4,F,A5-2,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",0,SMSS,,
+MA210,REAL AND COMPLEX ANALYSIS,DR. QAISER JAHAN,3,A,A13-2B,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",2,SMSS,"B.Tech 2nd Year, 3rd Sem.",B. Tech (Mathematics and Computing) DC Courses
+MA211,ORDINARY DIFFERENTIAL EQUATION,DR. RAKESH KUMAR,4,C,A13-2B,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",2,SMSS,"B.Tech 2nd Year, 3rd Sem.",B. Tech (Mathematics and Computing) DC Courses
+MA251,ABSTRACT ALGEBRA,DR. VIKASH TRIPATHI,3,,,,Unknown Slot,,,B.Tech 2nd year 3rd Sem. & B.Tech 3rd year 5th Sem.,B. Tech (Mathematics and Computing) DC Courses
+MA310,MATRIX COMPUTATION & LAB,DR. DOYEL PANDEY,4,E,A13-2B,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",3,SMSS,"B.Tech 3rd year, 5th Sem.",B. Tech (Mathematics and Computing) DC Courses
+MA311,MATHEMATICAL MODELLING,DR. NITU KUMARI,3,D,A13-2B,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",3,SMSS,"B.Tech 3rd year, 5th Sem.",B. Tech (Mathematics and Computing) DC Courses
+MA322,APPLIED GRAPH THEORY,DR. MIRZA GALIB ANWARUL HUSAIN BAIG,4,G,A13-2B,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",3,SMSS,B.Tech Math & Computing Core,
+MA511,REAL ANALYSIS,DR. SASWATA ADHIKARI,4,A,A1-3,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SMSS,Core for MSc 1st Year and Elective for Other,M. Sc (Applied Mathematics)  DC Courses
+MA512,LINEAR ALGEBRA,DR. MUSLIM MALIK,4,B,A1-3,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SMSS,Core for MSc 1st Year and Elective for Other,M. Sc (Applied Mathematics)  DC Courses
+MA513,ORDINARY DIFFERENTIAL EQUATION,DR. RAKESH KUMAR,4,C,A1-3,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SMSS,Core for MSc 1st Year and Elective for Other,M. Sc (Applied Mathematics)  DC Courses
+MA514,COMPUTER PROGRAMMING,DR. TANMAY KAYAL,3,E,A1-3,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SMSS,Core for MSc 1st Year and Elective for Other,M. Sc (Applied Mathematics)  DC Courses
+MA514P,COMPUTER PROGRAMMING LAB,DR. TANMAY KAYAL,2,,,,Unknown Slot,,,Core for MSc 1st Year and Elective for Other,
+MA515,APPLIED MATHEMATICAL PROGRAMMING,DR. PREETI,4,G,A1-3,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SMSS,Core for MSc 1st Year and Elective for Other,M. Sc (Applied Mathematics)  DC Courses
+MA530,GRAPH THEORY,DR. MIRZA GALIB ANWARUL HUSAIN BAIG,4,G,A13-2A,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SMSS,Discipline Elective for MSc Math,
+MA548,ABSTRACT ALGEBRA,DR. VIKASH TRIPATHI,4,,,,Unknown Slot,,,Discipline Elective,M. Sc (Applied Mathematics)  DC Courses
+MA552,NUMBER THEORY AND CRYPTOGRAPHY,DR. SAMAR,3,,,,Unknown Slot,,,Elective for all UG/PG,Elective
+MA581P,POST GRADUATE PROJECT I,DR. SAMPAT KUMAR SHARMA,6,,,,Unknown Slot,,,"MSc Math, 2nd Yueat",DC Core for MSc Applied Math
+MA595,CALCULUS AS GANITA,DR. RAJENDRA KUMAR RAY,3,,,,Unknown Slot,,,Elective,M. Sc (Applied Mathematics)  DC Courses
+MA605,STATISTICAL DATA ANALYSIS,DR. SARITA AZAD,3,,,,Unknown Slot,,,Discipline Elective,M. Sc (Applied Mathematics)  DC Courses
+MA609,NUMERICS OF PDE,DR. RAJENDRA KUMAR RAY,3,D,A1-3,South Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",6,SMSS,Discipline Elective,M. Sc (Applied Mathematics)  DC Courses
+MA765,FRACTIONAL DIFFERENCIAL EQUATION,DR. SYED ABBAS,4,H,A1-3,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",7,SMSS,Discipline Elective,M. Sc (Applied Mathematics)  DC Courses
+MB201,FOUNDATIONS OF BUSINESS MANAGEMENT,DR. DECHEN ANGMO,4,,,,Unknown Slot,,,IMBA 1st Year,Only for IMBA
+MB202,MICROECONOMICS,DR. MASUDUL HASAN ADIL,3,,,,Unknown Slot,,,IMBA 1st Year,Only for IMBA
+MB291,MANAGEMENT WORKSHOP I,DR. DECHEN ANGMO (LC),1,,,,Unknown Slot,,,IMBA 1st Year,Only for IMBA
+MB302,BUSINESS LAW,DR. SAUMYA DIXIT (LC),3,,,,Unknown Slot,,,IMBA 2nd Year,Only for IMBA
+MB303,FINANCIAL ACCOUNTING,DR. PURAN SINGH,3,,,,Unknown Slot,,,IMBA 2nd Year,Only for IMBA
+MB304,ETHICS AND VALUES,DR. RIDHI ARORA,3,,,,Unknown Slot,,,IMBA 2nd Year,Only for IMBA
+MB305,BUSINESS COMMUNICATION,DR. DECHEN ANGMO (LC),3,,,,Unknown Slot,,,IMBA 2nd Year,Only for IMBA
+MB509,INTRODUCTION TO BHAGAVAD GITA,PROF. LAXMIDHAR BEHERA,2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB510,PROBABILITY AND STATISTICS FOR DATA SCIENCE/AI ML,PROF. ANJAN KUMAR SWAIN (LC),2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB511,PYTHON PROGRAMMING,PROF. MANOJ THAKUR,2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB512,MATHEMATICAL FOUNDATIONS FOR DS/AI ML,DR. ANJAN KUMAR SWAIN,2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB514,COMMUNICATION SKILLS FOR MANAGERS,DR. RIDHI ARORA (LC),2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB515,FINANCIAL STATEMENT ANALYSIS,DR. PURAN SINGH (LC),2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB516,MANAGERIAL ECONOMICS,DR. MASUDUL HASAN ADIL,2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB517,MARKETING MANAGEMENT 1,DR. SAUMYA DIXIT,2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB519,"CREATIVE THINKING, PROBLEM SOLVING AND DECISION MAKING",DR. ASHISH BOLLIMBALA,2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB525,QUALITATIVE RESEARCH METHODS,DR. DECHEN ANGMO (LC),2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB528,HUMAN RESOURCE MANAGEMENT,DR. RIDHI ARORA,2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB530,NEURAL NETWORKS FUNDAMENTALS FOR BUSINESS,PROF. ANJAN KUMAR SWAIN,2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB532,"DIGITAL BUSINESS STRATEGY, MODELS AND TRANSFORMATIONS",DR. RIDHI ARORA (LC),2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB533,ENTREPRENEURSHIP,DR. PURAN SINGH,2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB534,MANAGEMENT PROJECT I,DR. SAUMYA DIXIT,4,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA
+MB537,BUSINESS AND DATA LEADERSHIP,PROF. ANJAN KUMAR SWAIN (LC),2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB538,MANAGEMENT INSIGHTS FROM INDIAN KNOWLEDGE SYSTEM,DR. DECHEN ANGMO (LC),2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB562,OPERATIONS MANAGEMENT,DR. ASHISH BOLLIMBALA (LC),2,,,,Unknown Slot,,,MBA 1st Year,Only for MBA and SOM PhD
+MB570,PRODUCT MANAGEMENT,DR. SAUMYA DIXIT,2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+MB592,MANAGEMENT SCIENCE IN PRACTICE,PROF. ANJAN KUMAR SWAIN (LC),2,,,,Unknown Slot,,,MBA 2nd Year,Only for MBA and SOM PhD
+ME206,MECHANICS OF SOLIDS,DR. RAJESH GHOSH,3,E,A11-1B,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",2,SMME,"B. Tech (MSE) DC Courses, MSE/ME","B. Tech (MSE) DC Courses, MSE/ME"
+ME210,FLUID MECHANICS,DR. PYDI ANIL KISHAN,3,B,A13-2D,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",2,SMME,"B. Tech (ME) and (GE) DC Courses, ME/GE","B. Tech (ME) and (GE) DC Courses, ME/GE"
+ME212,PRODUCT MANUFACTURING TECHNOLOGY,DR. SANASAM SUNDERLAL SINGH,3,C,A11-1A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",2,SMME,"B. Tech (ME) and (GE) DC Courses, ME/GE","B. Tech (ME) and (GE) DC Courses, ME/GE"
+ME213,ENGINEERING THERMODYNAMICS,DR. ATUL DHAR,4,F,A13-2B,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",2,SMME,"B. Tech (ME) and (GE) DC Courses, ME/GE","B. Tech (ME) and (GE) DC Courses, ME/GE"
+ME303P,HEAT TRANSFER LAB,DR. GAJENDRA SINGH,1,,,,Unknown Slot,,,B. Tech (ME) DC Courses,B. Tech (ME) DC Courses
+ME305,DESIGN OF MACHINE ELEMENTS,DR. HIMANSHU PATHAK,4,A,A10-1B,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",3,SMME,"B. Tech (ME) DC Courses, ME","B. Tech (ME) DC Courses, ME"
+ME309,THEORY OF MACHINES,DR. RAJEEV KUMAR,4,F,A10-1B,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",3,SMME,B. Tech (ME) and (GE) DC Courses,B. Tech (ME) and (GE) DC Courses
+ME310,SYSTEM DYNAMICS AND CONTROL,DR. RAJ KIRAN,3,H,A10-1B,North Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",3,SMME,"B. Tech (ME) DC Courses, ME","B. Tech (ME) DC Courses, ME"
+ME311P,DESIGN LAB 1,DR. VISHAL SINGH CHAUHAN,1,,,,Unknown Slot,,,"B. Tech (ME) DC Courses, ME","B. Tech (ME) DC Courses, ME"
+ME315,MANUFACTURING ENGINEERING 2,DR. DEEPAK DEELIP PATIL,3,B,A10-1B,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",3,SMME,"B. Tech (ME) DC Courses, ME","B. Tech (ME) DC Courses, ME"
+ME396,SEMESTER INTERNSHIP,DR. PRADEEP KUMAR,6,,,,Unknown Slot,,,Btech ME students,
+ME399,SEMESTER INTERNSHIP,DR. PRADEEP KUMAR,9,,,,Unknown Slot,,,Btech ME students,
+ME451,REFRIGERATION AND AIR CONDITIONING,DR. PARMOD KUMAR,3,C,A13-3A,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",4,SMME,DE for SMME 3rd and 4th Btech Students,
+ME498P,MAJOR TECHNICAL PROJECT - 1,DR. PRADEEP KUMAR,3,,,,Unknown Slot,,,"4th Year, B.Tech ME",
+ME509,NANOMANUFACTURING,DR. NEHA SHUKLA,3,E,SC-NKN,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME511,MANUFACTURING OF COMPOSITES,DR. SUNNY ZAFAR,3,F,A1-3,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME515,CARBON MATERIALS AND TECHNOLOGY,DR. SWATI SHARMA,3,H,A5-3,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME517,ADVANCED ANALYTICAL TECHNIQUES FOR ENGINEERS,DR. SHASHWAT BHATTACHARYA,4,C,SC-NKN,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME523,PRODUCT DESIGN,DR. PRATEEK SAXENA,3,,,,Unknown Slot,,,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME526,PROGRAMMING PARADIGM FOR OPEN-SOURCE CODES,DR. SHASHWAT BHATTACHARYA,1,A,CL-4,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME530,CONTINUUM MECHANICS,DR. GAURAV BHUTANI,3,,,,Unknown Slot,,,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME601,ADVANCED FINITE ELEMENT METHODS,DR. VISHAL SINGH CHAUHAN,3,B,CL-4,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",6,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME603,ADVANCED FLUID DYNAMICS,DR. PRADEEP KUMAR,3,,,,Unknown Slot,,,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME615,APPLIED COMPUTATIONAL FLUID DYNAMICS,DR. GAURAV BHUTANI,3,G,SC-NKN,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",6,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+ME620,MODELLING AND SIMULATION,DR. MOHAMMAD TALHA,3,E,A5-2,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",6,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+MT201,PHYSICS OF SOLIDS,DR. VISWANATH BALAKRISHNAN,3,A,A17-1D,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",2,SMME,"B. Tech (MSE) DC Courses, MSE","B. Tech (MSE) DC Courses, MSE"
+MT202,APPLIED QUANTUM MECHANICS,DR. SUDHIR KUMAR PANDEY,3,C,A13-2D,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",2,SMME,"B. Tech (MSE) DC Courses, MSE","B. Tech (MSE) DC Courses, MSE"
+MT203,MATERIALS SYNTHESIS AND CHARACTERIZATION,DR. RIK RANI KONER,4,B,A13-2C,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",2,SMME,"B. Tech (MSE) DC Courses, MSE","B. Tech (MSE) DC Courses, MSE"
+MT301,PHASE TRANSFORMATIONS,DR. SANDEEP SAHU,3,B,A10-1A,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",3,SMME,"B. Tech (MSE) DC Courses, MSE","B. Tech (MSE) DC Courses, MSE"
+MT302,TRANSPORT PHENOMENA,DR. SARTHAK NAG,3,D,A17-1E,North Campus,"Monday 11:00–11:50am, Wednesday 9:00–9:50am, Thursday 12:00–12:50pm",3,SMME,"B. Tech (MSE) DC Courses, MSE","B. Tech (MSE) DC Courses, MSE"
+MT303,COMPUTATIONAL MATERIALS SCIENCE,DR. DUBE DHEERAJ PRAKASHCHAND,4,E,A10-2C,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",3,SMME,"B. Tech (MSE) DC Courses, MSE","B. Tech (MSE) DC Courses, MSE"
+MT304,MECHANICAL BEHAVIOR OF MATERIALS,DR. SANDEEP SAHU,4,F,A10-2C,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",3,SMME,B. Tech (MSE) DC Courses,B. Tech (MSE) DC Courses
+MT502,RECYCLING AND CIRCULAR ECONOMY,DR. NEHA SHUKLA,3,F,CL-4,South Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+MT503,SEMICONDUCTOR MATERIALS AND DEVICES,DR. RANBIR SINGH,3,G,CL-4,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+MT505,THIN FILM TECHNOLOGY,DR. BUKKE RAVINDRA NAIK,3,C,CL-3,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SMME,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+MT506,BIOMATERIALS,DR. JASPREET KAUR RANDHAWA,A,,,,Unknown Slot,,,DE for SMME Students and Free  Elective for others,DE for SMME Students and Free  Elective for others
+PH001,PREPARATORY PHYSICS-1,DR. RAVINDRA KUMAR YADAV,4,E,A5-3,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",0,SPS,Preparatory students,
+PH301,QUANTUM MECHANICS AND APPLICATION,DR. HARI VARMA R,3,B,A10-2A,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",3,SPS,EP 3 Sem,B. Tech (Engineering Physics) DC Courses
+PH508,MAGNETISM AND MAGNETIC MATERIALS,DR. KAUSTAV MUKHERJEE,3,G,A5-3,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SPS,M.Sc. Any Semester,
+PH511,MATHEMATICAL PHYSICS,DR. KRISHNA MOHAN PARATTU,4,C,A5-2,South Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",5,SPS,M.Sc. 1st year,M. Sc (Physics) DC Courses
+PH512,CLASSICAL MECHANICS,DR. PRASANTH P. JOSE,4,B,CL-1,South Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",5,SPS,M.Sc. 1st year,M. Sc (Physics) DC Courses
+PH513,QUANTUM MECHANICS,DR. AMAL SARKAR,3,E,A5-1,South Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",5,SPS,M.Sc. 1st year,M. Sc (Physics) DC Courses
+PH514,ELECTRONICS,DR. TANUSHREE ROY,3,A,A5-1,South Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",5,SPS,M.Sc. 1st year,M. Sc (Physics) DC Courses
+PH515P,PHYSICS LABORATORY,DR. BINDU RADHAMANY,4,,,,Unknown Slot,,,M.Sc. 1st year,M. Sc (Physics) DC Courses
+PH518P,POST GRADUATE PROJECT -I,DR. ARKO ROY,3,,,,Unknown Slot,,,MSc Physics,DC Core for MSc Physics
+PH525P,ELECTRONICS LAB. PRACT.,DR. BINDU RADHAMANY,3,,,,Unknown Slot,,,EP 5 Sem,B. Tech (Engineering Physics) DC Courses
+PH528,INTRODUCTION TO GENERAL RELATIVITY,DR. RAHUL KUMAR KOTHARI,3,G,A5-2,South Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",5,SPS,M.Sc. Any Semester,
+PH600,RESEARCH METHODOLOGY,DR. ARTI KASHYAP,1,,,,Unknown Slot,,,Core for PhD all semester,
+PH601,MESOSCOPIC PHYSICS AND QUANTUM TRANSPORT,DR. AJAY SONI,3,,,,Unknown Slot,,,M.Sc. Any Semester,
+PH603,ADVANCED CONDENSED MATTER PHYSICS,DR. CHADR SHEKHAR YADAV,3,,,,Unknown Slot,,,M.Sc. Any Semester,
+PH613,SPE. TOPICS. IN QM,DR. NIRMALYA KAJURI,3,H,A1-NKN,South Campus,"Tuesday 10:00–10:50am, Wednesday 12:00–12:50pm, Friday 9:00–9:50am",6,SPS,Msc 2nd year,M. Sc (Physics) DC Courses
+PH626,ELEMENTARY THEORETICAL PARTICLE PHYSICS,DR. PRABHAKAR PALNI,3,,,,Unknown Slot,,,M.Sc. Any Semester,
+QS501P,EXPERIMENTS IN QUANTUM OPTICS,DR. AMIT DATTATRAYA LAD,3,,,,Unknown Slot,,,For the B.Tech Students who wish to opt for Specialization and Minor,
+QT301,SURVEY OF QUANTUM TECHNOLOGIES AND APPLICATIONS,DR. VAIBHAV GUPTA,3,,,,Unknown Slot,,,For the B.Tech Students who wish to opt for Specialization and Minor,
+SC600,RESEARCH METHODOLOGY,DR. SRIKANTH SUGAVANAM,1,,,,Unknown Slot,,,For all M. Tech. R and PhD Scholars,
+VL312,ELECTRONIC SYSTEM PACKAGING,DR. ROBIN  KHOSLA,3,G,A17-1C,North Campus,"Tuesday 9:00–9:50am, Thursday 8:00–8:50am, Friday 10:00–10:50am",3,SCEE,"3rd Year, sem-5",
+VL401,RTL DESIGN AND VERIFICATION,DR. BIKRAM PAUL,3,A,A17-1C,North Campus,"Monday 8:00–8:50am, Tuesday 11:00–11:50am, Thursday 9:00–9:50am, Friday 12:00–12:50pm",4,SCEE,"3rd Year, sem-5",B. Tech (VLSI) DC Courses
+VL402,RFIC DESIGN,DR. ANIMESH BISWAS,3,B,A17-1C,North Campus,"Monday 9:00–9:50am, Tuesday 12:00–12:50pm, Thursday 10:00–10:50am, Wednesday 5:00–5:50pm",4,SCEE,"3rd Year, sem-5",
+VL403,CMOS DIGITAL IC DESIGN,DR. RAHUL SHRESTHA,4,F,A17-1C,North Campus,"Monday 5:00–5:50pm, Tuesday 8:00–8:50am, Wednesday 10:00–10:50am, Friday 11:00–11:50am",4,SCEE,"3rd Year, sem-5",
+VL404,CMOS ANALOG IC DESIGN,DR. HITESHBHAI KANTILAL SHRIMALI,4,C,A17-1C,North Campus,"Monday 10:00–10:50am, Tuesday 5:00–5:50pm, Wednesday 8:00–8:50am, Thursday 11:00–11:50am",4,SCEE,"3rd Year, sem-5",
+VL405,DESIGN FOR TESTABILITY,DR. SHUBHAJIT ROY CHOWDHURY,4,E,A17-1C,North Campus,"Monday 12:00–12:50pm, Wednesday 11:00–11:50am, Friday 9:00–9:50am",4,SCEE,"3rd Year, sem-5",

@@ -186,9 +186,8 @@ def fuzzy_search_contact_by_name(search_name: str, threshold=0.7, limit=3):
 
             results = []
             search_name = search_name.strip()
-            search_parts = search_name.split()
-            search_initials = ''.join(word[0] for word in search_parts if word)
-            search_variants = search_parts + [search_initials]
+
+
 
             for row in rows:
                 row_dict = dict(row)
