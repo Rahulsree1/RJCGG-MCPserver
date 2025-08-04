@@ -30,7 +30,10 @@ def get_course_by_name_fuzzy(courseName: str):
           - Timings of course and Other Metadata
     """
 
-    return courses_dao.fuzzy_search_courses_by_field('course_name', courseName, 0.5, 3)
+    retrivedData = courses_dao.fuzzy_search_courses_by_field('course_name', courseName, 0.5, 3)
+
+    return "No data has been found for given course name" if len(retrivedData) == 0  else retrivedData
+
 
 
 @mcp.tool()
@@ -52,7 +55,10 @@ def get_course_by_code(course_code: str):
 
     """
 
-    return courses_dao.search_course_by_flexible_code(course_code.strip())
+    retrivedData = courses_dao.search_course_by_flexible_code(course_code.strip())
+
+    return "No data has been found for given course code" if len(retrivedData) == 0  else retrivedData
+
 
 
 @mcp.tool()
@@ -75,7 +81,10 @@ def get_course_by_instructure_name(name: str):
 
     """
 
-    return courses_dao.search_course_by_flexible_code(name.strip())
+    retrivedData = courses_dao.search_course_by_flexible_code(name.strip())
+
+    return "No data has been found for given instructor name" if len(retrivedData) == 0  else retrivedData
+
 
 
 # @mcp.tool()
